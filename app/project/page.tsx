@@ -3,6 +3,7 @@ import Image from "next/image";
 import { BarChart3, Brain, Droplets, Leaf, Microscope, Sprout } from "lucide-react";
 import { SectionHeader } from "@/components/SectionHeader";
 import { projectSections } from "@/content/project";
+import { getAssetPath } from "@/utils/path";
 
 export const metadata: Metadata = {
   title: "Project",
@@ -62,7 +63,7 @@ export default function ProjectPage() {
 
           <div className="relative overflow-hidden rounded-lg border border-cotton-200 bg-cotton-50 shadow-soft">
             <Image
-              src="/images/cotton-field-research-real.png"
+              src={getAssetPath("/images/cotton-field-research-real.png")}
               width={900}
               height={640}
               alt="Cotton research field"

@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useEffect, useState } from "react";
+import { getAssetPath } from "@/utils/path";
 
 type CarouselSlide = {
   image: string;
@@ -52,7 +53,7 @@ export function BannerCarousel() {
       {slides.map((slide, index) => (
         <Image
           key={slide.image}
-          src={slide.image}
+          src={getAssetPath(slide.image)}
           alt={slide.alt}
           fill
           priority={index === 0}

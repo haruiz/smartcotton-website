@@ -2,6 +2,7 @@ import Image from "next/image";
 import { clsx } from "clsx";
 import { ExternalLink } from "lucide-react";
 import type { TeamMember } from "@/content/team";
+import { getAssetPath } from "@/utils/path";
 
 type TeamMemberCardProps = {
   member: TeamMember;
@@ -17,7 +18,7 @@ export function TeamMemberCard({ member, featured = false }: TeamMemberCardProps
       )}
     >
       <Image
-        src={member.picture}
+        src={getAssetPath(member.picture)}
         width={320}
         height={240}
         alt={`Portrait of ${member.name}`}

@@ -4,6 +4,7 @@ import { ChevronLeft, ChevronRight, ExternalLink } from "lucide-react";
 import Image from "next/image";
 import { useMemo, useState } from "react";
 import type { TeamMember } from "@/content/team";
+import { getAssetPath } from "@/utils/path";
 
 type TeamCarouselProps = {
   members: TeamMember[];
@@ -74,7 +75,7 @@ export function TeamCarousel({ members, itemsPerPage = 6 }: TeamCarouselProps) {
             className="flex min-h-[28rem] flex-col rounded-lg border border-cotton-200 bg-white p-4 text-left shadow-sm transition duration-200 hover:border-cotton-300 hover:shadow-soft"
           >
             <Image
-              src={member.picture}
+              src={getAssetPath(member.picture)}
               width={320}
               height={240}
               alt={`Portrait of ${member.name}`}
