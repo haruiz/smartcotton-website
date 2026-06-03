@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://www.smartcotton.org/sitemap.xml
