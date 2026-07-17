@@ -25,6 +25,7 @@ export const navItems = [
     items: [
       { label: "Research Highlights", href: "/research-highlights" },
       { label: "Ongoing Activities", href: "/ongoing-activities" },
+      { label: "Photo Gallery", href: "/gallery" },
       { label: "Publications", href: "/publications" }
     ]
   },

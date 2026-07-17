@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ArrowRight, Leaf } from "lucide-react";
 import { BannerCarousel } from "@/components/BannerCarousel";
+import { officialProject } from "@/content/projectFeatures";
 
 export function Hero() {
   return (
@@ -17,8 +18,10 @@ export function Hero() {
           </h1>
           <p className="mt-4 text-2xl font-semibold text-cotton-100 sm:text-3xl">Renewing American Cotton</p>
           <p className="mt-6 max-w-3xl text-lg leading-8 text-white/80">
-            A multi-state, multi-institutional project advancing sustainable U.S. cotton production through soil health,
-            regenerative systems, greenhouse gas reduction, input-use efficiency, and AI/ML-enabled precision management.
+            {officialProject.fullTitle}
+          </p>
+          <p className="mt-4 max-w-3xl text-sm font-semibold uppercase tracking-wide text-cotton-100">
+            {officialProject.program} | Award No. {officialProject.awardNumber} | {officialProject.projectPeriod}
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link

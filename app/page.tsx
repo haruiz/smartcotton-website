@@ -1,10 +1,11 @@
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, FileDown } from "lucide-react";
 import { Card } from "@/components/Card";
 import { Hero } from "@/components/Hero";
 import { ProjectNetwork } from "@/components/ProjectNetwork";
 import { SectionHeader } from "@/components/SectionHeader";
 import { events } from "@/content/events";
+import { annualReports, impactSnapshot, officialProject, projectGlanceItems } from "@/content/projectFeatures";
 import { focusAreas } from "@/content/site";
 import { newsItems } from "@/content/news";
 import { researchHighlights } from "@/content/researchHighlights";
@@ -24,6 +25,31 @@ export default function Home() {
               SmartCotton is a USDA-NIFA Sustainable Agriculture Systems Coordinated Agricultural Project focused on
               regenerative practices, soil health, climate-smart management, and precision agriculture.
             </p>
+            <div className="mx-auto mt-8 max-w-4xl rounded-lg border border-cotton-200 bg-cotton-50 p-6 text-left">
+              <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Official project title</p>
+              <h3 className="mt-2 text-xl font-semibold leading-7 text-cotton-900">{officialProject.fullTitle}</h3>
+              <p className="mt-4 text-sm font-medium text-cotton-900/70">
+                {officialProject.program} | Award No. {officialProject.awardNumber} | Project period: {officialProject.projectPeriod}
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-y border-cotton-200 bg-white py-16 md:py-20">
+        <div className="container-page grid gap-10 lg:grid-cols-[0.75fr_1.25fr]">
+          <SectionHeader
+            eyebrow="Project at a Glance"
+            title="Fast facts for collaborators, stakeholders, and visitors"
+            description="The SmartCotton project brings together a multi-state research network to develop precision regenerative practices and market opportunities for climate-smart cotton."
+          />
+          <div className="grid gap-4 sm:grid-cols-2">
+            {projectGlanceItems.map((item) => (
+              <div key={item.label} className="rounded-lg border border-cotton-200 bg-cotton-50 p-5">
+                <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">{item.label}</p>
+                <p className="mt-2 text-base font-semibold text-cotton-900">{item.value}</p>
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -47,6 +73,30 @@ export default function Home() {
 
       <ProjectNetwork />
 
+      <section className="bg-cotton-900 py-16 text-white md:py-20">
+        <div className="container-page">
+          <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-wide text-cotton-200">Impact Snapshot</p>
+              <h2 className="mt-3 max-w-3xl font-serif text-3xl font-semibold leading-tight sm:text-4xl">
+                Early reach across research, outreach, and training.
+              </h2>
+            </div>
+            <p className="max-w-xl text-sm leading-6 text-white/70">
+              Summary numbers can be updated as annual reports and approved project metrics are released.
+            </p>
+          </div>
+          <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+            {impactSnapshot.map((metric) => (
+              <div key={metric.label} className="rounded-lg border border-white/15 bg-white/10 p-5 backdrop-blur">
+                <p className="text-3xl font-semibold text-white">{metric.value}</p>
+                <p className="mt-2 text-sm leading-5 text-white/75">{metric.label}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="bg-white py-24">
         <div className="container-page">
           <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
@@ -62,7 +112,42 @@ export default function Home() {
           </div>
           <div className="mt-10 grid gap-5 md:grid-cols-3">
             {researchHighlights.slice(0, 3).map((highlight) => (
-              <Card key={highlight.title} title={highlight.title} description={highlight.summary} meta={highlight.category} />
+              <Card key={highlight.title} title={highlight.title} description={highlight.summary} meta={highlight.category}>
+                {highlight.update ? <p className="text-sm leading-6 text-cotton-900/65">{highlight.update}</p> : null}
+              </Card>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="border-y border-cotton-200 bg-cotton-50 py-16 md:py-20">
+        <div className="container-page">
+          <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
+            <SectionHeader
+              eyebrow="Annual Progress"
+              title="Project reports and yearly updates"
+              description="Annual report cards provide a public place for approved Year 1 and Year 2 progress summaries and downloadable report files."
+            />
+            <Link href="/publications#annual-reports" className="focus-ring inline-flex items-center gap-2 rounded-md text-sm font-semibold text-skydata-700 underline">
+              View report library
+              <ArrowRight aria-hidden="true" size={16} />
+            </Link>
+          </div>
+          <div className="mt-10 grid gap-5 md:grid-cols-2">
+            {annualReports.map((report) => (
+              <Card key={report.year} title={report.title} description={report.summary} meta={`${report.year} | ${report.period}`}>
+                {report.isAvailable ? (
+                  <Link
+                    href={report.href}
+                    className="focus-ring inline-flex items-center gap-2 rounded-sm text-sm font-semibold text-skydata-700 underline"
+                  >
+                    <FileDown aria-hidden="true" size={16} />
+                    {report.status}
+                  </Link>
+                ) : (
+                  <p className="text-sm font-medium text-cotton-900/70">{report.status}</p>
+                )}
+              </Card>
             ))}
           </div>
         </div>

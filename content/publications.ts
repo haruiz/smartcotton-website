@@ -7,7 +7,7 @@ export type Publication = {
   authors: string;
   venue: string;
   year: string;
-  type: "Journal Article" | "Conference Paper" | "Report" | "Extension Publication";
+  type: "Journal Article" | "Conference Paper" | "Manuscript" | "Report" | "Extension Publication";
   link?: string;
 };
 
@@ -136,6 +136,7 @@ function formatAuthors(authors: string) {
 
 function publicationType(entryType: string): Publication["type"] {
   if (entryType === "inproceedings" || entryType === "conference") return "Conference Paper";
+  if (entryType === "unpublished") return "Manuscript";
   if (entryType === "techreport" || entryType === "report") return "Report";
   if (entryType === "misc" || entryType === "manual") return "Extension Publication";
   return "Journal Article";

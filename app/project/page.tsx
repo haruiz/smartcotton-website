@@ -3,6 +3,7 @@ import Image from "next/image";
 import { BarChart3, Brain, Droplets, Leaf, Microscope, Sprout } from "lucide-react";
 import { SectionHeader } from "@/components/SectionHeader";
 import { projectSections } from "@/content/project";
+import { officialProject, projectGlanceItems, projectObjectives } from "@/content/projectFeatures";
 import { getAssetPath } from "@/utils/path";
 
 export const metadata: Metadata = {
@@ -34,6 +35,7 @@ const researchPillars = [
   { title: "Pest Management", description: "Study pest pressure, weed control, and resilient field practices.", icon: Microscope },
   { title: "Precision Agriculture", description: "Use sensing and data layers to guide management decisions.", icon: Brain },
   { title: "Grower Outcomes", description: "Move research findings toward practical, extension-ready guidance.", icon: Leaf }
+
 ];
 
 export default function ProjectPage() {
@@ -49,6 +51,9 @@ export default function ProjectPage() {
             <p className="mt-6 max-w-3xl text-lg leading-8 text-cotton-900/70">
               SmartCotton tests how regenerative practices, field-scale measurements, and digital technologies can move
               U.S. cotton toward a more resilient, climate-smart, and economically practical production system.
+            </p>
+            <p className="mt-4 max-w-3xl text-base font-semibold leading-7 text-cotton-900">
+              {officialProject.fullTitle}
             </p>
             <div className="mt-8 grid gap-4 sm:grid-cols-3">
               {projectMetrics.map((metric) => (
@@ -107,8 +112,45 @@ export default function ProjectPage() {
       </section>
 
       <section className="bg-white py-16 md:py-20">
+        <div className="container-page grid gap-10 lg:grid-cols-[0.7fr_1.3fr]">
+          <SectionHeader
+            eyebrow="Project at a Glance"
+            title="Award details and project leadership"
+            description="A concise reference for visitors who need the project title, funding program, award number, project period, and leadership information."
+          />
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {projectGlanceItems.map((item) => (
+              <div key={item.label} className="rounded-lg border border-cotton-200 bg-cotton-50 p-5">
+                <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">{item.label}</p>
+                <p className="mt-2 text-base font-semibold leading-6 text-cotton-900">{item.value}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="border-y border-cotton-200 bg-cotton-50 py-16 md:py-20">
         <div className="container-page">
           <div className="grid gap-10 lg:grid-cols-[0.75fr_1.25fr]">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Six SAS Objectives</p>
+              <h2 className="mt-3 font-serif text-3xl font-semibold leading-tight text-cotton-900 sm:text-4xl">
+                A coordinated set of research, economics, and outreach priorities
+              </h2>
+            </div>
+            <div className="grid gap-4 sm:grid-cols-2">
+              {projectObjectives.map((objective, index) => (
+                <div key={objective} className="grid gap-4 rounded-lg border border-cotton-200 bg-white p-5 shadow-sm sm:grid-cols-[4rem_1fr]">
+                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-skydata-700 text-base font-semibold text-white">
+                    {index + 1}
+                  </div>
+                  <p className="self-center text-base leading-7 text-cotton-900/75">{objective}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="mt-16 grid gap-10 lg:grid-cols-[0.75fr_1.25fr]">
             <div>
               <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Research Framework</p>
               <h2 className="mt-3 font-serif text-3xl font-semibold leading-tight text-cotton-900 sm:text-4xl">
@@ -118,7 +160,7 @@ export default function ProjectPage() {
             <div className="grid gap-4">
               {frameworkSteps.map((step, index) => (
                 <div key={step} className="grid gap-4 rounded-lg border border-cotton-200 bg-white p-5 shadow-sm sm:grid-cols-[4rem_1fr]">
-                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-skydata-700 text-base font-semibold text-white">
+                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-cotton-700 text-base font-semibold text-white">
                     {index + 1}
                   </div>
                   <p className="self-center text-base leading-7 text-cotton-900/75">{step}</p>

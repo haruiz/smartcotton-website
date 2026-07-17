@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   }
 };
 
-const filters = ["All", "Soil systems", "Digital agriculture", "Climate impact", "Production resilience"];
+const filters = ["All", "Soil systems", "Digital agriculture", "Regenerative systems", "Adoption pathways"];
 
 export default function ResearchHighlightsPage() {
   return (
@@ -33,7 +33,14 @@ export default function ResearchHighlightsPage() {
         </div>
         <div className="mt-10 grid gap-5 md:grid-cols-2">
           {researchHighlights.map((highlight) => (
-            <Card key={highlight.title} title={highlight.title} description={highlight.summary} meta={highlight.category} />
+            <Card key={highlight.title} title={highlight.title} description={highlight.summary} meta={highlight.category}>
+              {highlight.update ? (
+                <div className="rounded-md bg-cotton-50 p-4">
+                  <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Annual report update focus</p>
+                  <p className="mt-2 text-sm leading-6 text-cotton-900/70">{highlight.update}</p>
+                </div>
+              ) : null}
+            </Card>
           ))}
         </div>
       </div>
