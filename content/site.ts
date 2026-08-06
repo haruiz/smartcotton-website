@@ -46,7 +46,18 @@ export const contact = {
   organization: "Texas A&M AgriLife",
   building: "Heep Center",
   address: "370 Olsen Blvd., College Station, TX 77843",
-  email: "smartcotton@tamu.edu"
+  projectContacts: [
+    {
+      name: "Muthukumar Bagavathiannan",
+      role: "PI/LEAD",
+      email: "muthu.bagavathiannan@tamu.edu"
+    },
+    {
+      name: "Deepak Loura",
+      role: "Project Manager",
+      email: "deepak.loura@agnet.tamu.edu"
+    }
+  ]
 };
 
 export const focusAreas = [

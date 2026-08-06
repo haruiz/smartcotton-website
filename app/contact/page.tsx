@@ -37,10 +37,19 @@ export default function ContactPage() {
             <div className="flex gap-4">
               <Mail className="mt-1 shrink-0 text-cotton-700" aria-hidden="true" />
               <div>
-                <h2 className="text-lg font-semibold text-cotton-900">Project contact</h2>
-                <a className="focus-ring mt-1 inline-block rounded-sm text-sm font-semibold text-skydata-700 underline" href={`mailto:${contact.email}`}>
-                  {contact.email}
-                </a>
+                <h2 className="text-lg font-semibold text-cotton-900">Project contacts</h2>
+                <div className="mt-3 grid gap-4">
+                  {contact.projectContacts.map((person) => (
+                    <div key={person.email}>
+                      <p className="text-sm font-semibold text-cotton-900">
+                        {person.name} <span className="font-medium text-cotton-900/65">({person.role})</span>
+                      </p>
+                      <a className="focus-ring mt-1 inline-block rounded-sm text-sm font-semibold text-skydata-700 underline" href={`mailto:${person.email}`}>
+                        {person.email}
+                      </a>
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
             <div className="rounded-md border border-cotton-200 bg-white p-4 text-sm leading-6 text-cotton-900/70">

@@ -31,10 +31,17 @@ export function Footer() {
               {contact.building}
               <br />
               {contact.address}
-              <br />
-              <a className="focus-ring rounded-sm underline" href={`mailto:${contact.email}`}>
-                {contact.email}
-              </a>
+              <span className="mt-3 block">
+                {contact.projectContacts.map((person) => (
+                  <span key={person.email} className="mt-2 block">
+                    <span className="font-semibold text-cotton-900">{person.name}</span>
+                    <span className="block text-cotton-900/65">{person.role}</span>
+                    <a className="focus-ring rounded-sm underline" href={`mailto:${person.email}`}>
+                      {person.email}
+                    </a>
+                  </span>
+                ))}
+              </span>
             </address>
           </div>
           <div>
