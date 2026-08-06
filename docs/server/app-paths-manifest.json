@@ -1,8 +1,0 @@
-{
-  "/gallery/page": "app/gallery/page.js",
-  "/project/page": "app/project/page.js",
-  "/research-highlights/page": "app/research-highlights/page.js",
-  "/publications/page": "app/publications/page.js",
-  "/page": "app/page.js",
-  "/ongoing-activities/page": "app/ongoing-activities/page.js"
-}

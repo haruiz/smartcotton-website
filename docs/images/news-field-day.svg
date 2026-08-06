@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">SmartCotton news placeholder</title>
+  <desc id="desc">Illustrated cotton field day with research notes and field rows.</desc>
+  <rect width="720" height="420" fill="#f8faf5"/>
+  <rect y="262" width="720" height="158" fill="#5d3a22"/>
+  <path d="M0 258c90-36 179-43 268-20 97 25 164 16 238-15 75-32 145-29 214 7v57H0z" fill="#c4d7b3"/>
+  <rect x="70" y="58" width="190" height="128" rx="10" fill="#fff" stroke="#dce8d1" stroke-width="4"/>
+  <path d="M102 96h126M102 130h92M102 158h116" stroke="#435f32" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#fff">
+    <circle cx="520" cy="112" r="28"/><circle cx="486" cy="132" r="25"/><circle cx="554" cy="134" r="25"/><circle cx="519" cy="160" r="22"/>
+  </g>
+  <path d="M76 384c95-67 183-112 264-134M247 405c84-69 174-118 296-158M448 415c44-64 98-110 190-145" stroke="#d7b98f" stroke-width="8" stroke-linecap="round"/>
+</svg>

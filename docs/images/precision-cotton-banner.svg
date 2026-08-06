@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Precision cotton banner placeholder</title>
+  <desc id="desc">Cotton rows with a precision agriculture dashboard and sensor grid.</desc>
+  <rect width="1200" height="720" fill="#dce8d1"/>
+  <rect y="432" width="1200" height="288" fill="#5d3a22"/>
+  <path d="M0 414c145-58 275-65 414-31 129 32 255 12 398-39 144-52 273-41 388 27v99H0z" fill="#6f8f55"/>
+  <path d="M98 685c142-114 285-199 430-256M328 720c116-130 253-230 444-314M642 720c76-121 178-217 352-292" stroke="#d7b98f" stroke-width="14" stroke-linecap="round"/>
+  <rect x="690" y="94" width="330" height="206" rx="18" fill="#f8faf5" opacity=".95"/>
+  <rect x="725" y="132" width="120" height="22" rx="11" fill="#2f7da1"/>
+  <rect x="725" y="178" width="238" height="12" rx="6" fill="#c4d7b3"/>
+  <rect x="725" y="214" width="190" height="12" rx="6" fill="#c4d7b3"/>
+  <path d="M736 267c34-37 69-45 104-24 36 22 66 7 91-45" fill="none" stroke="#2f7da1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M104 168h430M104 230h512M104 292h398" stroke="#2f7da1" stroke-width="4" stroke-dasharray="12 16" opacity=".65"/>
+  <g fill="#fff">
+    <circle cx="248" cy="214" r="32"/><circle cx="204" cy="238" r="28"/><circle cx="291" cy="242" r="29"/><circle cx="245" cy="274" r="25"/>
+  </g>
+</svg>
