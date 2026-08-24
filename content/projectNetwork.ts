@@ -11,16 +11,68 @@ export type NetworkPartner = {
   logoUrl: string;
 };
 
+export type PartnerInstitution = {
+  stateCode: string;
+  name: string;
+  website: string;
+  logoUrl: string;
+};
+
 export const climateZones = [
   { name: "Arid", color: "#eaa04c" },
   { name: "Semi-arid", color: "#e8cf7d" },
   { name: "Subhumid", color: "#9fb38f" },
   { name: "Moist-subhumid", color: "#72b9ad" },
   { name: "Humid south", color: "#255f9e" },
-  { name: "Humid southeast", color: "#3aa06b" }
+  { name: "Humid southeast", color: "#3aa06b" },
+  { name: "National partner", color: "#8a5a36" }
 ];
 
-// TODO: Replace with approved partner names, exact sites, and official role labels.
+export const featuredPartnerInstitutions: PartnerInstitution[] = [
+  {
+    stateCode: "TX",
+    name: "Texas A&M University",
+    website: "https://www.tamu.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.tamu.edu&sz=64"
+  },
+  {
+    stateCode: "AL",
+    name: "Auburn University",
+    website: "https://www.auburn.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.auburn.edu&sz=64"
+  },
+  {
+    stateCode: "GA",
+    name: "University of Georgia",
+    website: "https://www.uga.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.uga.edu&sz=64"
+  },
+  {
+    stateCode: "NC",
+    name: "North Carolina State University",
+    website: "https://www.ncsu.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.ncsu.edu&sz=64"
+  },
+  {
+    stateCode: "NM",
+    name: "New Mexico State University",
+    website: "https://www.nmsu.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.nmsu.edu&sz=64"
+  },
+  {
+    stateCode: "MS",
+    name: "Mississippi State University",
+    website: "https://www.msstate.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.msstate.edu&sz=64"
+  },
+  {
+    stateCode: "AZ",
+    name: "University of Arizona",
+    website: "https://www.arizona.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.arizona.edu&sz=64"
+  }
+];
+
 export const networkPartners: NetworkPartner[] = [
   {
     name: "Texas A&M University",
@@ -51,6 +103,16 @@ export const networkPartners: NetworkPartner[] = [
     latitude: 30.09,
     website: "https://www.pvamu.edu/",
     logoUrl: "https://www.google.com/s2/favicons?domain=www.pvamu.edu&sz=64"
+  },
+  {
+    name: "Texas Tech University",
+    location: "Lubbock, TX",
+    climateZone: "Semi-arid",
+    roles: ["Research", "Outreach", "Extension"],
+    longitude: -101.87,
+    latitude: 33.58,
+    website: "https://www.ttu.edu/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=www.ttu.edu&sz=64"
   },
   {
     name: "New Mexico State University",
@@ -133,8 +195,8 @@ export const networkPartners: NetworkPartner[] = [
     logoUrl: "https://www.google.com/s2/favicons?domain=www.agricenter.org&sz=64"
   },
   {
-    name: "The Farm Journal / Trust In Food",
-    location: "Kansas",
+    name: "Trust In Food / Farm Journal",
+    location: "National outreach partner",
     climateZone: "National partner",
     roles: ["Research", "Outreach"],
     longitude: -98.49,
@@ -143,8 +205,18 @@ export const networkPartners: NetworkPartner[] = [
     logoUrl: "https://www.google.com/s2/favicons?domain=www.trustinfood.com&sz=64"
   },
   {
-    name: "GaiaDhi Earth Enterprises, Inc.",
-    location: "California",
+    name: "Soil Health Institute",
+    location: "Soil health and adoption collaborator",
+    climateZone: "National partner",
+    roles: ["Research", "Outreach"],
+    longitude: -78.83,
+    latitude: 35.84,
+    website: "https://soilhealthinstitute.org/",
+    logoUrl: "https://www.google.com/s2/favicons?domain=soilhealthinstitute.org&sz=64"
+  },
+  {
+    name: "GaiaDhi AgTech",
+    location: "Simulation modeling collaborator",
     climateZone: "National partner",
     roles: ["Research", "Outreach"],
     longitude: -121.89,

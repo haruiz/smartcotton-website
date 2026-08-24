@@ -13,15 +13,42 @@ export function Hero() {
             <Leaf aria-hidden="true" size={16} />
             USDA-NIFA SAS-CAP research partnership
           </p>
-          <h1 className="mt-6 max-w-4xl font-serif text-5xl font-semibold leading-tight sm:text-6xl lg:text-7xl">
+          <h1 className="mt-6 max-w-4xl break-words font-serif text-4xl font-semibold leading-tight sm:text-6xl lg:text-7xl">
             SmartCotton
           </h1>
           <p className="mt-4 text-2xl font-semibold text-cotton-100 sm:text-3xl">Renewing American Cotton</p>
-          <p className="mt-6 max-w-3xl text-lg leading-8 text-white/80">
+          <p className="mt-6 max-w-3xl break-words text-lg leading-8 text-white/80">
             {officialProject.fullTitle}
           </p>
-          <p className="mt-4 max-w-3xl text-sm font-semibold uppercase tracking-wide text-cotton-100">
+          <p className="mt-4 max-w-3xl break-words text-sm font-semibold uppercase tracking-wide text-cotton-100">
             {officialProject.program} | Award No. {officialProject.awardNumber} | {officialProject.projectPeriod}
+          </p>
+          <p className="mt-3 flex max-w-3xl flex-wrap gap-x-2 gap-y-1 text-sm font-medium text-white/75">
+            <span>Lead institution: {officialProject.leadInstitution}</span>
+            <span aria-hidden="true">|</span>
+            <span>
+              PI/Lead:{" "}
+              <a
+                href={officialProject.principalInvestigatorProfileUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="focus-ring rounded-sm text-white underline decoration-white/45 underline-offset-4 hover:text-cotton-100"
+              >
+                Dr. Muthukumar Bagavathiannan
+              </a>
+            </span>
+            <span aria-hidden="true">|</span>
+            <span>
+              Project Manager:{" "}
+              <a
+                href={officialProject.projectManagerProfileUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="focus-ring rounded-sm text-white underline decoration-white/45 underline-offset-4 hover:text-cotton-100"
+              >
+                {officialProject.projectManager}
+              </a>
+            </span>
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link

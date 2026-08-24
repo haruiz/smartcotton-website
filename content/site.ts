@@ -44,8 +44,9 @@ export const flatNavItems: readonly NavLink[] = navItems.flatMap((item): NavLink
 
 export const contact = {
   organization: "Texas A&M AgriLife",
-  building: "Heep Center",
-  address: "370 Olsen Blvd., College Station, TX 77843",
+  building: "Soil and Crop Sciences, Heep Center",
+  address: "370 Olsen Blvd., College Station, TX 77843, TAMU-2474",
+  footerEmail: "deepak.loura@agnet.tamu.edu",
   projectContacts: [
     {
       name: "Muthukumar Bagavathiannan",
@@ -61,10 +62,10 @@ export const contact = {
 };
 
 export const focusAreas = [
-  "Soil health and carbon sequestration",
-  "Regenerative production practices",
-  "Greenhouse gas reduction",
-  "Input-use efficiency",
-  "AI/ML-enabled precision agriculture",
-  "Pest, nutrient, and water management"
+  "Soil organic carbon and carbon-intensity baselines",
+  "Reduced tillage, cover crops, living mulches, and soil health",
+  "AMF, microbiome, pathobiome, and cotton root traits",
+  "UAS, sensors, satellite data, and AI/ML-ready datasets",
+  "Economics, risk, insurance, and market opportunities",
+  "Farmer adoption, Extension, education, and rural workforce development"
 ];

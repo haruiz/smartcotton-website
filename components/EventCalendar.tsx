@@ -56,9 +56,9 @@ function sortCalendarEvents(a: CalendarEvent, b: CalendarEvent) {
 
 function EventDetail({ event }: { event: CalendarEvent }) {
   return (
-    <article className="rounded-lg border border-cotton-200 bg-white p-5 shadow-sm">
+    <article className="surface-card p-5">
       <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wide">
-        <span className="rounded-full bg-cotton-100 px-2.5 py-1 text-cotton-800">{event.category}</span>
+        <span className="chip bg-cotton-100">{event.category}</span>
         <span className="text-soil-700">{event.status}</span>
       </div>
       <h3 className="mt-3 text-lg font-semibold leading-7 text-cotton-900">{event.title}</h3>
@@ -106,7 +106,7 @@ export function EventCalendar({ events }: { events: EventItem[] }) {
           const monthOnlyEvents = monthEvents.filter((event) => !event.calendarDay);
 
           return (
-            <section key={monthKey} className="rounded-lg border border-cotton-200 bg-white shadow-sm">
+            <section key={monthKey} className="surface-card overflow-hidden">
               <div className="flex flex-col gap-3 border-b border-cotton-200 p-5 sm:flex-row sm:items-center sm:justify-between">
                 <h2 className="font-serif text-2xl font-semibold text-cotton-900">{monthFormatter.format(monthDate)}</h2>
                 <p className="text-sm font-medium text-cotton-900/65">
@@ -161,8 +161,8 @@ export function EventCalendar({ events }: { events: EventItem[] }) {
         })}
       </div>
 
-      <aside className="h-fit rounded-lg border border-cotton-200 bg-white p-5 shadow-sm xl:sticky xl:top-24">
-        <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Agenda</p>
+      <aside className="surface-card h-fit p-5 xl:sticky xl:top-24">
+        <p className="eyebrow">Agenda</p>
         <h2 className="mt-2 text-2xl font-semibold text-cotton-900">Upcoming Events</h2>
         <div className="mt-5 grid gap-4">
           {(upcomingEvents.length ? upcomingEvents : calendarEvents).map((event) => (

@@ -10,10 +10,12 @@ type TeamMemberCardProps = {
 };
 
 export function TeamMemberCard({ member, featured = false }: TeamMemberCardProps) {
+  const hasPortrait = member.picture !== "/images/team-placeholder.svg";
+
   return (
     <article
       className={clsx(
-        "h-full rounded-lg border border-cotton-200 bg-white p-5 shadow-sm transition duration-200 hover:border-cotton-300 hover:shadow-soft",
+        "surface-card h-full p-5",
         featured && "bg-white"
       )}
     >
@@ -22,18 +24,31 @@ export function TeamMemberCard({ member, featured = false }: TeamMemberCardProps
         width={320}
         height={240}
         alt={`Portrait of ${member.name}`}
-        className={clsx("w-full rounded-md bg-cotton-50 object-contain", featured ? "aspect-[16/10]" : "aspect-[4/3]")}
+        className={clsx(
+          "w-full rounded-md border border-cotton-200 bg-cotton-50",
+          featured ? "aspect-[16/10]" : "aspect-[4/3]",
+          hasPortrait ? "object-cover" : "object-contain p-6"
+        )}
       />
       <p className="mt-4 text-sm font-semibold uppercase tracking-wide text-cotton-700">{member.institution}</p>
       <h3 className={clsx("mt-1 font-semibold text-cotton-900", featured ? "text-2xl" : "text-lg")}>{member.name}</h3>
       <p className="mt-1 text-sm text-cotton-900/70">{member.position}</p>
-      {member.bio ? <p className="mt-3 text-sm leading-6 text-cotton-900/70">{member.bio}</p> : null}
+      {member.bio ? (
+        featured ? (
+          <p className="mt-3 text-sm leading-6 text-cotton-900/70">{member.bio}</p>
+        ) : (
+          <details className="mt-3 rounded-md border border-cotton-200 bg-cotton-50 p-3">
+            <summary className="cursor-pointer text-sm font-semibold text-cotton-900">Bio</summary>
+            <p className="mt-2 text-sm leading-6 text-cotton-900/70">{member.bio}</p>
+          </details>
+        )
+      ) : null}
       {member.profileLink ? (
         <a
           href={member.profileLink}
           target="_blank"
           rel="noreferrer"
-          className="focus-ring mt-5 inline-flex w-fit items-center gap-2 rounded-md border border-cotton-300 px-3 py-2 text-sm font-semibold text-cotton-900 transition hover:bg-cotton-100"
+          className="btn-secondary mt-5 w-fit px-3 py-2"
         >
           Profile
           <ExternalLink aria-hidden="true" size={15} />

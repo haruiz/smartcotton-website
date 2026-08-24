@@ -1,72 +1,52 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { BarChart3, Brain, Droplets, Leaf, Microscope, Sprout } from "lucide-react";
+import { BarChart3, Brain, GraduationCap, Handshake, Leaf, MessageSquareText } from "lucide-react";
 import { SectionHeader } from "@/components/SectionHeader";
-import { projectSections } from "@/content/project";
+import { annualProgress } from "@/content/annualProgress";
 import { officialProject, projectGlanceItems, projectObjectives } from "@/content/projectFeatures";
 import { getAssetPath } from "@/utils/path";
 
 export const metadata: Metadata = {
   title: "Project",
   description:
-    "Learn how SmartCotton integrates field trials, soil health research, emissions measurement, precision agriculture, and extension to advance climate-smart cotton production.",
+    "Learn how SmartCotton, USDA-NIFA SAS-CAP award 2024-68012-41750, develops regenerative cotton practices, AI/ML technologies, economic analysis, adoption research, Extension, and workforce training.",
   openGraph: {
     title: "Project | SmartCotton",
-    description: "SmartCotton connects research, technology, and outreach to support resilient and climate-smart cotton systems."
+    description: "SmartCotton connects regenerative cotton research, precision technology, economics, adoption, Extension, and education across the Cotton Belt."
   }
 };
 
-const projectMetrics = [
-  { label: "Research scope", value: "SAS-CAP", detail: "USDA-NIFA coordinated agricultural project" },
-  { label: "Production focus", value: "Cotton Belt", detail: "Climate-smart systems across major cotton regions" },
-  { label: "Core approach", value: "Field + Data", detail: "Integrated trials, measurements, analytics, and extension" }
-];
-
-const frameworkSteps = [
-  "Evaluate regenerative management in production-scale field systems.",
-  "Measure soil health, greenhouse gas, pest, nutrient, and water outcomes.",
-  "Translate results into decision support for practical cotton management."
-];
-
-const researchPillars = [
-  { title: "Soil Health", description: "Track carbon, biology, structure, and long-term soil function.", icon: Sprout },
-  { title: "Climate Metrics", description: "Measure greenhouse gas emissions and sequestration potential.", icon: BarChart3 },
-  { title: "Water Stewardship", description: "Connect irrigation, rainfall, and crop response in cotton systems.", icon: Droplets },
-  { title: "Pest Management", description: "Study pest pressure, weed control, and resilient field practices.", icon: Microscope },
-  { title: "Precision Agriculture", description: "Use sensing and data layers to guide management decisions.", icon: Brain },
-  { title: "Grower Outcomes", description: "Move research findings toward practical, extension-ready guidance.", icon: Leaf }
-
-];
+const objectiveIcons = [Leaf, Brain, BarChart3, MessageSquareText, Handshake, GraduationCap];
+const yearTwo = annualProgress.find((progress) => progress.year === "Year 2");
 
 export default function ProjectPage() {
   return (
     <>
-      <section className="bg-white py-16 md:py-20">
+      <section className="section-band">
         <div className="container-page grid gap-12 lg:grid-cols-[1fr_0.9fr] lg:items-center">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Project</p>
-            <h1 className="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-cotton-900 sm:text-5xl">
-              A coordinated framework for renewing American cotton.
+            <p className="eyebrow">Project</p>
+            <h1 className="heading-display mt-3 max-w-4xl text-4xl sm:text-5xl">
+              Precision regenerative cotton for the U.S. Cotton Belt.
             </h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-cotton-900/70">
-              SmartCotton tests how regenerative practices, field-scale measurements, and digital technologies can move
-              U.S. cotton toward a more resilient, climate-smart, and economically practical production system.
+              SmartCotton brings field research, digital agriculture, economics, Extension, and training into one coordinated
+              project.
             </p>
             <p className="mt-4 max-w-3xl text-base font-semibold leading-7 text-cotton-900">
               {officialProject.fullTitle}
             </p>
-            <div className="mt-8 grid gap-4 sm:grid-cols-3">
-              {projectMetrics.map((metric) => (
-                <div key={metric.label} className="border-l-2 border-cotton-300 pl-4">
-                  <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">{metric.label}</p>
-                  <p className="mt-2 text-2xl font-semibold text-cotton-900">{metric.value}</p>
-                  <p className="mt-1 text-sm leading-5 text-cotton-900/65">{metric.detail}</p>
+            <div className="mt-8 grid gap-4 sm:grid-cols-2">
+              {projectGlanceItems.slice(0, 6).map((item) => (
+                <div key={item.label} className="surface-card p-4">
+                  <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">{item.label}</p>
+                  <p className="mt-2 text-base font-semibold leading-6 text-cotton-900">{item.value}</p>
                 </div>
               ))}
             </div>
           </div>
 
-          <div className="relative overflow-hidden rounded-lg border border-cotton-200 bg-cotton-50 shadow-soft">
+          <div className="image-frame relative">
             <Image
               src={getAssetPath("/images/cotton-field-research-real.png")}
               width={900}
@@ -76,121 +56,103 @@ export default function ProjectPage() {
               priority
             />
             <div className="border-t border-cotton-200 bg-white p-5">
-              <p className="text-sm font-semibold uppercase tracking-wide text-skydata-700">Research hypothesis</p>
+              <p className="text-sm font-semibold uppercase tracking-wide text-skydata-700">Research scope</p>
               <p className="mt-2 text-base leading-7 text-cotton-900">
-                Regenerative management and precision tools can improve soil stewardship while supporting reliable cotton
-                production.
+                Year 2 progress names work across {officialProject.implementationStates.join(", ")}.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      <section className="border-y border-cotton-200 bg-cotton-50 py-16 md:py-20">
-        <div className="container-page grid gap-10 lg:grid-cols-[0.8fr_1.2fr]">
-          <SectionHeader
-            eyebrow="Program Structure"
-            title="Research organized around practical production decisions"
-            description="The project connects field experiments, environmental measurements, analytics, and outreach so findings can move from research plots into grower-facing recommendations."
-          />
-          <div className="grid gap-4 sm:grid-cols-2">
-            {researchPillars.map((pillar) => {
-              const Icon = pillar.icon;
-
-              return (
-                <article key={pillar.title} className="rounded-lg border border-cotton-200 bg-white p-5 shadow-sm">
-                  <div className="flex h-10 w-10 items-center justify-center rounded-md bg-cotton-100 text-cotton-700">
-                    <Icon aria-hidden="true" size={20} />
-                  </div>
-                  <h2 className="mt-4 text-lg font-semibold text-cotton-900">{pillar.title}</h2>
-                  <p className="mt-2 text-sm leading-6 text-cotton-900/70">{pillar.description}</p>
-                </article>
-              );
-            })}
-          </div>
-        </div>
-      </section>
-
-      <section className="bg-white py-16 md:py-20">
-        <div className="container-page grid gap-10 lg:grid-cols-[0.7fr_1.3fr]">
-          <SectionHeader
-            eyebrow="Project at a Glance"
-            title="Award details and project leadership"
-            description="A concise reference for visitors who need the project title, funding program, award number, project period, and leadership information."
-          />
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {projectGlanceItems.map((item) => (
-              <div key={item.label} className="rounded-lg border border-cotton-200 bg-cotton-50 p-5">
-                <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">{item.label}</p>
-                <p className="mt-2 text-base font-semibold leading-6 text-cotton-900">{item.value}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="border-y border-cotton-200 bg-cotton-50 py-16 md:py-20">
+      <section className="section-band-muted">
         <div className="container-page">
-          <div className="grid gap-10 lg:grid-cols-[0.75fr_1.25fr]">
-            <div>
-              <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Six SAS Objectives</p>
-              <h2 className="mt-3 font-serif text-3xl font-semibold leading-tight text-cotton-900 sm:text-4xl">
-                A coordinated set of research, economics, and outreach priorities
-              </h2>
-            </div>
-            <div className="grid gap-4 sm:grid-cols-2">
-              {projectObjectives.map((objective, index) => (
-                <div key={objective} className="grid gap-4 rounded-lg border border-cotton-200 bg-white p-5 shadow-sm sm:grid-cols-[4rem_1fr]">
-                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-skydata-700 text-base font-semibold text-white">
-                    {index + 1}
-                  </div>
-                  <p className="self-center text-base leading-7 text-cotton-900/75">{objective}</p>
-                </div>
-              ))}
-            </div>
-          </div>
+          <div className="grid gap-10 lg:grid-cols-[0.72fr_1.28fr]">
+            <SectionHeader
+              eyebrow="Six Official Objectives"
+              title="A practical research roadmap"
+              description="Each objective has a clear job: measure, model, analyze, engage, extend, or train."
+            />
+            <div className="grid gap-5">
+              {projectObjectives.map((objective, index) => {
+                const Icon = objectiveIcons[index] ?? Leaf;
 
-          <div className="mt-16 grid gap-10 lg:grid-cols-[0.75fr_1.25fr]">
-            <div>
-              <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Research Framework</p>
-              <h2 className="mt-3 font-serif text-3xl font-semibold leading-tight text-cotton-900 sm:text-4xl">
-                From field evidence to climate-smart recommendations
-              </h2>
+                return (
+                  <article key={objective.number} className="surface-card p-6">
+                    <div className="flex flex-col gap-4 sm:flex-row">
+                      <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-cotton-900 text-white">
+                        <Icon aria-hidden="true" size={21} />
+                      </div>
+                      <div>
+                        <p className="text-sm font-semibold uppercase tracking-wide text-skydata-700">Objective {objective.number}</p>
+                        <h2 className="mt-2 text-xl font-semibold leading-7 text-cotton-900">{objective.title}</h2>
+                        <p className="mt-3 text-sm leading-6 text-cotton-900/70">{objective.summary}</p>
+                        <details className="mt-4 rounded-md border border-cotton-200 bg-cotton-50 p-4">
+                          <summary className="cursor-pointer text-sm font-semibold text-cotton-900">Objective details</summary>
+                          <ul className="mt-3 grid gap-2 text-sm leading-6 text-cotton-900/70">
+                            {objective.details.map((detail) => (
+                              <li key={detail} className="border-l-2 border-cotton-200 pl-3">
+                                {detail}
+                              </li>
+                            ))}
+                          </ul>
+                        </details>
+                      </div>
+                    </div>
+                  </article>
+                );
+              })}
             </div>
-            <div className="grid gap-4">
-              {frameworkSteps.map((step, index) => (
-                <div key={step} className="grid gap-4 rounded-lg border border-cotton-200 bg-white p-5 shadow-sm sm:grid-cols-[4rem_1fr]">
-                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-cotton-700 text-base font-semibold text-white">
-                    {index + 1}
-                  </div>
-                  <p className="self-center text-base leading-7 text-cotton-900/75">{step}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          <div className="mt-12 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-            {projectSections.map((section) => (
-              <article key={section.title} className="border-t border-cotton-200 pt-5">
-                <h3 className="text-xl font-semibold text-cotton-900">{section.title}</h3>
-                <p className="mt-3 text-sm leading-6 text-cotton-900/70">{section.summary}</p>
-              </article>
-            ))}
           </div>
         </div>
       </section>
 
-      <section className="bg-cotton-900 py-16 text-white md:py-20">
+      {yearTwo ? (
+        <section className="section-band">
+          <div className="container-page">
+            <SectionHeader
+              eyebrow={`${yearTwo.year} | ${yearTwo.period}`}
+              title={yearTwo.headline}
+              description="A shorter view of Year 2 progress. Detailed accomplishments stay expandable so the page is easier to scan."
+            />
+            <div className="mt-10 grid gap-5 lg:grid-cols-2">
+              {yearTwo.entries.map((entry) => (
+                <article key={`${entry.objective}-${entry.title}`} className="surface-card-muted p-6 shadow-sm">
+                  <p className="text-sm font-semibold uppercase tracking-wide text-skydata-700">{entry.objective}</p>
+                  <h2 className="mt-2 text-xl font-semibold leading-7 text-cotton-900">{entry.title}</h2>
+                  <p className="mt-3 text-sm font-semibold text-cotton-900/75">{entry.team}</p>
+                  <p className="mt-2 text-sm leading-6 text-cotton-900/70">{entry.summary}</p>
+                  <p className="mt-4 text-xs font-semibold uppercase tracking-wide text-cotton-700">Locations</p>
+                  <p className="mt-1 text-sm leading-6 text-cotton-900/70">{entry.locations.join(", ")}</p>
+                  <details className="mt-4 rounded-md border border-cotton-200 bg-white p-4">
+                    <summary className="cursor-pointer text-sm font-semibold text-cotton-900">Key accomplishments</summary>
+                    <ul className="mt-3 grid gap-2 text-sm leading-6 text-cotton-900/70">
+                      {entry.accomplishments.slice(0, 4).map((item) => (
+                        <li key={item} className="border-l-2 border-cotton-300 pl-3">
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
+
+      <section className="section-band-dark">
         <div className="container-page grid gap-8 md:grid-cols-[1fr_1fr] md:items-center">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-wide text-cotton-200">Expected Impact</p>
+            <p className="eyebrow-on-dark">Expected Impact</p>
             <h2 className="mt-3 max-w-3xl font-serif text-3xl font-semibold leading-tight sm:text-4xl">
               Evidence that can support resilient farms, healthier soils, and a stronger cotton supply.
             </h2>
           </div>
           <p className="text-base leading-8 text-white/75">
-            SmartCotton is built to connect sustainability goals with field realities: carbon sequestration, lower emissions,
-            input efficiency, pest and nutrient stewardship, water management, and labor-aware production practices.
+            The source-backed work connects soil carbon, regenerative practice evaluation, precision agriculture, water
+            management, economics, risk, farmer adoption, Extension, and education into a scalable climate-smart cotton
+            research platform.
           </p>
         </div>
       </section>

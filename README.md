@@ -14,8 +14,8 @@ First static draft of a modern research project website for SmartCotton, built w
 ## Development
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Open `http://localhost:3000`.
@@ -23,13 +23,13 @@ Open `http://localhost:3000`.
 ## Typecheck
 
 ```bash
-npm run typecheck
+pnpm typecheck
 ```
 
 ## Build
 
 ```bash
-npm run build
+pnpm build
 ```
 
 The project uses `output: "export"` in `next.config.ts`, so `next build` creates a static export in `out/`.

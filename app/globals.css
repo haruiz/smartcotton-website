@@ -6,6 +6,12 @@
   color-scheme: light;
   --background: #fbfcf7;
   --foreground: #152012;
+  --surface: #ffffff;
+  --surface-muted: #f8faf5;
+  --surface-cream: #fbfcf7;
+  --border-soft: rgba(196, 215, 179, 0.78);
+  --shadow-card: 0 12px 32px rgba(33, 51, 26, 0.08);
+  --shadow-card-hover: 0 18px 45px rgba(33, 51, 26, 0.12);
 }
 
 * {
@@ -18,9 +24,13 @@ html {
 
 body {
   margin: 0;
+  overflow-x: hidden;
   background:
+    linear-gradient(90deg, rgba(196, 215, 179, 0.14) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(196, 215, 179, 0.12) 1px, transparent 1px),
     radial-gradient(circle at top left, rgba(196, 215, 179, 0.32), transparent 34rem),
     linear-gradient(180deg, #fbfcf7 0%, #f8faf5 100%);
+  background-size: 4.5rem 4.5rem, 4.5rem 4.5rem, auto, auto;
   color: var(--foreground);
 }
 
@@ -40,4 +50,116 @@ a {
 
 .focus-ring {
   @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cotton-700;
+}
+
+@layer components {
+  .section-band {
+    @apply bg-white py-16 md:py-20;
+  }
+
+  .section-band-spacious {
+    @apply bg-white py-20 md:py-24;
+  }
+
+  .section-band-muted {
+    @apply border-y border-cotton-200/80 bg-cotton-50 py-16 md:py-20;
+  }
+
+  .section-band-cream {
+    @apply bg-[#fbfcf7] py-16 md:py-20;
+  }
+
+  .section-band-dark {
+    @apply bg-cotton-900 py-16 text-white md:py-20;
+  }
+
+  .eyebrow {
+    @apply text-sm font-semibold uppercase tracking-wide text-cotton-700;
+  }
+
+  .eyebrow-on-dark {
+    @apply text-sm font-semibold uppercase tracking-wide text-cotton-200;
+  }
+
+  .heading-display {
+    @apply font-serif font-semibold leading-tight text-cotton-900;
+  }
+
+  .body-copy {
+    @apply leading-7 text-cotton-900/70;
+  }
+
+  .surface-card {
+    @apply rounded-lg border border-cotton-200/80 bg-white/95 shadow-sm transition duration-200 ease-out;
+    box-shadow: var(--shadow-card);
+  }
+
+  .surface-card:hover {
+    @apply -translate-y-0.5 border-cotton-300;
+    box-shadow: var(--shadow-card-hover);
+  }
+
+  .surface-card-muted {
+    @apply rounded-lg border border-cotton-200/80 bg-cotton-50 shadow-sm;
+  }
+
+  .stat-card {
+    @apply rounded-lg border border-cotton-200/80 bg-white/95 p-5 shadow-sm;
+    box-shadow: var(--shadow-card);
+  }
+
+  .chip {
+    @apply rounded-md border border-cotton-200 bg-cotton-50 px-3 py-1 text-xs font-semibold text-cotton-700;
+  }
+
+  .text-link {
+    @apply rounded-sm font-semibold text-skydata-700 underline decoration-skydata-700/30 underline-offset-4 transition hover:text-skydata-500 hover:decoration-skydata-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cotton-700;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-cotton-900 px-5 py-3 text-sm font-semibold text-white transition hover:bg-cotton-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cotton-700;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md border border-cotton-300 bg-white px-5 py-3 text-sm font-semibold text-cotton-900 transition hover:border-cotton-500 hover:bg-cotton-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cotton-700;
+  }
+
+  .image-frame {
+    @apply overflow-hidden rounded-lg border border-cotton-200 bg-cotton-50 shadow-soft;
+  }
+
+  .image-zoom {
+    @apply transition duration-200 ease-out;
+  }
+
+  .group:hover .image-zoom {
+    transform: scale(1.015);
+  }
+
+  .section-divider {
+    @apply border-b border-cotton-200 pb-4;
+  }
+}
+
+summary {
+  @apply rounded-sm;
+}
+
+summary:focus-visible {
+  @apply outline outline-2 outline-offset-2 outline-cotton-700;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  ::before,
+  ::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
 }

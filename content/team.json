@@ -2,209 +2,471 @@
   {
     "name": "Muthukumar Bagavathiannan",
     "picture": "/images/team/muthukumar-bagavathiannan.jpg",
-    "position": "Professor (Principal Investigator)",
+    "position": "PI / Project Lead",
     "institution": "Texas A&M AgriLife Research",
+    "group": "Project Leadership",
     "profileLink": "https://soilcrop.tamu.edu/people/bagavathiannan-muthu/"
   },
   {
     "name": "Deepak Loura",
     "picture": "/images/team/deepak-loura.png",
-    "position": "Project Manager/ Postdoctoral RA",
+    "position": "Project Manager",
     "institution": "Texas A&M AgriLife Research",
+    "group": "Project Leadership",
     "profileLink": "https://soilcrop.tamu.edu/people/loura-deepak/"
+  },
+  {
+    "name": "Randy Norton",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Co-PI",
+    "institution": "University of Arizona",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://extension.arizona.edu/person/randy-norton"
   },
   {
     "name": "Debankur Sanyal",
     "picture": "/images/team/debankur-sanyal.webp",
-    "position": "Assistant Professor (Co-Principal Investigator)",
+    "position": "Co-PI",
     "institution": "University of Arizona",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://envs.arizona.edu/person/debankur-sanyal"
   },
   {
     "name": "Sangu Angadi",
     "picture": "/images/team/sangu-angadi.png",
-    "position": "Assistant Professor (Co-Principal Investigator)",
-    "institution": "New Mexico State University",
+    "position": "Co-PI",
+    "institution": "New Mexico State University, Clovis, NM",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://pes.nmsu.edu/faculty-staff/soil/sangu-angadi.html"
   },
   {
     "name": "Rajan Ghimire",
     "picture": "/images/team/rajan-ghimire.jpg",
-    "position": "Associate Professor (Co-Principal Investigator)",
-    "institution": "New Mexico State University",
+    "position": "Co-PI",
+    "institution": "New Mexico State University, Clovis, NM",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://pes.nmsu.edu/faculty-staff/soil/rajan-ghimire.html"
+  },
+  {
+    "name": "Prakriti Bista",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Co-PI / Graduate Student (MS)",
+    "institution": "New Mexico State University, Las Cruces, NM",
+    "group": "Co-PIs / Project Investigators"
   },
   {
     "name": "Drew Gholson",
     "picture": "/images/team/drew-gholson.jpg",
-    "position": "Associate Professor (Co-Principal Investigator)",
+    "position": "Co-PI",
     "institution": "Mississippi State University",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://www.pss.msstate.edu/people/dmg451"
   },
   {
     "name": "Tyson Raper",
     "picture": "/images/team/tyson-raper.jpg",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "University of Tennessee",
+    "position": "Co-PI",
+    "institution": "University of Tennessee, Knoxville, TN",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://faculty.utk.edu/Tyson.Raper"
   },
   {
     "name": "Alvaro Sanz-Saez",
     "picture": "/images/team/alvaro-sanz-saez.jpg",
-    "position": "Assistant Professor (Co-Principal Investigator)",
+    "position": "Co-PI",
     "institution": "Auburn University",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://agriculture.auburn.edu/about/directory/faculty/alvaro-sanz-saez/"
   },
   {
-    "name": "Aniruddha Maity",
-    "picture": "/images/team/aniruddha-maity.jpg",
-    "position": "Assistant Professor (Co-Principal Investigator)",
-    "institution": "Auburn University",
-    "profileLink": "https://agriculture.auburn.edu/about/directory/faculty/aniruddha-maity/"
+    "name": "Darren Hudson",
+    "picture": "/images/team/darren-hudson.jpg",
+    "position": "Co-PI",
+    "institution": "Texas Tech University",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://www.depts.ttu.edu/aaec/people/faculty-staff/hudson.php"
   },
   {
-    "name": "Ramon Leon Gonzalez",
+    "name": "Nicholas Basinger",
+    "picture": "/images/team/nicholas-tuschak-basinger.jpg",
+    "position": "Co-PI",
+    "institution": "University of Georgia",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://cropsoil.uga.edu/people/faculty/nicholas-tuschak-basinger.html"
+  },
+  {
+    "name": "Jennifer Jo Thompson",
+    "picture": "/images/team/jennifer-jo-thompson.jpg",
+    "position": "Co-PI",
+    "institution": "University of Georgia",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://cropsoil.uga.edu/people/faculty/jennifer-jo-thompson.html"
+  },
+  {
+    "name": "Ramon Leon",
     "picture": "/images/team/ramon-leon-gonzalez.jpg",
-    "position": "Professor (Co-Principal Investigator)",
+    "position": "Co-PI",
     "institution": "North Carolina State University",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://cals.ncsu.edu/crop-and-soil-sciences/people/rleon/"
   },
   {
-    "name": "Katie L. Lewis",
+    "name": "Nithya Rajan",
+    "picture": "/images/team/nithya-rajan.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research (SCSC)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://soilcrop.tamu.edu/people/rajan-nithya/"
+  },
+  {
+    "name": "Katie Lewis",
     "picture": "/images/team/katie-l-lewis.webp",
-    "position": "Associate Professor (Co-Principal Investigator)",
-    "institution": "Texas Tech University",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research (SCSC)",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://www.txsoillab.com/katie"
+  },
+  {
+    "name": "Peter Dotray",
+    "picture": "/images/team/peter-dotray.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research (SCSC)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://www.depts.ttu.edu/pss/people/faculty/dotray-peter/pdotray.php"
+  },
+  {
+    "name": "Nithya Subramanian",
+    "picture": "/images/team/nithya-subramanian.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research (SCSC)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://soilcrop.tamu.edu/people/subramanian-nithya/"
+  },
+  {
+    "name": "Sanjay Antony-Babu",
+    "picture": "/images/team/sanjay-antony-babu.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research / Plant Pathology and Microbiology",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://plantpathology.tamu.edu/people/antony-babu-sanjay/"
   },
   {
     "name": "Benjamin McKnight",
     "picture": "/images/team/benjamin-mcknight.jpg",
-    "position": "Assistant Professor (Co-Principal Investigator)",
-    "institution": "Texas A&M AgriLife Research",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Extension (SCSC)",
+    "group": "Co-PIs / Project Investigators",
     "profileLink": "https://soilcrop.tamu.edu/people/mcknight-benjamin/"
   },
   {
-    "name": "Kevan Lamm",
-    "picture": "/images/team/kevan-lamm.jpg",
-    "position": "Associate Professor (Co-Principal Investigator)",
+    "name": "Jake Mowrer",
+    "picture": "/images/team/jake-mowrer.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Extension (SCSC)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://soilcrop.tamu.edu/people/mowrer-jake/"
+  },
+  {
+    "name": "David Kerns",
+    "picture": "/images/team/david-kerns.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Extension (Entomology)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://entomology.tamu.edu/people/kerns-david/"
+  },
+  {
+    "name": "Thomas Isakeit",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Extension (Plant Pathology and Microbiology)",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://plantpathology.tamu.edu/people/isakeit-thomas/"
+  },
+  {
+    "name": "Joseph Burke",
+    "picture": "/images/team/joseph-burke.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://soilcrop.tamu.edu/people/burke-joseph/"
+  },
+  {
+    "name": "Charlie Cahoon",
+    "picture": "/images/team/charlie-cahoon.jpg",
+    "position": "Co-PI",
+    "institution": "North Carolina State University",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://www.ces.ncsu.edu/profile/charlie-cahoon/"
+  },
+  {
+    "name": "Ram Ray",
+    "picture": "/images/team/ram-l-ray.webp",
+    "position": "Co-PI",
+    "institution": "Prairie View A&M University",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://pvamu.elsevierpure.com/en/persons/ram-l-ray/"
+  },
+  {
+    "name": "Mahendra Bhandari",
+    "picture": "/images/team/mahendra-bhandari.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M AgriLife Research and Extension Center - Corpus Christi",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://soilcrop.tamu.edu/people/bhandari-mahendra/"
+  },
+  {
+    "name": "Uday Vaddevolu",
+    "picture": "/images/team/uday-vaddevolu.jpg",
+    "position": "Co-PI",
+    "institution": "Texas A&M University",
+    "group": "Co-PIs / Project Investigators",
+    "profileLink": "https://baen.tamu.edu/people/vaddevolu-uday-bhanu-prakash/"
+  },
+  {
+    "name": "Prakash Jha",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Co-PI",
+    "institution": "Texas A&M University",
+    "group": "Co-PIs / Project Investigators"
+  },
+  {
+    "name": "Cydney Seigerman",
+    "picture": "/images/team/cydney-seigerman.jpg",
+    "position": "Postdoctoral Researcher",
     "institution": "University of Georgia",
-    "profileLink": "https://alec.caes.uga.edu/people/faculty/kevan-lamm.html"
+    "group": "Postdoctoral Researchers and Graduate Students",
+    "profileLink": "https://anthropology.uga.edu/directory/people/cydney-k-seigerman"
+  },
+  {
+    "name": "Priscila Campos Molina",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student",
+    "institution": "University of Georgia",
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
     "name": "Millicent Mimakoh",
     "picture": "/images/team/millicent-mimakoh.jpg",
     "position": "Graduate Student (PhD)",
     "institution": "Texas Tech University",
+    "group": "Postdoctoral Researchers and Graduate Students",
     "profileLink": "https://www.depts.ttu.edu/aaec/people/phd/Millicent_Nimakoh.php"
   },
   {
-    "name": "William Liu",
-    "picture": "/images/team/william-liu.jpg",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "Texas Tech University",
-    "profileLink": "https://www.depts.ttu.edu/aaec/people/faculty-staff/hudson.php"
-  },
-  {
-    "name": "Charlie Cahoon",
-    "picture": "/images/team/charlie-cahoon.jpg",
-    "position": "Assistant Professor (Co-Principal Investigator)",
+    "name": "Avi Goldsmith",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (MS)",
     "institution": "North Carolina State University",
-    "profileLink": "https://www.ces.ncsu.edu/profile/charlie-cahoon/"
+    "group": "Postdoctoral Researchers and Graduate Students",
+    "profileLink": "https://cals.ncsu.edu/crop-and-soil-sciences/people/asgoldsm/"
   },
   {
-    "name": "Peter Dotray",
-    "picture": "/images/team/peter-dotray.jpg",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "Texas Tech University",
-    "profileLink": "https://www.depts.ttu.edu/pss/people/faculty/dotray-peter/pdotray.php"
+    "name": "Kaluhath Gayan Abeysinghe",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Postdoctoral Researcher",
+    "institution": "Texas A&M AgriLife Research (Plant Pathology and Microbiology)",
+    "group": "Postdoctoral Researchers and Graduate Students",
+    "profileLink": "https://plantpathology.tamu.edu/people/abeysinghe-gayan/"
   },
   {
-    "name": "Jake Mowrer",
-    "picture": "/images/team/jake-mowrer.jpg",
-    "position": "Professor (CoPI)",
-    "institution": "Texas A&M AgriLife Research"
+    "name": "Sebastian Guaycha Coello",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (MS)",
+    "institution": "Auburn University",
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
-    "name": "Craig W. Bednarz",
-    "picture": "/images/team/craig-w-bednarz.jpg",
-    "position": "Associate Professor (Co-Principal Investigator)",
-    "institution": "West Texas A&M University",
-    "profileLink": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-agricultural-sciences/faculty/craig-bednarz-bio.html"
+    "name": "Mahboobeh Mollaee",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (MS)",
+    "institution": "Auburn University",
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
-    "name": "Lithma Kariyawasam Hetti",
+    "name": "Anna Smyly",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (MS)",
+    "institution": "Mississippi State University",
+    "group": "Postdoctoral Researchers and Graduate Students"
+  },
+  {
+    "name": "Lithma Kariyawasam Hetti Gamage",
     "picture": "/images/team/lithma-kariyawasam-hetti.jpg",
     "position": "Graduate Student (PhD)",
-    "institution": "Texas A&M University",
+    "institution": "Texas A&M University (SCSC)",
+    "group": "Postdoctoral Researchers and Graduate Students",
     "profileLink": "https://soilcrop.tamu.edu/people/kariyawasam-hetti-gamage-lithma/"
   },
   {
-    "name": "Nicholas Tuschak Basinger",
-    "picture": "/images/team/nicholas-tuschak-basinger.jpg",
-    "position": "Associate Professor (Co-Principal Investigator)",
-    "institution": "University of Georgia",
-    "profileLink": "https://cropsoil.uga.edu/people/faculty/nicholas-tuschak-basinger.html"
+    "name": "Ella Hummeldorf",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (PhD)",
+    "institution": "Texas A&M University (SCSC)",
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
-    "name": "Ram L. Ray",
-    "picture": "/images/team/ram-l-ray.webp",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "Prairie View A&M University",
-    "profileLink": "https://pvamu.elsevierpure.com/en/persons/ram-l-ray/"
+    "name": "Hemant Awasthi",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (PhD)",
+    "institution": "New Mexico State University, Clovis, NM",
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
-    "name": "Nithya Subramanian",
-    "picture": "/images/team/nithya-subramanian.jpg",
-    "position": "Co-PI",
+    "name": "Juan Frene",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Postdoctoral Researcher",
+    "institution": "New Mexico State University, Clovis, NM",
+    "group": "Postdoctoral Researchers and Graduate Students"
+  },
+  {
+    "name": "Sabin Shrestha",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Graduate Student (PhD)",
     "institution": "Texas A&M University",
-    "profileLink": "https://soilcrop.tamu.edu/people/subramanian-nithya/"
+    "group": "Postdoctoral Researchers and Graduate Students"
   },
   {
-    "name": "David Kerns",
-    "picture": "/images/team/david-kerns.jpg",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "Texas A&M AgriLife Research",
-    "profileLink": "https://entomology.tamu.edu/people/kerns-david/"
+    "name": "Kevan Lamm",
+    "picture": "/images/team/kevan-lamm.jpg",
+    "position": "Evaluator - Professional",
+    "institution": "University of Georgia",
+    "group": "Project Evaluators",
+    "profileLink": "https://alec.caes.uga.edu/people/faculty/kevan-lamm.html"
+  },
+  {
+    "name": "Craig Bednarz",
+    "picture": "/images/team/craig-w-bednarz.jpg",
+    "position": "Evaluator - Research",
+    "institution": "West Texas A&M University",
+    "group": "Project Evaluators",
+    "profileLink": "https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-agricultural-sciences/faculty/craig-bednarz-bio.html"
   },
   {
     "name": "Girish Panicker",
     "picture": "/images/team/girish-panicker.jpg",
-    "position": "Professor (Co-Principal Investigator)",
+    "position": "Evaluator - Education",
     "institution": "Alcorn State University",
+    "group": "Project Evaluators",
     "profileLink": "https://www.alcorn.edu/2025/03/07/panicker-earns-milestone-recognition-from-national-agronomy-societies/"
   },
   {
-    "name": "Jennifer Jo Thompson",
-    "picture": "/images/team/jennifer-jo-thompson.jpg",
-    "position": "Senior Research Scientist (Co-PI)",
-    "institution": "University of Georgia",
-    "profileLink": "https://cropsoil.uga.edu/people/faculty/jennifer-jo-thompson.html"
+    "name": "Wayne Ebelhar",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Evaluator - Extension",
+    "institution": "Mississippi State University",
+    "group": "Project Evaluators"
   },
   {
-    "name": "Nithya Rajan",
-    "picture": "/images/team/nithya-rajan.jpg",
-    "position": "Professor (Co-Principal Investigator)",
-    "institution": "Texas A&M AgriLife Research",
-    "profileLink": "https://soilcrop.tamu.edu/people/rajan-nithya/"
+    "name": "Sunny Fenton",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Trust In Food / Farm Journal Team",
+    "institution": "Trust In Food / Farm Journal",
+    "group": "Trust In Food / Farm Journal Team"
   },
   {
-    "name": "Sanjay Antony-Babu",
-    "picture": "/images/team/sanjay-antony-babu.jpg",
-    "position": "Assistant Professor (Co-Principal Investigator)",
+    "name": "Candace Bergesch",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Trust In Food / Farm Journal Team",
+    "institution": "Trust In Food / Farm Journal",
+    "group": "Trust In Food / Farm Journal Team"
+  },
+  {
+    "name": "Kaeli Elisco",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Trust In Food / Farm Journal Team",
+    "institution": "Trust In Food / Farm Journal",
+    "group": "Trust In Food / Farm Journal Team"
+  },
+  {
+    "name": "Lauren Dowler",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Trust In Food / Farm Journal Team",
+    "institution": "Trust In Food / Farm Journal",
+    "group": "Trust In Food / Farm Journal Team"
+  },
+  {
+    "name": "Garrett Funk",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Trust In Food / Farm Journal Team",
+    "institution": "Trust In Food / Farm Journal",
+    "group": "Trust In Food / Farm Journal Team"
+  },
+  {
+    "name": "Erin Hourihan",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Soil Health Institute Collaborator",
+    "institution": "Soil Health Institute",
+    "group": "Soil Health Institute Collaborators",
+    "profileLink": "https://soilhealthinstitute.org/about-us/our-science-led-team/"
+  },
+  {
+    "name": "Christan Morgan",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Soil Health Institute Collaborator",
+    "institution": "Soil Health Institute",
+    "group": "Soil Health Institute Collaborators"
+  },
+  {
+    "name": "Paul Hishmeh",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Field to Market",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Gaylon Morgan",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Cotton Incorporated",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Jeremy Brown",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Cotton Farmer, Lubbock, TX",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Aradhya Chandrasekhar",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Bayer CropSciences",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Kody Bessent / Shawn Wade",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Plains Cotton Growers Inc.",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Sandra Marquardt",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Textile Exchange",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Tom Dowling",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "Goanna Ag",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Corrie Bowen",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
+    "institution": "AgriLife Extension",
+    "group": "Stakeholder Advisory Panel"
+  },
+  {
+    "name": "Jane Deaver",
+    "picture": "/images/team-placeholder.svg",
+    "position": "Stakeholder Advisory Panel Member",
     "institution": "Texas A&M University",
-    "profileLink": "https://plantpathology.tamu.edu/people/antony-babu-sanjay/"
-  },
-  {
-    "name": "Joseph Burke",
-    "picture": "/images/team/joseph-burke.jpg",
-    "position": "Assistant Professor (Co-PI)",
-    "institution": "Texas A&M AgriLife Research"
-  },
-  {
-    "name": "Cydney Seigerman",
-    "picture": "/images/team/cydney-seigerman.jpg",
-    "position": "Post doc",
-    "institution": "University of Georgia",
-    "profileLink": "https://anthropology.uga.edu/directory/people/cydney-k-seigerman"
+    "group": "Stakeholder Advisory Panel"
   }
 ]

@@ -14,12 +14,13 @@ export const metadata: Metadata = {
 
 export default function EventsPage() {
   return (
-    <section className="bg-cotton-50 py-16">
+    <section className="section-band-muted">
       <div className="container-page">
         <SectionHeader
+          as="h1"
           eyebrow="Events"
-          title="Upcoming and past SmartCotton activities"
-          description="SmartCotton events create opportunities for researchers, growers, students, extension specialists, and partners to exchange findings and practical guidance."
+          title="Field days, meetings, and project milestones"
+          description="A calendar-style view of SmartCotton events for growers, researchers, students, Extension teams, and partners."
         />
         <EventCalendar events={events} />
       </div>

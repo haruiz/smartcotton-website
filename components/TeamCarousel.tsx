@@ -40,7 +40,7 @@ export function TeamCarousel({ members, itemsPerPage = 6 }: TeamCarouselProps) {
   };
 
   return (
-    <section className="mt-10 rounded-xl border border-cotton-200 bg-cotton-50 p-4 shadow-soft md:p-6" aria-label="Project team carousel">
+    <section className="surface-card-muted mt-10 p-4 shadow-soft md:p-6" aria-label="Project team carousel">
       <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
           <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Team carousel</p>
@@ -72,7 +72,7 @@ export function TeamCarousel({ members, itemsPerPage = 6 }: TeamCarouselProps) {
         {activePage.members.map((member) => (
           <article
             key={member.name}
-            className="flex min-h-[28rem] flex-col rounded-lg border border-cotton-200 bg-white p-4 text-left shadow-sm transition duration-200 hover:border-cotton-300 hover:shadow-soft"
+            className="surface-card flex min-h-[28rem] flex-col p-4 text-left"
           >
             <Image
               src={getAssetPath(member.picture)}

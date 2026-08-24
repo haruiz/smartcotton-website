@@ -1,16 +1,16 @@
 .PHONY: dev build typecheck deploy
 
 dev:
-	npm run dev
+	pnpm dev
 
 build:
-	npm run build
+	pnpm build
 
 typecheck:
-	npm run typecheck
+	pnpm typecheck
 
 deploy:
-	npm run build
+	pnpm build
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Deploy website update"
 	git push

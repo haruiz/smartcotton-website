@@ -12,7 +12,7 @@ export function Card({ title, description, meta, children, className }: CardProp
   return (
     <article
       className={clsx(
-        "group rounded-lg border border-cotton-200/80 bg-white/95 p-6 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-cotton-300 hover:shadow-soft",
+        "surface-card group h-full p-6",
         className
       )}
     >
