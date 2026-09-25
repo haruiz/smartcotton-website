@@ -8,6 +8,9 @@ export type EventItem = {
   category: "Annual Meeting" | "Field Day" | "Webinar" | "Conference" | "Workshop";
   time?: string;
   summary: string;
+  image?: string;
+  imageAlt?: string;
+  imageCaption?: string;
 };
 
 export const events: EventItem[] = [
@@ -22,16 +25,20 @@ export const events: EventItem[] = [
       "The source document lists a field day with nearly 100 attendees and a research stop on cotton cropping systems evaluated in the SAS project."
   },
   {
-    title: "SAS Cotton Annual Meeting RSVP",
+    title: "2026 SAS Cotton Annual Project Meeting",
     date: "Sunday, November 1, 2026",
     calendarMonth: "2026-11",
     calendarDay: "2026-11-01",
-    location: "DoubleTree by Hilton Hotel, Portland, Oregon + Zoom",
+    location: "DoubleTree by Hilton Hotel, Portland, Oregon; hybrid meeting",
     status: "Upcoming",
     category: "Annual Meeting",
-    time: "11:30 AM-4:00 PM (PDT)",
+    time: "12:00-4:30 PM PST",
     summary:
-      "The SAS Cotton Project annual team meeting will be held during the Tri-Society Conference in Portland, Oregon. Team members are asked to complete the RSVP form to help plan room arrangements, lunch, and logistics. Lunch will be provided during the meeting."
+      "The Year 2 progress and Year 3 planning meeting will include research updates, key findings, coordination across institutions, and updates on publications, datasets, and outreach activities.",
+    image: "/images/events/sas-cotton-annual-project-meeting-2026-flyer.png",
+    imageAlt:
+      "Flyer for the 2026 SAS Cotton Annual Project Meeting showing the date, time, Portland location, hybrid format, and meeting highlights",
+    imageCaption: "2026 SAS Cotton Annual Project Meeting flyer"
   },
   {
     title: "SAS CAP Grant Annual Update Meeting",

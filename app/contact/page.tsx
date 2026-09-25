@@ -1,7 +1,21 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { Database, FileText, Handshake, Mail, MapPin, Megaphone } from "lucide-react";
+import {
+  ArrowRight,
+  Building2,
+  Database,
+  ExternalLink,
+  FileText,
+  Handshake,
+  Mail,
+  MapPin,
+  Megaphone,
+  Navigation,
+  Share2,
+  UsersRound
+} from "lucide-react";
 import { SectionHeader } from "@/components/SectionHeader";
+import { SocialLinks } from "@/components/SocialLinks";
 import { contact } from "@/content/site";
 import { getAssetPath } from "@/utils/path";
 
@@ -37,6 +51,10 @@ const helpTopics = [
   }
 ];
 
+const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+  `${contact.building}, ${contact.address}`
+)}`;
+
 export default function ContactPage() {
   return (
     <>
@@ -62,10 +80,10 @@ export default function ContactPage() {
 
           <div className="image-frame">
             <Image
-              src={getAssetPath("/images/cotton-field-research-real.png")}
+              src={getAssetPath("/images/project-photos/cotton-open-boll-field.jpg")}
               width={900}
               height={560}
-              alt="SmartCotton field research rows"
+              alt="Open cotton boll in a project field"
               className="aspect-[16/10] w-full object-cover"
               priority
             />
@@ -74,23 +92,86 @@ export default function ContactPage() {
       </section>
 
       <section className="section-band-muted">
-        <div className="container-page grid gap-8 lg:grid-cols-[0.82fr_1.18fr]">
-          <div className="surface-card p-6">
-            <div className="flex gap-4">
-              <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-cotton-900 text-white">
-                <MapPin className="h-5 w-5" aria-hidden="true" />
+        <div className="container-page grid gap-8 lg:grid-cols-[0.86fr_1.14fr] lg:items-start">
+          <aside className="surface-card overflow-hidden">
+            <Image
+              src={getAssetPath("/images/project-photos/cotton-row-canopy.jpg")}
+              width={900}
+              height={520}
+              alt="Green cotton rows in a SmartCotton project field"
+              className="aspect-[16/8] w-full object-cover"
+            />
+            <div className="p-6">
+              <div className="flex gap-4">
+                <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-cotton-900 text-white">
+                  <MapPin className="h-5 w-5" aria-hidden="true" />
+                </div>
+                <div>
+                  <p className="eyebrow">Address</p>
+                  <h2 className="mt-2 text-2xl font-semibold leading-8 text-cotton-900">{contact.organization}</h2>
+                  <p className="mt-2 text-sm leading-6 text-cotton-900/72">
+                    {contact.building}
+                    <br />
+                    {contact.address}
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="eyebrow">Address</p>
-                <h2 className="mt-2 text-xl font-semibold text-cotton-900">{contact.organization}</h2>
-                <p className="mt-2 text-sm leading-6 text-cotton-900/70">
-                  {contact.building}
-                  <br />
-                  {contact.address}
+
+              <div className="mt-6 grid gap-3">
+                <div className="flex gap-3 rounded-lg border border-cotton-200 bg-cotton-50/80 p-4">
+                  <Building2 aria-hidden="true" className="mt-0.5 h-4 w-4 shrink-0 text-cotton-700" />
+                  <div>
+                    <p className="text-sm font-semibold text-cotton-900">Lead institution</p>
+                    <p className="mt-1 text-sm leading-6 text-cotton-900/68">Texas A&M AgriLife Research and Extension</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 rounded-lg border border-cotton-200 bg-cotton-50/80 p-4">
+                  <UsersRound aria-hidden="true" className="mt-0.5 h-4 w-4 shrink-0 text-cotton-700" />
+                  <div>
+                    <p className="text-sm font-semibold text-cotton-900">Project routing</p>
+                    <p className="mt-1 text-sm leading-6 text-cotton-900/68">
+                      Messages are routed to the PI, project manager, Extension contacts, or research collaborators.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 rounded-lg border border-cotton-200 bg-cotton-50/80 p-4">
+                  <Mail aria-hidden="true" className="mt-0.5 h-4 w-4 shrink-0 text-cotton-700" />
+                  <div>
+                    <p className="text-sm font-semibold text-cotton-900">Primary email</p>
+                    <a className="text-link mt-1 inline-block text-sm" href={`mailto:${contact.footerEmail}`}>
+                      {contact.footerEmail}
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+                <a className="btn-primary" href={mapUrl} target="_blank" rel="noreferrer">
+                  <Navigation aria-hidden="true" size={17} />
+                  Open map
+                  <ExternalLink aria-hidden="true" size={15} />
+                </a>
+                <a className="btn-secondary" href={`mailto:${contact.footerEmail}`}>
+                  <Mail aria-hidden="true" size={17} />
+                  Email team
+                </a>
+              </div>
+
+              <div className="mt-6 rounded-lg bg-cotton-900 p-5 text-white">
+                <p className="text-xs font-semibold uppercase tracking-wide text-cotton-100/80">SmartCotton contact hub</p>
+                <p className="mt-2 text-sm leading-6 text-white/78">
+                  Use this page for research collaboration, outreach coordination, publication requests, and project
+                  partnership questions.
                 </p>
+                <a href="#how-can-we-help" className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-cotton-100">
+                  Find the right contact path
+                  <ArrowRight aria-hidden="true" size={15} />
+                </a>
               </div>
             </div>
-          </div>
+          </aside>
 
           <div>
             <div className="section-divider">
@@ -119,6 +200,29 @@ export default function ContactPage() {
                 </article>
               ))}
             </div>
+
+            <section
+              className="mt-8 rounded-xl border border-cotton-200 bg-white p-5 shadow-sm"
+              aria-labelledby="social-links-heading"
+            >
+              <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+                <div>
+                  <p className="eyebrow">Social media</p>
+                  <h2 id="social-links-heading" className="mt-2 text-2xl font-semibold text-cotton-900">
+                    Official project profiles
+                  </h2>
+                  <p className="mt-2 max-w-2xl text-sm leading-6 text-cotton-900/70">
+                    Follow the approved LinkedIn profiles for project updates, team connections, and outreach activity.
+                  </p>
+                </div>
+                <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-cotton-900 text-white">
+                  <Share2 aria-hidden="true" className="h-5 w-5" />
+                </div>
+              </div>
+              <div className="mt-6">
+                <SocialLinks />
+              </div>
+            </section>
           </div>
         </div>
       </section>

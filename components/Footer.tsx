@@ -1,13 +1,13 @@
 import Link from "next/link";
-import { Mail, MapPin } from "lucide-react";
+import { ExternalLink, Linkedin, Mail, MapPin } from "lucide-react";
 import { SmartCottonLogo } from "@/components/SmartCottonLogo";
-import { contact, flatNavItems } from "@/content/site";
+import { contact, flatNavItems, socialLinks } from "@/content/site";
 
 const footerGroups = [
   {
     title: "Research",
     links: flatNavItems.filter((item) =>
-      ["/research-highlights", "/ongoing-activities", "/gallery", "/publications"].includes(item.href)
+      ["/research-highlights", "/ongoing-activities", "/gallery", "/publications", "/outreach"].includes(item.href)
     )
   },
   {
@@ -16,26 +16,28 @@ const footerGroups = [
   }
 ];
 
+const footerSocialLabels = ["SAS Cotton", "Muthukumar", "Deepak Loura"] as const;
+
 export function Footer() {
   return (
     <footer className="border-t border-cotton-200 bg-[#fbfcf7]">
-      <div className="container-page grid gap-10 py-12 lg:grid-cols-[1.15fr_0.95fr_0.9fr_0.9fr]">
+      <div className="container-page grid gap-10 py-12 md:grid-cols-2 xl:grid-cols-[1.25fr_1fr_0.52fr_0.85fr_0.85fr]">
         <div>
           <div className="flex items-center gap-3">
-            <SmartCottonLogo aria-hidden="true" className="h-11 w-11 shrink-0 drop-shadow-sm" />
-            <div>
-              <p className="text-lg font-black leading-none text-cotton-900">SmartCotton</p>
-              <p className="mt-1 text-[0.65rem] font-semibold uppercase tracking-[0.18em] text-cotton-700">
-                Field intelligence
+            <SmartCottonLogo
+              variant="mark"
+              aria-hidden="true"
+              className="h-14 w-14 shrink-0 rounded-md bg-black object-cover shadow-sm ring-1 ring-black/10"
+            />
+            <div className="min-w-0">
+              <p className="text-lg font-extrabold tracking-wide text-cotton-950">SMARTCOTTON</p>
+              <p className="mt-1 text-xs font-semibold uppercase tracking-[0.16em] text-cotton-700">
+                Precision. Regeneration. Resilience.
               </p>
             </div>
           </div>
-          <p className="mt-2 max-w-2xl text-sm leading-6 text-cotton-900/75">
-            Renewing American Cotton through regenerative practices, precision management, and multi-state research
-            partnerships for climate-smart agriculture.
-          </p>
           <p className="mt-4 text-sm font-medium text-cotton-900/75">
-            {contact.organization} climate-smart cotton research initiative
+            {contact.organization} climate-smart cotton initiative
           </p>
         </div>
 
@@ -55,6 +57,30 @@ export function Footer() {
               {contact.footerEmail}
             </a>
           </address>
+        </div>
+
+        <div>
+          <p className="text-sm font-semibold uppercase tracking-wide text-cotton-700">Social</p>
+          <div className="mt-3 grid gap-1.5">
+            {socialLinks.map((link, index) => (
+              <a
+                key={link.label}
+                href={link.href}
+                target="_blank"
+                rel="noreferrer"
+                aria-label={`Open ${link.label} on LinkedIn`}
+                className="focus-ring group inline-flex w-fit items-center gap-2 rounded-md border border-cotton-200 bg-white/80 px-2.5 py-1.5 text-sm font-semibold text-cotton-900/78 shadow-sm transition hover:border-skydata-300 hover:bg-white hover:text-cotton-900"
+              >
+                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded bg-[#0a66c2] text-white">
+                  <Linkedin aria-hidden="true" className="h-3.5 w-3.5" />
+                </span>
+                <span className="whitespace-nowrap">
+                  {footerSocialLabels[index] ?? link.label}
+                </span>
+                <ExternalLink aria-hidden="true" className="h-3 w-3 text-skydata-700 transition group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+              </a>
+            ))}
+          </div>
         </div>
 
         {footerGroups.map((group) => (

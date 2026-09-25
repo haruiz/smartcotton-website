@@ -1,0 +1,252 @@
+{"kind":"deck","id":"pr/1dfahd","name":"Deck"}
+{"kind":"layout","layoutId":"d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8fe443a0-16d1-4149-86c9-a95fcd5e51e3","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/qfmzcj","slide":1,"title":"SAS COTTON PROJECT","textShapes":8}
+{"kind":"shape","id":"sh/d0vuxgju","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/qxkvmlk3","slide":1,"bbox":[0,0,760,720]}
+{"kind":"shape","id":"sh/0nmdsv25","slide":1,"bbox":[688,72,5,520]}
+{"kind":"textbox","id":"sh/1ove10jq","slide":1,"text":"SAS COTTON PROJECT","textPreview":"SAS COTTON PROJECT","textChars":18,"textLines":1,"bbox":[78,72,410,28]}
+{"kind":"textbox","id":"sh/e14vqlkz","slide":1,"text":"Climate-Smart\nCotton","textPreview":"Climate-Smart | Cotton","textChars":20,"textLines":2,"bbox":[76,134,560,136]}
+{"kind":"textbox","id":"sh/zmdwzq1k","slide":1,"text":"Two-Year Evaluation Update","textPreview":"Two-Year Evaluation Update","textChars":26,"textLines":1,"bbox":[80,300,560,52]}
+{"kind":"textbox","id":"sh/gridgr21","slide":1,"text":"Developing precision regenerative practices and market opportunities for the Cotton Belt","textPreview":"Developing precision regenerative practices and market opportunities for the Cotton Belt","textChars":88,"textLines":1,"bbox":[82,386,510,78]}
+{"kind":"shape","id":"sh/hsrupwjm","slide":1,"bbox":[82,516,128,34]}
+{"kind":"textbox","id":"sh/5cvm9sbe","slide":1,"text":"Research","textPreview":"Research","textChars":8,"textLines":1,"bbox":[82,523,128,22]}
+{"kind":"shape","id":"sh/4bm50nut","slide":1,"bbox":[228,516,128,34]}
+{"kind":"textbox","id":"sh/3ad47it8","slide":1,"text":"Education","textPreview":"Education","textChars":9,"textLines":1,"bbox":[228,523,128,22]}
+{"kind":"shape","id":"sh/i94nydcn","slide":1,"bbox":[374,516,128,34]}
+{"kind":"textbox","id":"sh/dgfmxsba","slide":1,"text":"Extension","textPreview":"Extension","textChars":9,"textLines":1,"bbox":[374,523,128,22]}
+{"kind":"textbox","id":"sh/sf654nup","slide":1,"text":"Award 2024-68012-41750","textPreview":"Award 2024-68012-41750","textChars":22,"textLines":1,"bbox":[82,632,420,26]}
+{"kind":"image","id":"im/qpov6pkb","slide":1,"name":"","geometry":"roundRect","alt":"Cotton field at golden hour with precision agriculture cues","bbox":[708,34,536,652]}
+{"kind":"notes","id":"nt/qfmzcj","slide":1,"text":"[Sources]\nProject title, award number, and project framing from SAS Cotton annual reports.\nCover omits meeting timing per user request.\nBackground image generated with OpenAI imagegen and embedded from workspace asset .codex-tmp/sas_eval_deck/assets/cotton-hero-bg.png."}
+{"kind":"slide","id":"sl/75dmts","slide":2,"title":"EVALUATION MEETING","textShapes":18}
+{"kind":"shape","id":"sh/ovmt836t","slide":2,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/nudszyp8","slide":2,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/mt4b6ton","slide":2,"text":"EVALUATION MEETING","textPreview":"EVALUATION MEETING","textChars":18,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/1svaxo72","slide":2,"text":"Focus the review on evidence, integration, and Year 3-5 decisions","textPreview":"Focus the review on evidence, integration, and Year 3-5 decisions","textChars":65,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/0r2t4j6h","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/zqtsvypw","slide":2,"bbox":[72,148,404,418]}
+{"kind":"textbox","id":"sh/epkb2tob","slide":2,"text":"Meeting purpose","textPreview":"Meeting purpose","textChars":15,"textLines":1,"bbox":[106,184,300,36]}
+{"kind":"textbox","id":"sh/lofu9sn6","slide":2,"text":"Provide a concise two-year progress update, test whether the project is functioning as a fully integrated SAS effort, and identify course corrections before the next phase.","textPreview":"Provide a concise two-year progress update, test whether the project is functioning as a fully integrated SAS effort, and identify course...","textChars":172,"textLines":1,"bbox":[106,244,320,160]}
+{"kind":"textbox","id":"sh/kn6tgn6l","slide":2,"text":"Evaluator output","textPreview":"Evaluator output","textChars":16,"textLines":1,"bbox":[106,440,300,28]}
+{"kind":"textbox","id":"sh/y1o7elwr","slide":2,"text":"Strengths, gaps, recommended metrics, and priority actions for Years 3-5.","textPreview":"Strengths, gaps, recommended metrics, and priority actions for Years 3-5.","textChars":73,"textLines":1,"bbox":[106,474,320,56]}
+{"kind":"shape","id":"sh/j2xonqxc","slide":2,"bbox":[528,158,634,58]}
+{"kind":"textbox","id":"sh/kn6pgvex","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[552,173,44,24]}
+{"kind":"textbox","id":"sh/lof6p0fi","slide":2,"text":"Integrated SAS model and evaluator lens","textPreview":"Integrated SAS model and evaluator lens","textChars":39,"textLines":1,"bbox":[616,173,490,24]}
+{"kind":"shape","id":"sh/ax4nalwv","slide":2,"bbox":[528,240,634,58]}
+{"kind":"textbox","id":"sh/bydojqx0","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[552,255,44,24]}
+{"kind":"textbox","id":"sh/wz65cvel","slide":2,"text":"Progress across six objectives","textPreview":"Progress across six objectives","textChars":30,"textLines":1,"bbox":[616,255,490,24]}
+{"kind":"shape","id":"sh/x0f6l0f6","slide":2,"bbox":[528,322,634,58]}
+{"kind":"textbox","id":"sh/ut87m5wz","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[552,337,44,24]}
+{"kind":"textbox","id":"sh/vuhovaxk","slide":2,"text":"Evidence, outcomes, and metrics","textPreview":"Evidence, outcomes, and metrics","textChars":31,"textLines":1,"bbox":[616,337,490,24]}
+{"kind":"shape","id":"sh/ry94n2dw","slide":2,"bbox":[528,404,634,58]}
+{"kind":"textbox","id":"sh/qx03exwb","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[552,419,44,24]}
+{"kind":"textbox","id":"sh/d0bmpcv2","slide":2,"text":"Stakeholder engagement and adoption readiness","textPreview":"Stakeholder engagement and adoption readiness","textChars":45,"textLines":1,"bbox":[616,419,490,24]}
+{"kind":"shape","id":"sh/cz2lg7uh","slide":2,"bbox":[528,486,634,58]}
+{"kind":"textbox","id":"sh/z2t4rmds","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[552,501,44,24]}
+{"kind":"textbox","id":"sh/e1k3ihcn","slide":2,"text":"Implementation risks and Year 3-5 priorities","textPreview":"Implementation risks and Year 3-5 priorities","textChars":44,"textLines":1,"bbox":[616,501,490,24]}
+{"kind":"shape","id":"sh/14bmtwvy","slide":2,"bbox":[74,622,1088,46]}
+{"kind":"textbox","id":"sh/032lkrud","slide":2,"text":"Evaluator role: help turn project activity into integrated evidence and actionable recommendations.","textPreview":"Evaluator role: help turn project activity into integrated evidence and actionable recommendations.","textChars":99,"textLines":1,"bbox":[104,634,1010,22]}
+{"kind":"notes","id":"nt/75dmts","slide":2,"text":"[Sources]\nMeeting purpose, evaluator deliverable, and agenda adapted from user-provided evaluation-team planning note.\nNIFA SAS FAQ states A9201 applications must be fully integrated projects addressing research, education, and extension: https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative/afri-strengthening-agricultural-systems-rfa-frequently-asked-questions"}
+{"kind":"slide","id":"sl/x210mg","slide":3,"title":"SAS EVALUATION LENS","textShapes":12}
+{"kind":"shape","id":"sh/nelozadk","slide":3,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/8fup8fu5","slide":3,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/9g361kbq","slide":3,"text":"SAS EVALUATION LENS","textPreview":"SAS EVALUATION LENS","textChars":19,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/epsn2lc3","slide":3,"text":"Assess whether the project is acting like one integrated system","textPreview":"Assess whether the project is acting like one integrated system","textChars":63,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/zalovqdo","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"textbox","id":"sh/0bup4vu9","slide":3,"text":"NIFA positions SAS CAP projects as large, systems-oriented efforts where research, education, and Extension/outreach reinforce one another around problems that matter to farmers and agricultural systems.","textPreview":"NIFA positions SAS CAP projects as large, systems-oriented efforts where research, education, and Extension/outreach reinforce one anothe...","textChars":203,"textLines":1,"bbox":[76,138,1040,56]}
+{"kind":"shape","id":"sh/1c36x0vu","slide":3,"bbox":[78,246,500,136]}
+{"kind":"shape","id":"sh/ilw7epc7","slide":3,"bbox":[78,246,8,136]}
+{"kind":"textbox","id":"sh/j65o7uts","slide":3,"text":"Integration quality","textPreview":"Integration quality","textChars":19,"textLines":1,"bbox":[108,270,420,30]}
+{"kind":"textbox","id":"sh/fa9svu58","slide":3,"text":"Are agronomy, soil health, AI/ML, economics, adoption, education, and extension feeding a shared learning loop?","textPreview":"Are agronomy, soil health, AI/ML, economics, adoption, education, and extension feeding a shared learning loop?","textChars":111,"textLines":1,"bbox":[108,310,420,58]}
+{"kind":"shape","id":"sh/u90b294n","slide":3,"bbox":[640,246,500,136]}
+{"kind":"shape","id":"sh/hcrax4ne","slide":3,"bbox":[640,246,8,136]}
+{"kind":"textbox","id":"sh/gbit4zmt","slide":3,"text":"Logic-model evidence","textPreview":"Logic-model evidence","textChars":20,"textLines":1,"bbox":[670,270,420,30]}
+{"kind":"textbox","id":"sh/3ytsze5k","slide":3,"text":"Are activities producing outputs, short-term outcomes, intermediate outcomes, and a credible path to Year 5 impact?","textPreview":"Are activities producing outputs, short-term outcomes, intermediate outcomes, and a credible path to Year 5 impact?","textChars":115,"textLines":1,"bbox":[670,310,420,58]}
+{"kind":"shape","id":"sh/2dkb694z","slide":3,"bbox":[78,424,500,136]}
+{"kind":"shape","id":"sh/p0ba1ona","slide":3,"bbox":[78,424,8,136]}
+{"kind":"textbox","id":"sh/4z2t8jm5","slide":3,"text":"Stakeholder value","textPreview":"Stakeholder value","textChars":17,"textLines":1,"bbox":[108,448,420,30]}
+{"kind":"textbox","id":"sh/r2ts3e5g","slide":3,"text":"Are growers, extension personnel, industry, and supply-chain partners engaged at the right depth?","textPreview":"Are growers, extension personnel, industry, and supply-chain partners engaged at the right depth?","textChars":97,"textLines":1,"bbox":[108,488,420,58]}
+{"kind":"shape","id":"sh/q1kbat4v","slide":3,"bbox":[640,424,500,136]}
+{"kind":"shape","id":"sh/m98nihsf","slide":3,"bbox":[640,424,8,136]}
+{"kind":"textbox","id":"sh/nah4rmt0","slide":3,"text":"Course corrections","textPreview":"Course corrections","textChars":18,"textLines":1,"bbox":[670,448,420,30]}
+{"kind":"textbox","id":"sh/8bq5kral","slide":3,"text":"What coordination, indicators, and governance routines should be adjusted now?","textPreview":"What coordination, indicators, and governance routines should be adjusted now?","textChars":78,"textLines":1,"bbox":[670,488,420,58]}
+{"kind":"notes","id":"nt/x210mg","slide":3,"text":"[Sources]\nNIFA SAS program page describes SAS as fully integrated research, education, and extension projects and CAP grants as systems-oriented collaborations: https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative/afri-strengthening-agricultural-systems\nFY26 SAS NOFO describes fully integrated extension, education, and research projects through CAP grants: https://www.nifa.usda.gov/sites/default/files/2026-01/FY26-AFRI-SAS-NOFO-P_0.pdf\nEvaluation themes adapted from user-provided planning note."}
+{"kind":"slide","id":"sl/nbt6r8","slide":4,"title":"PROJECT ARCHITECTURE","textShapes":18}
+{"kind":"shape","id":"sh/mlcruhwv","slide":4,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/9o3a5wvm","slide":4,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/onu9wre1","slide":4,"text":"PROJECT ARCHITECTURE","textPreview":"PROJECT ARCHITECTURE","textChars":20,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/zi18zmdk","slide":4,"text":"Six objectives connect to producer value","textPreview":"Six objectives connect to producer value","textChars":40,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/ehsrqhwz","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/1k3q1cva","slide":4,"bbox":[452,276,326,132]}
+{"kind":"textbox","id":"sh/0ja9s7e5","slide":4,"text":"Climate-smart cotton outcomes","textPreview":"Climate-smart cotton outcomes","textChars":29,"textLines":1,"bbox":[484,304,262,52]}
+{"kind":"textbox","id":"sh/je5sb6do","slide":4,"text":"soil health | resource efficiency | market opportunity | adoption readiness","textPreview":"soil health | resource efficiency | market opportunity | adoption readiness","textChars":75,"textLines":1,"bbox":[478,360,272,30]}
+{"kind":"shape","id":"sh/ydwr21w3","slide":4,"bbox":[78,170,330,110]}
+{"kind":"textbox","id":"sh/83a50rat","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[102,198,48,34]}
+{"kind":"textbox","id":"sh/94j69wre","slide":4,"text":"Regenerative production and soil carbon baselines","textPreview":"Regenerative production and soil carbon baselines","textChars":49,"textLines":1,"bbox":[160,194,214,58]}
+{"kind":"shape","id":"sh/m1sny1sn","slide":4,"bbox":[78,420,330,110]}
+{"kind":"textbox","id":"sh/721o7698","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[102,448,48,34]}
+{"kind":"textbox","id":"sh/kza5wrah","slide":4,"text":"AI/ML and smart technologies for resource conservation","textPreview":"AI/ML and smart technologies for resource conservation","textChars":54,"textLines":1,"bbox":[160,444,214,58]}
+{"kind":"shape","id":"sh/l0j65wr2","slide":4,"bbox":[840,170,330,110]}
+{"kind":"textbox","id":"sh/yxsnuhsr","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[864,198,48,34]}
+{"kind":"textbox","id":"sh/zy143m9w","slide":4,"text":"Economic feasibility and market opportunities","textPreview":"Economic feasibility and market opportunities","textChars":45,"textLines":1,"bbox":[922,194,214,58]}
+{"kind":"shape","id":"sh/cvq5s7al","slide":4,"bbox":[840,420,330,110]}
+{"kind":"textbox","id":"sh/xwzm1cr6","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[864,448,48,34]}
+{"kind":"textbox","id":"sh/dsr258ju","slide":4,"text":"Producer adoption and social science evidence","textPreview":"Producer adoption and social science evidence","textChars":45,"textLines":1,"bbox":[922,444,214,58]}
+{"kind":"shape","id":"sh/crilw329","slide":4,"bbox":[458,458,330,110]}
+{"kind":"textbox","id":"sh/rq9k3y1o","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[482,486,48,34]}
+{"kind":"textbox","id":"sh/qp03utk3","slide":4,"text":"Extension and outreach for practice adoption","textPreview":"Extension and outreach for practice adoption","textChars":44,"textLines":1,"bbox":[540,482,214,58]}
+{"kind":"shape","id":"sh/por21ojy","slide":4,"bbox":[458,130,330,110]}
+{"kind":"textbox","id":"sh/43ils32d","slide":4,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[482,158,48,34]}
+{"kind":"textbox","id":"sh/329kzyls","slide":4,"text":"Education, training, and workforce development","textPreview":"Education, training, and workforce development","textChars":46,"textLines":1,"bbox":[540,154,214,58]}
+{"kind":"shape","id":"sh/21g3qtk7","slide":4,"bbox":[74,622,1088,46]}
+{"kind":"textbox","id":"sh/9kbmdsj2","slide":4,"text":"Evaluation question: where can these objectives exchange data, decisions, and stakeholder feedback more deliberately?","textPreview":"Evaluation question: where can these objectives exchange data, decisions, and stakeholder feedback more deliberately?","textChars":117,"textLines":1,"bbox":[104,634,1010,22]}
+{"kind":"notes","id":"nt/nbt6r8","slide":4,"text":"[Sources]\nLong-term goal and six objectives from both annual reports.\nProject architecture phrasing synthesized for evaluator-facing discussion."}
+{"kind":"slide","id":"sl/a0qw8s","slide":5,"title":"TWO-YEAR TRAJECTORY","textShapes":13}
+{"kind":"shape","id":"sh/6x4rit0j","slide":5,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/tkvqdoju","slide":5,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/sjm9kji9","slide":5,"text":"TWO-YEAR TRAJECTORY","textPreview":"TWO-YEAR TRAJECTORY","textChars":19,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/jut87e1s","slide":5,"text":"Year 2 moved the project from setup into evidence generation","textPreview":"Year 2 moved the project from setup into evidence generation","textChars":60,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/itkre907","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/kvm9gjid","slide":5,"bbox":[70,130,1092,138]}
+{"kind":"textbox","id":"sh/vqt83e1w","slide":5,"text":"The project has enough activity and early evidence to move from reporting outputs to managing outcome evidence.","textPreview":"The project has enough activity and early evidence to move from reporting outputs to managing outcome evidence.","textChars":111,"textLines":1,"bbox":[105,170,930,38]}
+{"kind":"shape","id":"sh/apk7a90b","slide":5,"bbox":[80,332,328,206]}
+{"kind":"textbox","id":"sh/0f6t8re5","slide":5,"text":"2024-25","textPreview":"2024-25","textChars":7,"textLines":1,"bbox":[106,358,120,26]}
+{"kind":"textbox","id":"sh/10fahwvq","slide":5,"text":"Foundation","textPreview":"Foundation","textChars":10,"textLines":1,"bbox":[106,394,260,38]}
+{"kind":"textbox","id":"sh/edob61wz","slide":5,"text":"Hiring, protocols, site identification, early trials, seed increase, and outreach launch.","textPreview":"Hiring, protocols, site identification, early trials, seed increase, and outreach launch.","textChars":89,"textLines":1,"bbox":[106,446,274,70]}
+{"kind":"shape","id":"sh/zexsfmdk","slide":5,"bbox":[453,332,328,206]}
+{"kind":"textbox","id":"sh/cbmt4ret","slide":5,"text":"2025-26","textPreview":"2025-26","textChars":7,"textLines":1,"bbox":[479,358,120,26]}
+{"kind":"textbox","id":"sh/dcvadwve","slide":5,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[479,394,260,38]}
+{"kind":"textbox","id":"sh/q94b2hw3","slide":5,"text":"Soil sampling, field datasets, microbiome analyses, AI/ML planning, economics, adoption research, and outreach expanded.","textPreview":"Soil sampling, field datasets, microbiome analyses, AI/ML planning, economics, adoption research, and outreach expanded.","textChars":120,"textLines":1,"bbox":[479,446,274,70]}
+{"kind":"shape","id":"sh/radsbmdo","slide":5,"bbox":[826,332,328,206]}
+{"kind":"textbox","id":"sh/w7qtgbed","slide":5,"text":"2026-27","textPreview":"2026-27","textChars":7,"textLines":1,"bbox":[852,358,120,26]}
+{"kind":"textbox","id":"sh/x8zupgvy","slide":5,"text":"Integration","textPreview":"Integration","textChars":11,"textLines":1,"bbox":[852,394,260,38]}
+{"kind":"textbox","id":"sh/5ova9gn2","slide":5,"text":"Harmonize data streams, connect research with adoption/economics, and define dashboard metrics.","textPreview":"Harmonize data streams, connect research with adoption/economics, and define dashboard metrics.","textChars":95,"textLines":1,"bbox":[852,446,274,70]}
+{"kind":"image","id":"im/szup4n2h","slide":5,"name":"","geometry":"roundRect","alt":"Cotton field banner","bbox":[70,130,1092,138]}
+{"kind":"notes","id":"nt/a0qw8s","slide":5,"text":"[Sources]\nYear 1 startup activities and challenges from SAS Cotton Annual Report 2024-25.\nYear 2 progress and next reporting period plans from SAS_Annual Report_2025-2026.\nBanner image generated with OpenAI imagegen and embedded from workspace asset .codex-tmp/sas_eval_deck/assets/cotton-hero-bg.png."}
+{"kind":"slide","id":"sl/abw49l","slide":6,"title":"RESEARCH EVIDENCE","textShapes":18}
+{"kind":"shape","id":"sh/dcjqxoni","slide":6,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/q9s7m947","slide":6,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/ra18ve5c","slide":6,"text":"RESEARCH EVIDENCE","textPreview":"RESEARCH EVIDENCE","textChars":17,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/0fu9sjm9","slide":6,"text":"Datasets are now forming across the production system","textPreview":"Datasets are now forming across the production system","textChars":53,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/103q1o3u","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/edcrqt43","slide":6,"bbox":[76,142,1084,72]}
+{"kind":"textbox","id":"sh/zel8zylo","slide":6,"text":"Soil carbon and health","textPreview":"Soil carbon and health","textChars":22,"textLines":1,"bbox":[104,160,230,28]}
+{"kind":"textbox","id":"sh/o3u9w3m5","slide":6,"text":"TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields reported in sampling workflows.","textPreview":"TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields reported in sampling workflows.","textChars":106,"textLines":1,"bbox":[368,156,448,42]}
+{"kind":"textbox","id":"sh/943q583q","slide":6,"text":"Standardize baselines and metadata.","textPreview":"Standardize baselines and metadata.","textChars":35,"textLines":1,"bbox":[850,156,270,42]}
+{"kind":"shape","id":"sh/xcj65cb2","slide":6,"bbox":[76,233,1084,72]}
+{"kind":"textbox","id":"sh/wba5c7uh","slide":6,"text":"Regenerative systems","textPreview":"Regenerative systems","textChars":20,"textLines":1,"bbox":[104,251,230,28]}
+{"kind":"textbox","id":"sh/ba1o32tw","slide":6,"text":"Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across states.","textPreview":"Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across states.","textChars":99,"textLines":1,"bbox":[368,247,448,42]}
+{"kind":"textbox","id":"sh/a9snahcb","slide":6,"text":"Choose indicators of climate-smart performance.","textPreview":"Choose indicators of climate-smart performance.","textChars":47,"textLines":1,"bbox":[850,247,270,42]}
+{"kind":"shape","id":"sh/l0369wby","slide":6,"bbox":[76,324,1084,72]}
+{"kind":"textbox","id":"sh/kzu5grad","slide":6,"text":"Microbiome","textPreview":"Microbiome","textChars":10,"textLines":1,"bbox":[104,342,230,28]}
+{"kind":"textbox","id":"sh/jylo7mts","slide":6,"text":"Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis.","textPreview":"Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis.","textChars":93,"textLines":1,"bbox":[368,338,448,42]}
+{"kind":"textbox","id":"sh/ydsnehc7","slide":6,"text":"Translate technical results for stakeholders.","textPreview":"Translate technical results for stakeholders.","textChars":45,"textLines":1,"bbox":[850,338,270,42]}
+{"kind":"shape","id":"sh/14zmxsbu","slide":6,"bbox":[76,415,1084,72]}
+{"kind":"textbox","id":"sh/03q54nu9","slide":6,"text":"AI/ML and modeling","textPreview":"AI/ML and modeling","textChars":18,"textLines":1,"bbox":[104,433,230,28]}
+{"kind":"textbox","id":"sh/snu5kn25","slide":6,"text":"Irrigation data plan developed; Holos DSS calibrated; ET/model comparisons and early simulations underway.","textPreview":"Irrigation data plan developed; Holos DSS calibrated; ET/model comparisons and early simulations underway.","textChars":106,"textLines":1,"bbox":[368,429,448,42]}
+{"kind":"textbox","id":"sh/do36tsjq","slide":6,"text":"Define data quality rules before model building.","textPreview":"Define data quality rules before model building.","textChars":48,"textLines":1,"bbox":[850,429,270,42]}
+{"kind":"shape","id":"sh/qlcnixkz","slide":6,"bbox":[76,506,1084,72]}
+{"kind":"textbox","id":"sh/rmlor21k","slide":6,"text":"Economics and adoption","textPreview":"Economics and adoption","textChars":22,"textLines":1,"bbox":[104,524,230,28]}
+{"kind":"textbox","id":"sh/0ru5o721","slide":6,"text":"Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway.","textPreview":"Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway.","textChars":106,"textLines":1,"bbox":[368,520,448,42]}
+{"kind":"textbox","id":"sh/1sn6xcjm","slide":6,"text":"Connect field evidence to adoption and market claims.","textPreview":"Connect field evidence to adoption and market claims.","textChars":53,"textLines":1,"bbox":[850,520,270,42]}
+{"kind":"notes","id":"nt/abw49l","slide":6,"text":"[Sources]\nSoil sampling details from Year 2 annual report entries for Mowrer, Lewis, Ghimire, Basinger, Gholson, and Leon-Gonzalez.\nRegenerative systems details from Year 2 annual report entries for Rajan, Sanyal, Basinger, Sanz-Saez, Gholson, Jordan/Barth, and others.\nMicrobiome details from Year 2 annual report entry for Sanjay Antony-Babu.\nAI/ML and modeling details from Year 2 annual report entries for Mahendra Bhandari, Uday Vaddevolu, Karthikeyan Kannappan, and Drew Gholson.\nEconomics and adoption details from Year 2 annual report entries for Darren Hudson and Jennifer Jo Thompson."}
+{"kind":"slide","id":"sl/ohqznz","slide":7,"title":"DECISION EVIDENCE","textShapes":12}
+{"kind":"shape","id":"sh/mdgvm94v","slide":7,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/9g7uh4nm","slide":7,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/8fydozm1","slide":7,"text":"DECISION EVIDENCE","textPreview":"DECISION EVIDENCE","textChars":17,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/v2pcje5c","slide":7,"text":"Economics and adoption translate field results into producer choices","textPreview":"Economics and adoption translate field results into producer choices","textChars":68,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/ahgvq947","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/h4reloni","slide":7,"bbox":[76,146,1090,116]}
+{"kind":"textbox","id":"sh/w3idsjmx","slide":7,"text":"The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.","textPreview":"The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.","textChars":130,"textLines":1,"bbox":[112,184,990,34]}
+{"kind":"shape","id":"sh/bm5c7u58","slide":7,"bbox":[76,318,524,118]}
+{"kind":"textbox","id":"sh/qlwbep4n","slide":7,"text":"Economic feasibility","textPreview":"Economic feasibility","textChars":20,"textLines":1,"bbox":[104,340,440,26]}
+{"kind":"textbox","id":"sh/0r2x4vql","slide":7,"text":"Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters for yield and profit improvements.","textPreview":"Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters ...","textChars":171,"textLines":1,"bbox":[104,374,450,50]}
+{"kind":"shape","id":"sh/lsbex076","slide":7,"bbox":[642,318,524,118]}
+{"kind":"textbox","id":"sh/ypkf2l8v","slide":7,"text":"Risk and insurance","textPreview":"Risk and insurance","textChars":18,"textLines":1,"bbox":[670,340,440,26]}
+{"kind":"textbox","id":"sh/zqtwvqpg","slide":7,"text":"Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton systems.","textPreview":"Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton ...","textChars":145,"textLines":1,"bbox":[670,374,450,50]}
+{"kind":"shape","id":"sh/8vmx8vqx","slide":7,"bbox":[76,486,524,118]}
+{"kind":"textbox","id":"sh/9gve107i","slide":7,"text":"Producer adoption","textPreview":"Producer adoption","textChars":17,"textLines":1,"bbox":[104,508,440,26]}
+{"kind":"textbox","id":"sh/mt4f6l8r","slide":7,"text":"Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.","textPreview":"Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.","textChars":135,"textLines":1,"bbox":[104,542,450,50]}
+{"kind":"shape","id":"sh/nudwzqpc","slide":7,"bbox":[642,486,524,118]}
+{"kind":"textbox","id":"sh/4zidwbqt","slide":7,"text":"Survey and workshops","textPreview":"Survey and workshops","textChars":20,"textLines":1,"bbox":[670,508,440,26]}
+{"kind":"textbox","id":"sh/p0repg7y","slide":7,"text":"A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.","textPreview":"A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.","textChars":127,"textLines":1,"bbox":[670,542,450,50]}
+{"kind":"notes","id":"nt/ohqznz","slide":7,"text":"[Sources]\nEconomic feasibility and risk/insurance claims from Year 2 annual report entry for Darren Hudson, Texas Tech University.\nFocus groups, survey instrument, and participatory workshop details from Year 2 annual report entry for Jennifer Jo Thompson, University of Georgia."}
+{"kind":"slide","id":"sl/rbi1et","slide":8,"title":"STAKEHOLDER REACH","textShapes":15}
+{"kind":"shape","id":"sh/ju18juhc","slide":8,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/kvapcfyx","slide":8,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/lw3qlkz2","slide":8,"text":"STAKEHOLDER REACH","textPreview":"STAKEHOLDER REACH","textChars":17,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/a5s765gf","slide":8,"text":"Extension and education are building early visibility","textPreview":"Extension and education are building early visibility","textChars":53,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/b618fah0","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/xsjqhkz6","slide":8,"bbox":[72,432,344,138]}
+{"kind":"textbox","id":"sh/u1cri9gz","slide":8,"text":"Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.","textPreview":"Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.","textChars":127,"textLines":1,"bbox":[108,452,270,84]}
+{"kind":"shape","id":"sh/v2l8rehk","slide":8,"bbox":[472,150,300,198]}
+{"kind":"textbox","id":"sh/325crq9c","slide":8,"text":"3,560+","textPreview":"3,560+","textChars":6,"textLines":1,"bbox":[498,174,250,56]}
+{"kind":"textbox","id":"sh/i1wbyl8r","slide":8,"text":"Year 1 contacts","textPreview":"Year 1 contacts","textChars":15,"textLines":1,"bbox":[500,240,244,34]}
+{"kind":"textbox","id":"sh/54nut072","slide":8,"text":"Reported conferences, grower meetings, workshops, podcasts, and field programs.","textPreview":"Reported conferences, grower meetings, workshops, podcasts, and field programs.","textChars":79,"textLines":1,"bbox":[500,276,242,58]}
+{"kind":"shape","id":"sh/43et0vqh","slide":8,"bbox":[818,150,300,198]}
+{"kind":"textbox","id":"sh/r65cvqp8","slide":8,"text":"1,500+","textPreview":"1,500+","textChars":6,"textLines":1,"bbox":[844,174,250,56]}
+{"kind":"textbox","id":"sh/q5wb258n","slide":8,"text":"Year 2 contacts","textPreview":"Year 2 contacts","textChars":15,"textLines":1,"bbox":[846,240,244,34]}
+{"kind":"textbox","id":"sh/d87ux07e","slide":8,"text":"Reported event and summary counts; direct contacts still exceed 1,000.","textPreview":"Reported event and summary counts; direct contacts still exceed 1,000.","textChars":70,"textLines":1,"bbox":[846,276,242,58]}
+{"kind":"shape","id":"sh/s7yd4vqt","slide":8,"bbox":[472,390,300,198]}
+{"kind":"textbox","id":"sh/fapczap4","slide":8,"text":"7+","textPreview":"7+","textChars":2,"textLines":1,"bbox":[498,414,250,56]}
+{"kind":"textbox","id":"sh/e9gv658z","slide":8,"text":"Students and interns","textPreview":"Students and interns","textChars":20,"textLines":1,"bbox":[500,480,244,34]}
+{"kind":"textbox","id":"sh/ahknedw3","slide":8,"text":"PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.","textPreview":"PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.","textChars":86,"textLines":1,"bbox":[500,516,242,58]}
+{"kind":"shape","id":"sh/v2tonydo","slide":8,"bbox":[818,390,300,198]}
+{"kind":"textbox","id":"sh/w325g3e9","slide":8,"text":"Next evaluator question","textPreview":"Next evaluator question","textChars":23,"textLines":1,"bbox":[846,418,244,56]}
+{"kind":"textbox","id":"sh/x4v6p8vu","slide":8,"text":"Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?","textPreview":"Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?","textChars":106,"textLines":1,"bbox":[846,486,236,86]}
+{"kind":"image","id":"im/x07elwfq","slide":8,"name":"","geometry":"roundRect","alt":"Cotton field visual","bbox":[72,132,344,438]}
+{"kind":"notes","id":"nt/rbi1et","slide":8,"text":"[Sources]\nYear 1 outreach lower bound calculated from outreach table in SAS Cotton Annual Report 2024-25.\nYear 2 reported contacts summarized from dissemination section in SAS_Annual Report_2025-2026; count excludes a future field day reported after the planned evaluation meeting.\nTraining examples from Year 2 annual report Objective 6 section and Peter Dotray entry.\nCotton field image generated with OpenAI imagegen and embedded from workspace asset .codex-tmp/sas_eval_deck/assets/cotton-hero-bg.png."}
+{"kind":"slide","id":"sl/86s5fk","slide":9,"title":"EVALUATOR DISCUSSION","textShapes":15}
+{"kind":"shape","id":"sh/tkvmpwf2","slide":9,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/6h43uhwb","slide":9,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/7id4nmxw","slide":9,"text":"EVALUATOR DISCUSSION","textPreview":"EVALUATOR DISCUSSION","textChars":20,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/gn6l0ret","slide":9,"text":"The next review should strengthen evidence flow across objectives","textPreview":"The next review should strengthen evidence flow across objectives","textChars":65,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/1ofmtwfy","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/ulo3y1wn","slide":9,"bbox":[76,144,314,418]}
+{"kind":"textbox","id":"sh/fmx4r6x8","slide":9,"text":"Where feedback is most valuable","textPreview":"Where feedback is most valuable","textChars":31,"textLines":1,"bbox":[110,190,238,80]}
+{"kind":"textbox","id":"sh/or6l4bep","slide":9,"text":"The project has activity and early evidence. The need now is sharper integration, outcome evidence, and reporting discipline.","textPreview":"The project has activity and early evidence. The need now is sharper integration, outcome evidence, and reporting discipline.","textChars":125,"textLines":1,"bbox":[112,332,230,118]}
+{"kind":"shape","id":"sh/pszmxgfa","slide":9,"bbox":[440,146,722,60]}
+{"kind":"textbox","id":"sh/pw3ihwre","slide":9,"text":"Integration","textPreview":"Integration","textChars":11,"textLines":1,"bbox":[466,163,150,24]}
+{"kind":"textbox","id":"sh/ovuh8rqt","slide":9,"text":"Which objectives are still too independent, and where should data, economics, adoption, and extension be linked?","textPreview":"Which objectives are still too independent, and where should data, economics, adoption, and extension be linked?","textChars":112,"textLines":1,"bbox":[635,158,472,36]}
+{"kind":"shape","id":"sh/nul0fm98","slide":9,"bbox":[440,230,722,60]}
+{"kind":"textbox","id":"sh/2tcz6h83","slide":9,"text":"Metrics","textPreview":"Metrics","textChars":7,"textLines":1,"bbox":[466,247,150,24]}
+{"kind":"textbox","id":"sh/xknilgrq","slide":9,"text":"What should be tracked quarterly to show outputs, short-term outcomes, and adoption readiness?","textPreview":"What should be tracked quarterly to show outputs, short-term outcomes, and adoption readiness?","textChars":94,"textLines":1,"bbox":[635,242,472,36]}
+{"kind":"shape","id":"sh/czu1cbq5","slide":9,"bbox":[440,314,722,60]}
+{"kind":"textbox","id":"sh/byl0j69k","slide":9,"text":"Data flow","textPreview":"Data flow","textChars":9,"textLines":1,"bbox":[466,331,150,24]}
+{"kind":"textbox","id":"sh/axcza18z","slide":9,"text":"Where are protocols, metadata, sample transfers, or model inputs creating quality risk?","textPreview":"Where are protocols, metadata, sample transfers, or model inputs creating quality risk?","textChars":87,"textLines":1,"bbox":[635,326,472,36]}
+{"kind":"shape","id":"sh/doji9cr6","slide":9,"bbox":[440,398,722,60]}
+{"kind":"textbox","id":"sh/s3ah07ql","slide":9,"text":"Stakeholders","textPreview":"Stakeholders","textChars":12,"textLines":1,"bbox":[466,415,150,24]}
+{"kind":"textbox","id":"sh/4jy9cb2t","slide":9,"text":"Which producer, extension, industry, or supply-chain groups should be engaged more deeply?","textPreview":"Which producer, extension, industry, or supply-chain groups should be engaged more deeply?","textChars":90,"textLines":1,"bbox":[635,410,472,36]}
+{"kind":"shape","id":"sh/5k7q5g3e","slide":9,"bbox":[440,482,722,60]}
+{"kind":"textbox","id":"sh/ihwra1kn","slide":9,"text":"Reporting","textPreview":"Reporting","textChars":9,"textLines":1,"bbox":[466,499,150,24]}
+{"kind":"textbox","id":"sh/3i5836l8","slide":9,"text":"What evidence will make NIFA annual reports and the final impact story more credible?","textPreview":"What evidence will make NIFA annual reports and the final impact story more credible?","textChars":85,"textLines":1,"bbox":[635,494,472,36]}
+{"kind":"notes","id":"nt/86s5fk","slide":9,"text":"[Sources]\nChallenge themes from Year 1 and Year 2 annual report sections: hiring, protocol clarity, soil sampling timing, weather/grower access, data flow, and AI/ML student recruitment.\nEvaluation questions adapted from user-provided planning note."}
+{"kind":"slide","id":"sl/xo808s","slide":10,"title":"YEAR 3-5 EVALUATION RHYTHM","textShapes":19}
+{"kind":"shape","id":"sh/e5sjy14f","slide":10,"bbox":[0,0,34,720]}
+{"kind":"shape","id":"sh/1sj29gn6","slide":10,"bbox":[34,0,5,720]}
+{"kind":"textbox","id":"sh/g7a10bml","slide":10,"text":"YEAR 3-5 EVALUATION RHYTHM","textPreview":"YEAR 3-5 EVALUATION RHYTHM","textChars":26,"textLines":1,"bbox":[72,28,560,24]}
+{"kind":"textbox","id":"sh/r21k3654","slide":10,"text":"Manage the next phase around integration and impact evidence","textPreview":"Manage the next phase around integration and impact evidence","textChars":60,"textLines":1,"bbox":[72,54,1100,58]}
+{"kind":"textbox","id":"sh/618ju1oj","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1155,646,56,28]}
+{"kind":"shape","id":"sh/t4j25gna","slide":10,"bbox":[72,158,196,322]}
+{"kind":"textbox","id":"sh/s3a1wb6p","slide":10,"text":"Year 3","textPreview":"Year 3","textChars":6,"textLines":1,"bbox":[94,190,130,26]}
+{"kind":"textbox","id":"sh/bylkfq58","slide":10,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[94,242,150,70]}
+{"kind":"textbox","id":"sh/qxc36l4n","slide":10,"text":"Quarterly status, outputs, risks, and stakeholder contacts.","textPreview":"Quarterly status, outputs, risks, and stakeholder contacts.","textChars":59,"textLines":1,"bbox":[94,328,150,116]}
+{"kind":"shape","id":"sh/ova9gfa5","slide":10,"bbox":[292,158,196,322]}
+{"kind":"textbox","id":"sh/pgjap0rq","slide":10,"text":"Year 3-4","textPreview":"Year 3-4","textChars":8,"textLines":1,"bbox":[314,190,130,26]}
+{"kind":"textbox","id":"sh/2tsre5sf","slide":10,"text":"Data QA","textPreview":"Data QA","textChars":7,"textLines":1,"bbox":[314,242,150,70]}
+{"kind":"textbox","id":"sh/3u1sna90","slide":10,"text":"Harmonize soil, field, microbiome, AI/ML, economics, and adoption datasets.","textPreview":"Harmonize soil, field, microbiome, AI/ML, economics, and adoption datasets.","textChars":75,"textLines":1,"bbox":[314,328,150,116]}
+{"kind":"shape","id":"sh/gra9cva9","slide":10,"bbox":[512,158,196,322]}
+{"kind":"textbox","id":"sh/1sjal0ru","slide":10,"text":"Year 4","textPreview":"Year 4","textChars":6,"textLines":1,"bbox":[534,190,130,26]}
+{"kind":"textbox","id":"sh/ep8rals3","slide":10,"text":"Evaluator memo","textPreview":"Evaluator memo","textChars":14,"textLines":1,"bbox":[534,242,150,70]}
+{"kind":"textbox","id":"sh/fq1sjq9o","slide":10,"text":"Strengths, gaps, course corrections, and priority metrics.","textPreview":"Strengths, gaps, course corrections, and priority metrics.","textChars":58,"textLines":1,"bbox":[534,328,150,116]}
+{"kind":"shape","id":"sh/snq98vax","slide":10,"bbox":[732,158,196,322]}
+{"kind":"textbox","id":"sh/tozahgri","slide":10,"text":"Year 4-5","textPreview":"Year 4-5","textChars":8,"textLines":1,"bbox":[754,190,130,26]}
+{"kind":"textbox","id":"sh/987ypsza","slide":10,"text":"Impact link","textPreview":"Impact link","textChars":11,"textLines":1,"bbox":[754,242,150,70]}
+{"kind":"textbox","id":"sh/87yhwnyp","slide":10,"text":"Connect agronomic evidence with economics, adoption, and extension.","textPreview":"Connect agronomic evidence with economics, adoption, and extension.","textChars":67,"textLines":1,"bbox":[754,328,150,116]}
+{"kind":"shape","id":"sh/76pgnih4","slide":10,"bbox":[952,158,196,322]}
+{"kind":"textbox","id":"sh/m5gzudgj","slide":10,"text":"Year 5","textPreview":"Year 5","textChars":6,"textLines":1,"bbox":[974,190,130,26]}
+{"kind":"textbox","id":"sh/l47yl8zy","slide":10,"text":"Final package","textPreview":"Final package","textChars":13,"textLines":1,"bbox":[974,242,150,70]}
+{"kind":"textbox","id":"sh/k3yhs3yt","slide":10,"text":"Outcomes, adoption readiness, stakeholder value, and NIFA story.","textPreview":"Outcomes, adoption readiness, stakeholder value, and NIFA story.","textChars":64,"textLines":1,"bbox":[974,328,150,116]}
+{"kind":"shape","id":"sh/z2pgjyh8","slide":10,"bbox":[76,542,1090,78]}
+{"kind":"textbox","id":"sh/yhgzqtgn","slide":10,"text":"Meeting ask: confirm evaluation cadence, dashboard format, core indicators, and Year 3 course corrections.","textPreview":"Meeting ask: confirm evaluation cadence, dashboard format, core indicators, and Year 3 course corrections.","textChars":106,"textLines":1,"bbox":[112,564,1010,44]}
+{"kind":"notes","id":"nt/xo808s","slide":10,"text":"[Sources]\nNext-period plans from Year 2 annual report.\nEvaluation cadence, annual evaluator memo, and dashboard suggestions adapted from user-provided planning note.\nNIFA SAS page emphasizes systems-oriented CAP collaboration and stakeholder input: https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative/afri-strengthening-agricultural-systems"}

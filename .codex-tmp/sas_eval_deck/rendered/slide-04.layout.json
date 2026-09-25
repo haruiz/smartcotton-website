@@ -1,0 +1,665 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/v1zie2",
+    "id": "v1zie2",
+    "slide": 4,
+    "layoutId": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byx0fixo",
+      "id": "1",
+      "name": "title-4",
+      "bbox": [
+        41,
+        36,
+        1197,
+        110
+      ],
+      "geometry": "rect",
+      "text": "The six objectives form one Cotton Belt system",
+      "textPreview": "The six objectives form one Cotton Belt system",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The six objectives form one Cotton Belt system"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The six objectives form one Cotton Belt system",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The six objectives form one Cotton Belt system",
+              "fontSize": 38,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/czq18ny9",
+      "id": "2",
+      "name": "footer-4",
+      "bbox": [
+        1184,
+        659,
+        54,
+        25
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0zihsfu",
+      "id": "3",
+      "bbox": [
+        41,
+        232,
+        360,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Long-term goal",
+      "textPreview": "Long-term goal",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Long-term goal"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Long-term goal",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Long-term goal",
+              "fontSize": 25,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y18jaxgf",
+      "id": "4",
+      "bbox": [
+        41,
+        274,
+        380,
+        280
+      ],
+      "geometry": "rect",
+      "text": "Apply precision regenerative practices to improve carbon sequestration, greenhouse-gas mitigation, pest, nutrient, and water management; address labor challenges; create market opportunities; and sustain climate-smart cotton supply.",
+      "textPreview": "Apply precision regenerative practices to improve carbon sequestration, greenhouse-gas mitigation, pest, nutrient, and water management; ...",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Apply precision regenerative practices to"
+          },
+          {
+            "index": 2,
+            "text": "improve carbon sequestration,"
+          },
+          {
+            "index": 3,
+            "text": "greenhouse-gas mitigation, pest, nutrient,"
+          },
+          {
+            "index": 4,
+            "text": "and water management; address labor"
+          },
+          {
+            "index": 5,
+            "text": "challenges; create market opportunities;"
+          },
+          {
+            "index": 6,
+            "text": "and sustain climate-smart cotton supply."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Apply precision regenerative practices to improve carbon sequestration, greenhouse-gas mitigation, pest, nutrient, and water management; address labor challenges; create market opportunities; and sustain climate-smart cotton supply.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Apply precision regenerative practices to improve carbon sequestration, greenhouse-gas mitigation, pest, nutrient, and water management; address labor challenges; create market opportunities; and sustain climate-smart cotton supply.",
+              "fontSize": 20,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/a54zutsf",
+      "id": "5",
+      "bbox": [
+        505,
+        205,
+        734,
+        424
+      ],
+      "text": "Obj. 1 | Regenerative production, soil carbon baselines, soil health, simulation\nObj. 2 | Precision AI/ML and smart technologies for resource conservation\nObj. 3 | Economic feasibility and climate-smart market opportunities\nObj. 4 | Producer adoption, farmer experience, and social science evidence\nObj. 5 | Extension and outreach to support practice adoption\nObj. 6 | Education, training, underserved-community engagement, workforce",
+      "textPreview": "Obj. 1 | Regenerative production, soil carbon baselines, soil health, simulation | Obj. 2 | Precision AI/ML and smart technologies for re...",
+      "rows": 6,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            505,
+            205,
+            110,
+            70.67
+          ],
+          "text": "Obj. 1",
+          "textPreview": "Obj. 1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            615,
+            205,
+            624,
+            70.67
+          ],
+          "text": "Regenerative production, soil carbon baselines, soil health, simulation",
+          "textPreview": "Regenerative production, soil carbon baselines, soil health, simulation",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Regenerative production, soil carbon baselines, soil health, simulation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Regenerative production, soil carbon baselines, soil health, simulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            505,
+            275.67,
+            110,
+            70.67
+          ],
+          "text": "Obj. 2",
+          "textPreview": "Obj. 2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            615,
+            275.67,
+            624,
+            70.67
+          ],
+          "text": "Precision AI/ML and smart technologies for resource conservation",
+          "textPreview": "Precision AI/ML and smart technologies for resource conservation",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Precision AI/ML and smart technologies for resource conservation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Precision AI/ML and smart technologies for resource conservation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            505,
+            346.33,
+            110,
+            70.67
+          ],
+          "text": "Obj. 3",
+          "textPreview": "Obj. 3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            615,
+            346.33,
+            624,
+            70.67
+          ],
+          "text": "Economic feasibility and climate-smart market opportunities",
+          "textPreview": "Economic feasibility and climate-smart market opportunities",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Economic feasibility and climate-smart market opportunities",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Economic feasibility and climate-smart market opportunities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            505,
+            417,
+            110,
+            70.67
+          ],
+          "text": "Obj. 4",
+          "textPreview": "Obj. 4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            615,
+            417,
+            624,
+            70.67
+          ],
+          "text": "Producer adoption, farmer experience, and social science evidence",
+          "textPreview": "Producer adoption, farmer experience, and social science evidence",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Producer adoption, farmer experience, and social science evidence",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Producer adoption, farmer experience, and social science evidence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            505,
+            487.67,
+            110,
+            70.67
+          ],
+          "text": "Obj. 5",
+          "textPreview": "Obj. 5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            615,
+            487.67,
+            624,
+            70.67
+          ],
+          "text": "Extension and outreach to support practice adoption",
+          "textPreview": "Extension and outreach to support practice adoption",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Extension and outreach to support practice adoption",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Extension and outreach to support practice adoption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            505,
+            558.33,
+            110,
+            70.67
+          ],
+          "text": "Obj. 6",
+          "textPreview": "Obj. 6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Obj. 6",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Obj. 6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            615,
+            558.33,
+            624,
+            70.67
+          ],
+          "text": "Education, training, underserved-community engagement, workforce",
+          "textPreview": "Education, training, underserved-community engagement, workforce",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Education, training, underserved-community engagement, workforce",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Education, training, underserved-community engagement, workforce"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

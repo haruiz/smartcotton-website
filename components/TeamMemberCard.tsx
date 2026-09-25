@@ -9,30 +9,68 @@ type TeamMemberCardProps = {
   featured?: boolean;
 };
 
+function getInitials(name: string) {
+  return name
+    .split(" ")
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((part) => part[0]?.toUpperCase())
+    .join("");
+}
+
+function roleFocus(member: TeamMember) {
+  if (member.group === "Project Leadership") return "Project leadership and coordination";
+  if (member.group === "Co-PIs / Project Investigators") return "Research, Extension, technology, economics, or partner objective leadership";
+  if (member.group === "Postdoctoral Researchers and Graduate Students") return "Field, laboratory, greenhouse, data, and training support";
+  if (member.group === "Project Evaluators") return "Project evaluation and assessment";
+  if (member.group === "Trust In Food / Farm Journal Team") return "Outreach and stakeholder engagement";
+  if (member.group === "Soil Health Institute Collaborators") return "Soil health and adoption collaboration";
+  return "Stakeholder advisory input";
+}
+
 export function TeamMemberCard({ member, featured = false }: TeamMemberCardProps) {
   const hasPortrait = member.picture !== "/images/team-placeholder.svg";
 
   return (
     <article
       className={clsx(
-        "surface-card h-full p-5",
+        "surface-card flex h-full flex-col p-5",
         featured && "bg-white"
       )}
     >
-      <Image
-        src={getAssetPath(member.picture)}
-        width={320}
-        height={240}
-        alt={`Portrait of ${member.name}`}
-        className={clsx(
-          "w-full rounded-md border border-cotton-200 bg-cotton-50",
-          featured ? "aspect-[16/10]" : "aspect-[4/3]",
-          hasPortrait ? "object-cover" : "object-contain p-6"
-        )}
-      />
-      <p className="mt-4 text-sm font-semibold uppercase tracking-wide text-cotton-700">{member.institution}</p>
-      <h3 className={clsx("mt-1 font-semibold text-cotton-900", featured ? "text-2xl" : "text-lg")}>{member.name}</h3>
-      <p className="mt-1 text-sm text-cotton-900/70">{member.position}</p>
+      {hasPortrait ? (
+        <Image
+          src={getAssetPath(member.picture)}
+          width={320}
+          height={320}
+          alt={`Portrait of ${member.name}`}
+          className="aspect-square w-full rounded-md border border-cotton-200 bg-cotton-50 object-contain object-center"
+        />
+      ) : (
+        <div
+          className="flex aspect-square w-full items-center justify-center rounded-md border border-cotton-200 bg-cotton-100 text-2xl font-semibold text-cotton-900"
+          aria-label={`Portrait placeholder for ${member.name}`}
+        >
+          {getInitials(member.name)}
+        </div>
+      )}
+      <div className="flex flex-1 flex-col">
+        <h3 className="mt-4 text-xl font-semibold leading-7 text-cotton-900">{member.name}</h3>
+        <dl className="mt-3 grid gap-3 text-sm">
+          <div>
+            <dt className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Role</dt>
+            <dd className="mt-1 leading-6 text-cotton-900/75">{member.position}</dd>
+          </div>
+          <div>
+            <dt className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Affiliation</dt>
+            <dd className="mt-1 leading-6 text-cotton-900/75">{member.institution}</dd>
+          </div>
+        </dl>
+      </div>
+      <div className="mt-4 rounded-md border border-cotton-200 bg-cotton-50 p-3">
+        <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Role focus</p>
+        <p className="mt-1 text-sm leading-5 text-cotton-900/70">{roleFocus(member)}</p>
+      </div>
       {member.bio ? (
         featured ? (
           <p className="mt-3 text-sm leading-6 text-cotton-900/70">{member.bio}</p>

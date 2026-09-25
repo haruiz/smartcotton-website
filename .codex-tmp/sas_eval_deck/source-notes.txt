@@ -1,0 +1,21 @@
+Communication job:
+By the end, the SAS Cotton Project evaluation team should understand the project has moved from startup into multi-state data generation and stakeholder engagement, and should be ready to advise on integration, evidence quality, metrics, and Year 3-5 course corrections.
+
+Primary local sources:
+- C:\Users\deepak.loura\OneDrive - Texas A&M AgriLife\Desktop\SAS_2026\SAS Cotton Annual report 2024-25.docx
+- C:\Users\deepak.loura\OneDrive - Texas A&M AgriLife\Desktop\SAS_2026\SAS_Annual Report_2025-2026.docx
+- C:\Users\deepak.loura\.codex\attachments\f52972e4-3c2d-48a8-9970-223799f08ff2\pasted-text.txt
+
+External sources checked:
+- NIFA AFRI Strengthening Agricultural Systems page, last updated July 9, 2026:
+  https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative/afri-strengthening-agricultural-systems
+- NIFA AFRI Strengthening Agricultural Systems NOFO FAQ, last updated March 16, 2026:
+  https://www.nifa.usda.gov/grants/programs/agriculture-food-research-initiative/afri-strengthening-agricultural-systems-rfa-frequently-asked-questions
+- FY26 AFRI SAS NOFO PDF:
+  https://www.nifa.usda.gov/sites/default/files/2026-01/FY26-AFRI-SAS-NOFO-P_0.pdf
+- AFRI SAS glossary:
+  https://www.nifa.usda.gov/glossary-afri-sustainable-agricultural-systems-rfa
+
+Source cautions:
+- The Year 2 annual report contains a claim that a field day was hosted in September 2026, but the evaluation meeting is planned for August 2026 and the current date is July 31, 2026. I did not count that event as a completed outreach output.
+- Year 2 outreach counts may contain overlapping summary counts and event-level counts. The deck therefore uses "reported contacts" language rather than unique participant totals.

@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { Card } from "@/components/Card";
+import { PhotoSequence } from "@/components/PhotoSequence";
 import { SectionHeader } from "@/components/SectionHeader";
 import { activities, featuredActivityUpdates } from "@/content/activities";
 import { annualProgress } from "@/content/annualProgress";
-import { outreachActivities } from "@/content/outreach";
 import { getAssetPath } from "@/utils/path";
 
 export const metadata: Metadata = {
@@ -17,52 +18,20 @@ export const metadata: Metadata = {
   }
 };
 
-const outreachYears = Array.from(new Set(outreachActivities.map((activity) => activity.year)));
-const outreachTypes = Array.from(new Set(outreachActivities.map((activity) => activity.type))).slice(0, 12);
-const defaultOpenOutreachYear = outreachYears.includes("2025-2026") ? "2025-2026" : outreachYears[0];
-
 const activityStats = [
   { label: "Active work streams", value: activities.length },
-  { label: "Annual reporting years", value: annualProgress.length },
-  { label: "Outreach records", value: outreachActivities.length }
+  { label: "Annual reporting years", value: annualProgress.length }
 ];
-
-function OutreachCard({ activity }: { activity: (typeof outreachActivities)[number] }) {
-  return (
-    <article className="surface-card-muted p-5">
-      <div className="flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-wide">
-        <span className="chip bg-white text-cotton-700">{activity.type}</span>
-        <span className="chip bg-white text-skydata-700">{activity.date}</span>
-      </div>
-      <h3 className="mt-3 text-lg font-semibold leading-7 text-cotton-900">{activity.title}</h3>
-      <p className="mt-2 text-sm font-medium text-cotton-900/75">{activity.presenter}</p>
-      <p className="mt-1 text-sm text-cotton-900/65">{activity.location}</p>
-      <p className="mt-3 text-sm leading-6 text-cotton-900/70">{activity.summary}</p>
-      <details className="mt-4 rounded-md border border-cotton-200 bg-white p-3">
-        <summary className="cursor-pointer text-sm font-semibold text-cotton-900">Audience and reach</summary>
-        <div className="mt-3 text-xs leading-5 text-cotton-900/65">
-          <p>
-            <span className="font-semibold text-cotton-900">Audience:</span> {activity.audience}
-          </p>
-          {activity.participants ? (
-            <p>
-              <span className="font-semibold text-cotton-900">Participants:</span> {activity.participants}
-            </p>
-          ) : null}
-        </div>
-      </details>
-    </article>
-  );
-}
 
 function FeaturedActivityUpdate({ update }: { update: (typeof featuredActivityUpdates)[number] }) {
   const [leadImage, ...supportingImages] = update.images;
+  const headingId = `${update.slug}-heading`;
 
   return (
-    <section className="mt-10" aria-labelledby="featured-activity-update-heading">
+    <section id={update.slug} className="mt-10 scroll-mt-28" aria-labelledby={headingId}>
       <div className="section-divider">
         <p className="eyebrow">Featured activity update</p>
-        <h2 id="featured-activity-update-heading" className="mt-2 text-2xl font-semibold text-cotton-900">
+        <h2 id={headingId} className="mt-2 text-2xl font-semibold text-cotton-900">
           {update.title}
         </h2>
         <p className="mt-2 text-sm leading-6 text-cotton-900/70">{update.summary}</p>
@@ -89,11 +58,33 @@ function FeaturedActivityUpdate({ update }: { update: (typeof featuredActivityUp
             <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Key objective</p>
             <p className="mt-2 text-base font-semibold leading-7 text-cotton-900">{update.objective}</p>
           </div>
+          {update.studyDetails ? (
+            <div className="mt-5 grid gap-3 sm:grid-cols-2">
+              {update.studyDetails.map((detail) => (
+                <div key={detail.label} className="rounded-md border border-cotton-200 bg-cotton-50 p-3">
+                  <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">{detail.label}</p>
+                  <p className="mt-1 text-sm font-semibold leading-6 text-cotton-900">{detail.value}</p>
+                </div>
+              ))}
+            </div>
+          ) : null}
           <div className="mt-5 grid gap-3 text-sm leading-6 text-cotton-900/70">
             {update.paragraphs.map((paragraph) => (
               <p key={paragraph}>{paragraph}</p>
             ))}
           </div>
+          {update.researchAreas ? (
+            <div className="mt-6 rounded-md border border-cotton-200 bg-cotton-50 p-4">
+              <p className="text-xs font-semibold uppercase tracking-wide text-cotton-700">Research areas</p>
+              <ul className="mt-3 grid gap-2 text-sm leading-6 text-cotton-900/72">
+                {update.researchAreas.map((area) => (
+                  <li key={area} className="border-l-2 border-cotton-300 pl-3">
+                    {area}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
           <div className="mt-6 flex flex-wrap gap-2" aria-label="Activity topics">
             {update.tags.map((tag) => (
               <span key={tag} className="chip">
@@ -104,20 +95,24 @@ function FeaturedActivityUpdate({ update }: { update: (typeof featuredActivityUp
         </div>
       </div>
 
-      <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        {supportingImages.map((image) => (
-          <figure key={image.src} className="surface-card group overflow-hidden">
-            <Image
-              src={getAssetPath(image.src)}
-              width={1350}
-              height={1800}
-              alt={image.alt}
-              className="image-zoom aspect-[4/3] w-full object-cover"
-            />
-            <figcaption className="p-4 text-xs font-medium leading-5 text-cotton-900/70">{image.caption}</figcaption>
-          </figure>
-        ))}
-      </div>
+      {update.gallery ? (
+        <PhotoSequence collection={update.gallery} />
+      ) : (
+        <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {supportingImages.map((image) => (
+            <figure key={image.src} className="surface-card group overflow-hidden">
+              <Image
+                src={getAssetPath(image.src)}
+                width={1350}
+                height={1800}
+                alt={image.alt}
+                className="image-zoom aspect-[4/3] w-full object-cover"
+              />
+              <figcaption className="p-4 text-xs font-medium leading-5 text-cotton-900/70">{image.caption}</figcaption>
+            </figure>
+          ))}
+        </div>
+      )}
     </section>
   );
 }
@@ -129,11 +124,11 @@ export default function OngoingActivitiesPage() {
         <SectionHeader
           as="h1"
           eyebrow="Ongoing Activities"
-          title="Field work, outreach, and training in motion"
-          description="A public-facing view of what the SmartCotton network is doing now, organized for quick scanning with detailed records available on demand."
+          title="Field work and research progress in motion"
+          description="A public-facing view of current field, lab, data, and objective-level activity. Outreach records are maintained on the Outreach page."
         />
 
-        <div className="mt-8 grid gap-4 md:grid-cols-3">
+        <div className="mt-8 grid gap-4 md:grid-cols-2">
           {activityStats.map((stat) => (
             <div key={stat.label} className="stat-card">
               <p className="text-3xl font-semibold text-cotton-900">{stat.value}</p>
@@ -152,7 +147,7 @@ export default function OngoingActivitiesPage() {
               Current work streams
             </h2>
             <p className="mt-2 text-sm leading-6 text-cotton-900/70">
-              Recurring field, data, outreach, and training areas drawn from the Year 2 progress narrative.
+              Recurring field, data, laboratory, and training areas drawn from the Year 2 progress narrative.
             </p>
           </div>
           <div className="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
@@ -207,65 +202,16 @@ export default function OngoingActivitiesPage() {
           </div>
         </section>
 
-        <section className="mt-14" aria-labelledby="outreach-heading">
-          <div className="section-divider">
-            <h2 id="outreach-heading" className="text-2xl font-semibold text-cotton-900">
-              Outreach and Extension activities
-            </h2>
-            <p className="mt-2 text-sm leading-6 text-cotton-900/70">
-              Field days, grower meetings, workshops, conferences, webinars, seminars, podcasts, stakeholder visits, and training activities from both reporting periods.
-            </p>
-          </div>
-
-          <div className="surface-card mt-6 grid gap-3 p-4">
-            <div className="flex flex-wrap gap-2" aria-label="Outreach years">
-              {outreachYears.map((year) => (
-                <span key={year} className="chip">
-                  {year}
-                </span>
-              ))}
-            </div>
-            <div className="flex flex-wrap gap-2" aria-label="Outreach activity types">
-              {outreachTypes.map((type) => (
-                <span key={type} className="chip text-skydata-700">
-                  {type}
-                </span>
-              ))}
-            </div>
-          </div>
-
-          <div className="mt-6 grid gap-8">
-            {outreachYears.map((year) => {
-              const yearActivities = outreachActivities.filter((activity) => activity.year === year);
-              const visibleActivities = yearActivities.slice(0, 6);
-              const additionalActivities = yearActivities.slice(6);
-
-              return (
-                <details key={year} open={year === defaultOpenOutreachYear} className="surface-card p-6">
-                  <summary className="cursor-pointer text-xl font-semibold text-cotton-900">
-                    {year} outreach and Extension ({yearActivities.length})
-                  </summary>
-                  <div className="mt-6 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-                    {visibleActivities.map((activity) => (
-                      <OutreachCard key={`${activity.year}-${activity.presenter}-${activity.title}`} activity={activity} />
-                    ))}
-                  </div>
-                  {additionalActivities.length ? (
-                    <details className="mt-5 rounded-md border border-cotton-200 bg-cotton-50 p-4">
-                      <summary className="cursor-pointer text-sm font-semibold text-cotton-900">
-                        Show {additionalActivities.length} more activities
-                      </summary>
-                      <div className="mt-5 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-                        {additionalActivities.map((activity) => (
-                          <OutreachCard key={`${activity.year}-${activity.presenter}-${activity.title}`} activity={activity} />
-                        ))}
-                      </div>
-                    </details>
-                  ) : null}
-                </details>
-              );
-            })}
-          </div>
+        <section className="surface-card mt-14 p-6" aria-labelledby="outreach-route-heading">
+          <h2 id="outreach-route-heading" className="text-2xl font-semibold text-cotton-900">
+            Looking for outreach records?
+          </h2>
+          <p className="mt-2 text-sm leading-6 text-cotton-900/70">
+            Field days, grower meetings, workshops, stakeholder visits, and training activities are organized on the Outreach page.
+          </p>
+          <Link href="/outreach" className="text-link mt-4 inline-flex text-sm">
+            See outreach activities
+          </Link>
         </section>
       </div>
     </section>

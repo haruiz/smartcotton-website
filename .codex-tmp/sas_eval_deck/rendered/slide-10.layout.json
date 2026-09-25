@@ -1,0 +1,885 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/65fxc1",
+    "id": "65fxc1",
+    "slide": 10,
+    "layoutId": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6p43epc",
+      "id": "1",
+      "name": "title-10",
+      "bbox": [
+        41,
+        36,
+        1197,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Years 3-5 should focus on integration and impact evidence",
+      "textPreview": "Years 3-5 should focus on integration and impact evidence",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Years 3-5 should focus on integration and impact evidence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Years 3-5 should focus on integration and impact evidence",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Years 3-5 should focus on integration and impact evidence",
+              "fontSize": 38,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7y5wj6x",
+      "id": "2",
+      "name": "footer-10",
+      "bbox": [
+        1184,
+        659,
+        54,
+        25
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/c7ad83ul",
+      "id": "3",
+      "bbox": [
+        41,
+        145,
+        1197,
+        484
+      ],
+      "text": "Year 3 | Year 3-4 | Year 4 | Year 4-5 | Year 5",
+      "textPreview": "Year 3 | Year 3-4 | Year 4 | Year 4-5 | Year 5",
+      "rows": 1,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41,
+            145,
+            239,
+            484
+          ],
+          "text": "Year 3",
+          "textPreview": "Year 3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 3"
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/61wnq98v",
+            "sh/7254zep0"
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            280,
+            145,
+            239,
+            484
+          ],
+          "text": "Year 3-4",
+          "textPreview": "Year 3-4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 3-4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 3-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            519,
+            145,
+            239,
+            484
+          ],
+          "text": "Year 4",
+          "textPreview": "Year 4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 4"
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/qps7qp4r"
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            758,
+            145,
+            239,
+            484
+          ],
+          "text": "Year 4-5",
+          "textPreview": "Year 4-5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 4-5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 4-5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            997,
+            145,
+            241,
+            484
+          ],
+          "text": "Year 5",
+          "textPreview": "Year 5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 5"
+                }
+              ]
+            }
+          ],
+          "ownedElementAids": [
+            "sh/dc36lk3i",
+            "sh/cbupszmx"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61wnq98v",
+      "id": "4",
+      "bbox": [
+        53,
+        208,
+        440,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2",
+      "lineWidth": 0,
+      "tableCell": {
+        "tableAid": "tb/c7ad83ul",
+        "cellIndex": 1,
+        "row": 1,
+        "column": 1,
+        "overlap": 0.52
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7254zep0",
+      "id": "5",
+      "bbox": [
+        75,
+        220,
+        400,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Quarterly dashboard: objective status, outputs, risks, stakeholder contacts",
+      "textPreview": "Quarterly dashboard: objective status, outputs, risks, stakeholder contacts",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Quarterly dashboard: objective status,"
+          },
+          {
+            "index": 2,
+            "text": "outputs, risks, stakeholder contacts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Quarterly dashboard: objective status, outputs, risks, stakeholder contacts",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Quarterly dashboard: objective status, outputs, risks, stakeholder contacts",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0,
+      "tableCell": {
+        "tableAid": "tb/c7ad83ul",
+        "cellIndex": 1,
+        "row": 1,
+        "column": 1,
+        "overlap": 0.51
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83e5sz6l",
+      "id": "6",
+      "bbox": [
+        296,
+        284,
+        675,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4nm1476",
+      "id": "7",
+      "bbox": [
+        318,
+        296,
+        635,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Complete, harmonize, and QA soil, field, microbiome, AI/ML, and adoption datasets",
+      "textPreview": "Complete, harmonize, and QA soil, field, microbiome, AI/ML, and adoption datasets",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Complete, harmonize, and QA soil, field, microbiome, AI/ML, and"
+          },
+          {
+            "index": 2,
+            "text": "adoption datasets"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Complete, harmonize, and QA soil, field, microbiome, AI/ML, and adoption datasets",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Complete, harmonize, and QA soil, field, microbiome, AI/ML, and adoption datasets",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxgn2toz",
+      "id": "8",
+      "bbox": [
+        296,
+        359,
+        923,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry9obypk",
+      "id": "9",
+      "bbox": [
+        318,
+        371,
+        883,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Link agronomic evidence with economics, adoption, and extension recommendations",
+      "textPreview": "Link agronomic evidence with economics, adoption, and extension recommendations",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Link agronomic evidence with economics, adoption, and extension recommendations"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Link agronomic evidence with economics, adoption, and extension recommendations",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Link agronomic evidence with economics, adoption, and extension recommendations",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ba1ojulc",
+      "id": "10",
+      "bbox": [
+        496,
+        432,
+        479,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qps7qp4r",
+      "id": "11",
+      "bbox": [
+        518,
+        444,
+        439,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Annual evaluator memo: strengths, gaps, corrections, and priority metrics",
+      "textPreview": "Annual evaluator memo: strengths, gaps, corrections, and priority metrics",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Annual evaluator memo: strengths, gaps,"
+          },
+          {
+            "index": 2,
+            "text": "corrections, and priority metrics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Annual evaluator memo: strengths, gaps, corrections, and priority metrics",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Annual evaluator memo: strengths, gaps, corrections, and priority metrics",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0,
+      "tableCell": {
+        "tableAid": "tb/c7ad83ul",
+        "cellIndex": 3,
+        "row": 1,
+        "column": 3,
+        "overlap": 0.54
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dc36lk3i",
+      "id": "12",
+      "bbox": [
+        790,
+        500,
+        430,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F2F2F2",
+      "lineWidth": 0,
+      "tableCell": {
+        "tableAid": "tb/c7ad83ul",
+        "cellIndex": 5,
+        "row": 1,
+        "column": 5,
+        "overlap": 0.52
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbupszmx",
+      "id": "13",
+      "bbox": [
+        812,
+        512,
+        390,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Final impact package: outcomes, adoption readiness, stakeholder value, NIFA reporting story",
+      "textPreview": "Final impact package: outcomes, adoption readiness, stakeholder value, NIFA reporting story",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Final impact package: outcomes,"
+          },
+          {
+            "index": 2,
+            "text": "adoption readiness, stakeholder value,"
+          },
+          {
+            "index": 3,
+            "text": "NIFA reporting story"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Final impact package: outcomes, adoption readiness, stakeholder value, NIFA reporting story",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Final impact package: outcomes, adoption readiness, stakeholder value, NIFA reporting story",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0,
+      "tableCell": {
+        "tableAid": "tb/c7ad83ul",
+        "cellIndex": 5,
+        "row": 1,
+        "column": 5,
+        "overlap": 0.53
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zelonulo",
+      "id": "14",
+      "bbox": [
+        61,
+        575,
+        1158,
+        54
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF5FB",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydc7up43",
+      "id": "15",
+      "bbox": [
+        83,
+        587,
+        1118,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Meeting ask: confirm cadence, indicators, dashboard format, and Year 3 course corrections",
+      "textPreview": "Meeting ask: confirm cadence, indicators, dashboard format, and Year 3 course corrections",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Meeting ask: confirm cadence, indicators, dashboard format, and Year 3 course corrections"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Meeting ask: confirm cadence, indicators, dashboard format, and Year 3 course corrections",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Meeting ask: confirm cadence, indicators, dashboard format, and Year 3 course corrections",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

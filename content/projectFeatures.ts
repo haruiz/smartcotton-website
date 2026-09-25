@@ -43,10 +43,7 @@ export const annualReports = [
       "Field and soil-health baseline work began in multiple Cotton Belt locations, including producer engagement, soil organic carbon sampling, living mulch and cover-crop evaluations, cultivar and root studies, circular buffer strip research, gas flux monitoring, and on-farm recruitment.",
       "Precision and decision-support groundwork was initiated through field measurements, biomass and yield sampling, irrigation and sensor planning, and coordination of future AI/ML and economic analyses.",
       "Outreach, stakeholder engagement, and training began through field days, grower meetings, professional conferences, Extension programs, student and postdoctoral mentoring, and planning for technical bulletins, training modules, and digital content."
-    ],
-    href: "/reports/smartcotton-year-1-annual-report-2025-submitted.pdf",
-    status: "Download Year 1 submitted report PDF",
-    isAvailable: true
+    ]
   },
   {
     year: "Year 2",
@@ -58,10 +55,7 @@ export const annualReports = [
       "Regenerative cotton research advanced through soil carbon, respiration, aggregate stability, AMF, phosphatase, microbiome, root-trait, cover-crop, bed configuration, rotation, buffer-strip, and on-farm sampling activities across major cotton production regions.",
       "Precision technology work moved toward AI/ML-ready data streams using soil moisture sensors, UAS and satellite imagery, plant growth, biomass, yield, fiber quality, irrigation, treatment data, and Holos DSS simulations.",
       "Economic, adoption, Extension, and education work expanded through profitability and risk analyses, focus groups with producers, field days, grower meetings, workshops, conferences, seminars, webinars, stakeholder visits, and hands-on undergraduate, graduate, and postdoctoral training."
-    ],
-    href: "/reports/smartcotton-year-2-annual-report-2026-submitted.pdf",
-    status: "Download Year 2 submitted report PDF",
-    isAvailable: true
+    ]
   }
 ];
 
@@ -155,26 +149,38 @@ export const galleryItems: GalleryItem[] = [
   {
     title: "Regenerative cotton field trials",
     description: "Field and on-farm work evaluating cover crops, tillage, bed systems, rotations, living mulches, and soil health indicators.",
-    image: "/images/cotton-field-research-real.png",
-    alt: "Cotton research field with rows of plants"
+    image: "/images/project-photos/cotton-row-canopy.jpg",
+    alt: "Low view between cotton rows in a green field"
   },
   {
     title: "Soil carbon and soil health sampling",
     description: "Sampling campaigns supporting soil organic carbon, respiration, wet aggregate stability, AMF, phosphatase, microbiome, and pathobiome analyses.",
-    image: "/images/soil-carbon-banner-real.png",
-    alt: "Soil health research in a cotton production setting"
+    image: "/images/project-photos/cotton-flower-canopy.jpg",
+    alt: "Cotton flower surrounded by green cotton canopy"
   },
   {
     title: "UAS, sensors, and AI-ready datasets",
     description: "Remote sensing, sensor, satellite, yield, fiber quality, and agronomic measurements supporting precision AI/ML cotton research.",
-    image: "/images/precision-cotton-banner-real.png",
-    alt: "Precision agriculture imagery over cotton fields"
+    image: "/images/project-photos/cotton-harvest-machinery.jpg",
+    alt: "Cotton harvest machinery in a mature field"
   },
   {
     title: "Field days, meetings, and training",
     description: "Outreach, Extension, student training, annual updates, and Cotton Belt stakeholder engagement activities.",
-    image: "/images/news-field-day.svg",
-    alt: "Illustration of a field day and research outreach event"
+    image: "/images/project-photos/cotton-flower-bee.jpg",
+    alt: "Bee visiting a cotton flower in a project field"
+  },
+  {
+    title: "Cotton boll development",
+    description: "Close-up views of cotton bolls and flowers help visitors connect the project story to the crop itself.",
+    image: "/images/project-photos/cotton-closeup-boll.jpg",
+    alt: "Close-up of an open cotton boll"
+  },
+  {
+    title: "Pollinator activity in cotton",
+    description: "Project field imagery highlights the living field environment where agronomic and ecological measurements take place.",
+    image: "/images/project-photos/cotton-pollinator-flower.jpg",
+    alt: "Pollinator inside a cotton flower"
   }
 ];
 
@@ -220,10 +226,18 @@ export const sanguAngadiVisitGallery: GalleryCollection = {
 
 export const annualMeetingGallery: GalleryCollection = {
   eyebrow: "Annual Meeting",
-  title: "SAS CAP Annual Update Meeting",
+  title: "SAS Cotton annual project meetings",
   description:
-    "SmartCotton collaborators met in person and online for the SAS CAP Grant Annual Update Meeting in Salt Lake City on November 9, 2025, sharing research progress, project coordination updates, and next-step plans.",
+    "Annual meeting materials and photos from SAS Cotton project update meetings, including the 2026 annual project meeting flyer and 2025 update meeting photos.",
   photos: [
+    {
+      title: "2026 annual project meeting flyer",
+      description:
+        "The 2026 SAS Cotton Annual Project Meeting will focus on Year 2 progress, Year 3 planning, collaboration, publications, datasets, and outreach updates.",
+      image: "/images/events/sas-cotton-annual-project-meeting-2026-flyer.png",
+      alt: "2026 SAS Cotton Annual Project Meeting flyer with date, time, location, hybrid meeting format, and meeting highlights",
+      objectPosition: "center center"
+    },
     {
       title: "Annual meeting discussion",
       description: "Project team members meet in person during the SAS CAP Grant Annual Update Meeting.",
@@ -257,7 +271,149 @@ export const annualMeetingGallery: GalleryCollection = {
   ]
 };
 
+export const ce2CollegeStationGallery: GalleryCollection = {
+  eyebrow: "College Station CE2 Research",
+  title: "Cover crop planting on beds in College Station, Texas",
+  description:
+    "Original field photographs from the SmartCotton CE2 study location in College Station, Texas, showing cover crop field management, sampling, cotton growth observations, and research team activity.",
+  photos: [
+    {
+      title: "Quadrat-based field observations",
+      description:
+        "A sampling quadrat is used for field observations and sample collection within the CE2 research plots.",
+      image: "/images/research/ce2-college-station/ce2-college-station-sampling-quadrat.jpeg",
+      alt: "Research team members kneeling beside a sampling quadrat in a College Station field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Field management in cover crops",
+      description:
+        "Field equipment operating in the CE2 study area as part of cover crop and cotton system management.",
+      image: "/images/research/ce2-college-station/ce2-college-station-tractor-field-management.jpeg",
+      alt: "Tractor operating in a green cover crop field at College Station, Texas",
+      objectPosition: "center center"
+    },
+    {
+      title: "Field preparation activity",
+      description:
+        "Equipment activity in the College Station field during cover crop termination and field-preparation work.",
+      image: "/images/research/ce2-college-station/ce2-college-station-field-preparation-tractor.jpeg",
+      alt: "Tractor and field implement moving through a cover crop research field under cloudy sky",
+      objectPosition: "center center"
+    },
+    {
+      title: "Field sampling and data collection",
+      description:
+        "Team members collect field samples and observations from CE2 plots in College Station, Texas.",
+      image: "/images/research/ce2-college-station/ce2-college-station-field-sampling-team.jpeg",
+      alt: "Research team members collecting field samples in a cover crop research plot",
+      objectPosition: "center center"
+    },
+    {
+      title: "Cotton growth observations",
+      description:
+        "Cotton plants growing in the experimental field are monitored as part of CE2 field observations.",
+      image: "/images/research/ce2-college-station/ce2-college-station-cotton-growth-field-observations.jpeg",
+      alt: "Cotton plants growing in experimental rows with crop residue between rows",
+      objectPosition: "center center"
+    },
+    {
+      title: "Research team field activity",
+      description:
+        "Research team members document field activity while working in the College Station CE2 study area.",
+      image: "/images/research/ce2-college-station/ce2-college-station-research-team-field.jpeg",
+      alt: "Research team members standing in a cotton field during sampling activity",
+      objectPosition: "center center"
+    }
+  ]
+};
+
+export const northCarolinaCoverCropGallery: GalleryCollection = {
+  eyebrow: "North Carolina Research",
+  title: "Cover crop planting on beds and field sampling",
+  description:
+    "The North Carolina team is advancing CE2 research on cover crop planting on beds while continuing planting, stand evaluation, soil coring, field sampling, and biomass-processing activities.",
+  photos: [
+    {
+      title: "Cover crop planting on beds",
+      description:
+        "Field equipment is used to establish cotton research plots into cover crop residue as part of the North Carolina CE2 research effort.",
+      image: "/images/research/nc-cover-crop-planting.jpeg",
+      alt: "Planter moving through cover crop residue in a North Carolina field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Stand evaluation",
+      description:
+        "Team members complete field counts and crop monitoring to track cotton establishment and plot conditions.",
+      image: "/images/research/nc-cover-crop-stand-counts.jpeg",
+      alt: "Researchers evaluating cotton stand counts in a North Carolina field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Soil core extraction",
+      description:
+        "Soil coring supports measurements connected to soil health, carbon, and cover crop system performance.",
+      image: "/images/research/nc-cover-crop-extracting-soil-core.jpeg",
+      alt: "Researchers extracting a soil core in a cover crop field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Soil core storage",
+      description:
+        "Collected soil cores are organized and stored for processing and analysis after field sampling.",
+      image: "/images/research/nc-cover-crop-soil-cores.jpeg",
+      alt: "Soil core tubes stored on a laboratory shelf",
+      objectPosition: "center center"
+    }
+  ]
+};
+
+export const northCarolinaSoilBaselineGallery: GalleryCollection = {
+  eyebrow: "North Carolina Soil Baselines",
+  title: "Soil organic carbon and nutrient baseline sampling",
+  description:
+    "The North Carolina team expanded soil organic carbon and nutrient baseline sampling to 24 fields, using a gas-powered soil sampling system to improve field collection efficiency while samples move through drying, grinding, and shipment preparation.",
+  photos: [
+    {
+      title: "Expanded field sampling network",
+      description:
+        "Aerial field imagery shows the scale of the North Carolina sampling network supporting soil organic carbon and nutrient baseline work.",
+      image: "/images/research/nc-soc-field-aerial.jpeg",
+      alt: "Aerial view of North Carolina cotton fields in the soil baseline sampling network",
+      objectPosition: "center center"
+    },
+    {
+      title: "Gas-powered soil sampling",
+      description:
+        "The team is using a gas-powered soil sampling system to make field collection faster and more efficient across multiple fields.",
+      image: "/images/research/nc-soc-gas-powered-sampling.jpeg",
+      alt: "Researcher using a gas-powered soil sampling system in a cotton field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Soil core collection",
+      description:
+        "Field sampling captures soil cores that support the larger multi-state dataset for carbon and nutrient baseline measurements.",
+      image: "/images/research/nc-soc-soil-core-field.jpeg",
+      alt: "Researcher collecting a soil core in a North Carolina cotton field",
+      objectPosition: "center center"
+    },
+    {
+      title: "Sample preparation and grinding",
+      description:
+        "Processed samples are dried, ground, organized, and prepared for shipment to Texas for project analyses.",
+      image: "/images/research/nc-soc-soil-grinding.jpeg",
+      alt: "Soil samples and grinding equipment arranged on a field laboratory cart",
+      objectPosition: "center center"
+    }
+  ]
+};
+
 export const galleryCollections: GalleryCollection[] = [
+  ce2CollegeStationGallery,
+  northCarolinaSoilBaselineGallery,
+  northCarolinaCoverCropGallery,
   sanguAngadiVisitGallery,
   annualMeetingGallery
 ];

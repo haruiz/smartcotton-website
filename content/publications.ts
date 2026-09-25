@@ -140,7 +140,7 @@ const publicationItems = [
     type: "Conference proceeding",
     status: "Proceeding",
     citation:
-      "Mollaee M, Coello SG, Sanz-Saez A, Bagavathiannan M, Maity A. Field Evaluation for Allelopathic Potential of 120 Cotton Lines Against Southern Weeds for Sustainable Weed Management Control. Proceedings of the Southern Weed Science Society Annual Meeting, Nashville, TN, March 8-10, 2026."
+      "Mollaee M, Coello SG, Sanz-Saez A, Bagavathiannan M, Maity A. Field Evaluation for Allelopathic Potential of 120 Cotton Lines Against Southern Weeds for Strengthening Weed Management Control. Proceedings of the Southern Weed Science Society Annual Meeting, Nashville, TN, March 8-10, 2026."
   },
   {
     id: "nimakoh-precision-management-saea-2026",
@@ -383,7 +383,7 @@ const publicationItems = [
     type: "Conference abstract",
     status: "Abstract",
     citation:
-      "Kariyawasam Hetti Gamage, L. R., Poudyal, C., Bagavathiannan, M., & Rajan, N. Evaluating cover crop termination strategies for sustainable cotton production in raised bed and flat planting systems [Abstract]. ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, UT."
+      "Kariyawasam Hetti Gamage, L. R., Poudyal, C., Bagavathiannan, M., & Rajan, N. Evaluating cover crop termination strategies for strengthening cotton production in raised bed and flat planting systems [Abstract]. ASA-CSSA-SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, UT."
   },
   {
     id: "gamage-raised-bed-beltwide-proceeding-2026",

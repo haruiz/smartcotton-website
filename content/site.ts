@@ -16,8 +16,7 @@ export const navItems = [
     label: "About",
     items: [
       { label: "Project", href: "/project" },
-      { label: "Project Team", href: "/project-team" },
-      { label: "Contact", href: "/contact" }
+      { label: "Project Team", href: "/project-team" }
     ]
   },
   {
@@ -25,17 +24,19 @@ export const navItems = [
     items: [
       { label: "Research Highlights", href: "/research-highlights" },
       { label: "Ongoing Activities", href: "/ongoing-activities" },
-      { label: "Photo Gallery", href: "/gallery" },
-      { label: "Publications", href: "/publications" }
+      { label: "Photo Gallery", href: "/gallery" }
     ]
   },
+  { label: "Publications", href: "/publications" },
+  { label: "Outreach", href: "/outreach" },
   {
     label: "Updates",
     items: [
       { label: "News", href: "/news" },
       { label: "Events", href: "/events" }
     ]
-  }
+  },
+  { label: "Contact", href: "/contact" }
 ] as const satisfies readonly NavItem[];
 
 export const flatNavItems: readonly NavLink[] = navItems.flatMap((item): NavLink[] =>
@@ -60,6 +61,22 @@ export const contact = {
     }
   ]
 };
+
+export const socialLinks = [
+  {
+    label: "SAS Cotton LinkedIn",
+    note: "Official project LinkedIn page.",
+    href: "https://www.linkedin.com/in/nifa-sas-smart-cotton-project-2b067537a/"
+  },
+  {
+    label: "Muthukumar Bagavathiannan - Project Lead / PI",
+    href: "https://www.linkedin.com/in/muthukumar-bagavathiannan-22b20847/"
+  },
+  {
+    label: "Deepak Loura - Project Manager",
+    href: "https://www.linkedin.com/in/deepakloura72294/"
+  }
+] as const;
 
 export const focusAreas = [
   "Soil organic carbon and carbon-intensity baselines",

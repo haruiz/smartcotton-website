@@ -41,23 +41,37 @@ export const teamGroupDescriptions: Record<TeamGroupName, string> = {
   "Stakeholder Advisory Panel": "External stakeholder advisors representing production, industry, market, and partner perspectives."
 };
 
-function hasProfilePicture(member: TeamMember) {
-  return member.picture !== "/images/team-placeholder.svg";
+function sortMembersByName(members: TeamMember[]) {
+  return [...members].sort((first, second) => {
+    const firstName = first.name.replace(/\s*\([^)]*\)/g, "").trim();
+    const secondName = second.name.replace(/\s*\([^)]*\)/g, "").trim();
+
+    return firstName.localeCompare(secondName, undefined, { sensitivity: "base" });
+  });
 }
 
-function sortMembersWithPhotosFirst(members: TeamMember[]) {
-  return members
-    .map((member, index) => ({ member, index }))
-    .sort((left, right) => {
-      const photoRank = Number(hasProfilePicture(right.member)) - Number(hasProfilePicture(left.member));
+const leadershipOrder = ["Muthukumar Bagavathiannan", "Deepak Loura"];
 
-      return photoRank || left.index - right.index;
-    })
-    .map(({ member }) => member);
+function sortMembers(name: TeamGroupName, members: TeamMember[]) {
+  if (name !== "Project Leadership") {
+    return sortMembersByName(members);
+  }
+
+  return [...members].sort((first, second) => {
+    const firstPriority = leadershipOrder.indexOf(first.name);
+    const secondPriority = leadershipOrder.indexOf(second.name);
+
+    if (firstPriority !== -1 || secondPriority !== -1) {
+      return (firstPriority === -1 ? Number.MAX_SAFE_INTEGER : firstPriority) -
+        (secondPriority === -1 ? Number.MAX_SAFE_INTEGER : secondPriority);
+    }
+
+    return first.name.localeCompare(second.name, undefined, { sensitivity: "base" });
+  });
 }
 
 export const teamGroups = teamGroupOrder.map((name) => ({
   name,
   description: teamGroupDescriptions[name],
-  members: sortMembersWithPhotosFirst(teamMembers.filter((member) => member.group === name))
+  members: sortMembers(name, teamMembers.filter((member) => member.group === name))
 }));

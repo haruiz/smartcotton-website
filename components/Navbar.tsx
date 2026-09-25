@@ -28,15 +28,18 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b border-cotton-200/70 bg-[#fbfcf7]/92 shadow-sm backdrop-blur-xl">
       <nav className="container-page flex min-h-16 items-center justify-between gap-4" aria-label="Primary navigation">
-        <Link href="/" className="focus-ring group flex items-center gap-2.5 rounded-md font-semibold text-cotton-900">
+        <Link href="/" className="focus-ring group flex items-center gap-3 rounded-md font-semibold text-cotton-900">
           <SmartCottonLogo
+            variant="mark"
             aria-hidden="true"
-            className="h-10 w-10 shrink-0 drop-shadow-sm transition duration-200 group-hover:scale-105"
+            className="h-11 w-11 shrink-0 rounded-md bg-black object-cover shadow-sm ring-1 ring-black/10 transition duration-200 group-hover:scale-[1.02]"
           />
-          <span className="leading-none">
-            <span className="block text-base font-black">SmartCotton</span>
-            <span className="mt-0.5 hidden text-[0.63rem] font-semibold uppercase tracking-[0.18em] text-cotton-700 sm:block">
-              Field intelligence
+          <span className="grid min-w-0 gap-0.5">
+            <span className="text-base font-extrabold leading-none tracking-wide text-cotton-950 sm:text-lg">
+              SMARTCOTTON
+            </span>
+            <span className="hidden text-[0.64rem] font-semibold uppercase leading-none tracking-[0.16em] text-cotton-700 sm:block">
+              Precision. Regeneration. Resilience.
             </span>
           </span>
         </Link>

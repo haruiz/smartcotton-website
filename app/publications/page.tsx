@@ -1,6 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { FileDown } from "lucide-react";
 import { PublicationCard } from "@/components/PublicationCard";
 import { SectionHeader } from "@/components/SectionHeader";
 import { publications, type Publication } from "@/content/publications";
@@ -59,15 +57,15 @@ export default function PublicationsPage() {
         <SectionHeader
           as="h1"
           eyebrow="Publications"
-          title="Reports and outputs without the wall of text"
-          description="Annual reports, publications, presentations, and project outputs are grouped so visitors can start with the overview and expand each library section as needed."
+          title="SmartCotton publications, reports, and project outputs"
+          description="Verified project outputs are grouped by publication status and output type. Draft and in-preparation manuscripts are kept separate from published peer-reviewed articles."
         />
 
         <div className="surface-card mt-8 grid gap-4 p-5 text-sm text-cotton-900/70 md:grid-cols-[0.8fr_1.2fr]">
           <div>
             <p className="font-semibold text-cotton-900">{publications.length} source-listed outputs</p>
             <p className="mt-2 leading-6">
-              Items are grouped by status and output type so draft manuscripts are not confused with published papers.
+              Items are organized by year, reporting period, output type, and status using the verified publication data already present in the project.
             </p>
           </div>
           <div className="grid gap-3">
@@ -115,20 +113,6 @@ export default function PublicationsPage() {
                     ))}
                   </ul>
                 </details>
-                {report.isAvailable ? (
-                  <Link
-                    href={report.href}
-                    className="text-link mt-5 inline-flex items-center gap-2 text-sm"
-                  >
-                    <FileDown aria-hidden="true" size={16} />
-                    {report.status}
-                  </Link>
-                ) : (
-                  <p className="mt-5 inline-flex items-center gap-2 rounded-md border border-cotton-200 bg-cotton-50 px-4 py-2 text-sm font-semibold text-cotton-900/70">
-                    <FileDown aria-hidden="true" size={16} />
-                    {report.status}
-                  </p>
-                )}
               </article>
             ))}
           </div>

@@ -1,0 +1,760 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qfmzcj",
+    "id": "qfmzcj",
+    "slide": 1,
+    "layoutId": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#102019",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0vuxgju",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#102019",
+      "lineColor": "#102019",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxkvmlk3",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        760,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#13271E",
+      "lineColor": "#13271E",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qpov6pkb",
+      "id": "3",
+      "bbox": [
+        708,
+        34,
+        536,
+        652
+      ],
+      "geometry": "roundRect",
+      "alt": "Cotton field at golden hour with precision agriculture cues",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 1493"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "46dd530f-8534-4fe3-9c8a-99d15edc6be7",
+        "contentType": "image/png",
+        "byteLength": 1876402
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nmdsv25",
+      "id": "4",
+      "bbox": [
+        688,
+        72,
+        5,
+        520
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D8A94F",
+      "lineColor": "#D8A94F",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ove10jq",
+      "id": "5",
+      "bbox": [
+        78,
+        72,
+        410,
+        28
+      ],
+      "geometry": "rect",
+      "text": "SAS COTTON PROJECT",
+      "textPreview": "SAS COTTON PROJECT",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#D8A94F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SAS COTTON PROJECT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SAS COTTON PROJECT",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#D8A94F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SAS COTTON PROJECT",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#D8A94F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e14vqlkz",
+      "id": "6",
+      "bbox": [
+        76,
+        134,
+        560,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Climate-Smart\nCotton",
+      "textPreview": "Climate-Smart | Cotton",
+      "resolvedFontSize": 54,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 54,
+        "typeface": "Aptos Display",
+        "color": "#FFF9EE",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Climate-Smart"
+          },
+          {
+            "index": 2,
+            "text": "Cotton"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Climate-Smart",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Aptos Display",
+            "color": "#FFF9EE",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Climate-Smart",
+              "fontSize": 54,
+              "typeface": "Aptos Display",
+              "color": "#FFF9EE",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Cotton",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Aptos Display",
+            "color": "#FFF9EE",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Cotton",
+              "fontSize": 54,
+              "typeface": "Aptos Display",
+              "color": "#FFF9EE",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zmdwzq1k",
+      "id": "7",
+      "bbox": [
+        80,
+        300,
+        560,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Two-Year Evaluation Update",
+      "textPreview": "Two-Year Evaluation Update",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Aptos Display",
+        "color": "#E8D9B7",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Two-Year Evaluation Update"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Two-Year Evaluation Update",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Aptos Display",
+            "color": "#E8D9B7",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Two-Year Evaluation Update",
+              "fontSize": 34,
+              "typeface": "Aptos Display",
+              "color": "#E8D9B7",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gridgr21",
+      "id": "8",
+      "bbox": [
+        82,
+        386,
+        510,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Developing precision regenerative practices and market opportunities for the Cotton Belt",
+      "textPreview": "Developing precision regenerative practices and market opportunities for the Cotton Belt",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "color": "#DCE7D9",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Developing precision regenerative practices and"
+          },
+          {
+            "index": 2,
+            "text": "market opportunities for the Cotton Belt"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Developing precision regenerative practices and market opportunities for the Cotton Belt",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos",
+            "color": "#DCE7D9",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Developing precision regenerative practices and market opportunities for the Cotton Belt",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#DCE7D9",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsrupwjm",
+      "id": "9",
+      "bbox": [
+        82,
+        516,
+        128,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#245B3A",
+      "lineColor": "#245B3A",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cvm9sbe",
+      "id": "10",
+      "bbox": [
+        82,
+        523,
+        128,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Research",
+      "textPreview": "Research",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#FFF9EE",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Research"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Research",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#FFF9EE",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Research",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#FFF9EE",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bm50nut",
+      "id": "11",
+      "bbox": [
+        228,
+        516,
+        128,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D8A94F",
+      "lineColor": "#D8A94F",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ad47it8",
+      "id": "12",
+      "bbox": [
+        228,
+        523,
+        128,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Education",
+      "textPreview": "Education",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#102019",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Education"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Education",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#102019",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Education",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#102019",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i94nydcn",
+      "id": "13",
+      "bbox": [
+        374,
+        516,
+        128,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#66C5E8",
+      "lineColor": "#66C5E8",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgfmxsba",
+      "id": "14",
+      "bbox": [
+        374,
+        523,
+        128,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Extension",
+      "textPreview": "Extension",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#102019",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Extension"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Extension",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#102019",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Extension",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#102019",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sf654nup",
+      "id": "15",
+      "bbox": [
+        82,
+        632,
+        420,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Award 2024-68012-41750",
+      "textPreview": "Award 2024-68012-41750",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#CAD7CA",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Award 2024-68012-41750"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Award 2024-68012-41750",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#CAD7CA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Award 2024-68012-41750",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#CAD7CA",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

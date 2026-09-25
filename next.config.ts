@@ -5,7 +5,7 @@ const basePath = process.env.BASE_PATH !== undefined ? process.env.BASE_PATH : (
 
 const nextConfig: NextConfig = {
   output: "export",
-  distDir: "docs",
+  distDir: isProd ? "docs" : ".next",
   basePath: basePath || undefined,
   images: {
     unoptimized: true

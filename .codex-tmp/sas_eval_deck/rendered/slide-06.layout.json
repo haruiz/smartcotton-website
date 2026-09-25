@@ -1,0 +1,728 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jaq25z",
+    "id": "jaq25z",
+    "slide": 6,
+    "layoutId": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcvqxoza",
+      "id": "1",
+      "name": "title-6",
+      "bbox": [
+        41,
+        36,
+        1197,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Research workstreams now have tangible datasets to integrate",
+      "textPreview": "Research workstreams now have tangible datasets to integrate",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Research workstreams now have tangible datasets to integrate"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Research workstreams now have tangible datasets to integrate",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Research workstreams now have tangible datasets to integrate",
+              "fontSize": 38,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yp4rmtgz",
+      "id": "2",
+      "name": "footer-6",
+      "bbox": [
+        1184,
+        659,
+        54,
+        25
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqd8veh4",
+      "id": "3",
+      "bbox": [
+        42,
+        116,
+        1120,
+        72
+      ],
+      "geometry": "rect",
+      "text": "Objective-wise progress is strongest where field protocols, sample flows, and data ownership are already clear.",
+      "textPreview": "Objective-wise progress is strongest where field protocols, sample flows, and data ownership are already clear.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Objective-wise progress is strongest where field protocols, sample flows, and data ownership are already clear."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Objective-wise progress is strongest where field protocols, sample flows, and data ownership are already clear.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Objective-wise progress is strongest where field protocols, sample flows, and data ownership are already clear.",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1wva54na",
+      "id": "4",
+      "bbox": [
+        41,
+        214,
+        1197,
+        416
+      ],
+      "text": "Evidence stream | Year 2 update | Evaluator discussion\nSoil carbon and soil health | Samples reported from TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields. | How should baselines and site metadata be standardized?\nRegenerative systems | Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across multiple states. | Which indicators best show climate-smart performance?\nMicrobiome | Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis. | How should microbiome results translate for stakeholders?\nAI/ML and modeling | Multi-source irrigation dataset plan developed; Holos DSS calibrated and early simulations run. | What data-quality rules are needed before model building?\nEconomics and adoption | Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway. | How should field evidence feed adoption and market claims?",
+      "textPreview": "Evidence stream | Year 2 update | Evaluator discussion | Soil carbon and soil health | Samples reported from TX High Plains farms, 20 GA ...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41,
+            214,
+            260,
+            69.33
+          ],
+          "text": "Evidence stream",
+          "textPreview": "Evidence stream",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evidence stream",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evidence stream"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            301,
+            214,
+            535,
+            69.33
+          ],
+          "text": "Year 2 update",
+          "textPreview": "Year 2 update",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Year 2 update",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Year 2 update"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            836,
+            214,
+            402,
+            69.33
+          ],
+          "text": "Evaluator discussion",
+          "textPreview": "Evaluator discussion",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evaluator discussion",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evaluator discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41,
+            283.33,
+            260,
+            69.33
+          ],
+          "text": "Soil carbon and soil health",
+          "textPreview": "Soil carbon and soil health",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Soil carbon and soil health",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Soil carbon and soil health"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            301,
+            283.33,
+            535,
+            69.33
+          ],
+          "text": "Samples reported from TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields.",
+          "textPreview": "Samples reported from TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Samples reported from TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Samples reported from TX High Plains farms, 20 GA fields, all 30 MS sites, and initial NC fields."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            836,
+            283.33,
+            402,
+            69.33
+          ],
+          "text": "How should baselines and site metadata be standardized?",
+          "textPreview": "How should baselines and site metadata be standardized?",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "How should baselines and site metadata be standardized?",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "How should baselines and site metadata be standardized?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41,
+            352.67,
+            260,
+            69.33
+          ],
+          "text": "Regenerative systems",
+          "textPreview": "Regenerative systems",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Regenerative systems",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Regenerative systems"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            301,
+            352.67,
+            535,
+            69.33
+          ],
+          "text": "Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across multiple states.",
+          "textPreview": "Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across multiple states.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across multiple states.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Cover crop, bed, living mulch, tillage, rotation, and weed-suppression trials active across multiple states."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            836,
+            352.67,
+            402,
+            69.33
+          ],
+          "text": "Which indicators best show climate-smart performance?",
+          "textPreview": "Which indicators best show climate-smart performance?",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Which indicators best show climate-smart performance?",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Which indicators best show climate-smart performance?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41,
+            422,
+            260,
+            69.33
+          ],
+          "text": "Microbiome",
+          "textPreview": "Microbiome",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Microbiome",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Microbiome"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            301,
+            422,
+            535,
+            69.33
+          ],
+          "text": "Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis.",
+          "textPreview": "Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Hyphal baiting, rhizosphere, leaf, 16S, and shotgun sequencing workflows moved into analysis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            836,
+            422,
+            402,
+            69.33
+          ],
+          "text": "How should microbiome results translate for stakeholders?",
+          "textPreview": "How should microbiome results translate for stakeholders?",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "How should microbiome results translate for stakeholders?",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "How should microbiome results translate for stakeholders?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41,
+            491.33,
+            260,
+            69.33
+          ],
+          "text": "AI/ML and modeling",
+          "textPreview": "AI/ML and modeling",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AI/ML and modeling",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AI/ML and modeling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            301,
+            491.33,
+            535,
+            69.33
+          ],
+          "text": "Multi-source irrigation dataset plan developed; Holos DSS calibrated and early simulations run.",
+          "textPreview": "Multi-source irrigation dataset plan developed; Holos DSS calibrated and early simulations run.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Multi-source irrigation dataset plan developed; Holos DSS calibrated and early simulations run.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Multi-source irrigation dataset plan developed; Holos DSS calibrated and early simulations run."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            836,
+            491.33,
+            402,
+            69.33
+          ],
+          "text": "What data-quality rules are needed before model building?",
+          "textPreview": "What data-quality rules are needed before model building?",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "What data-quality rules are needed before model building?",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "What data-quality rules are needed before model building?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41,
+            560.67,
+            260,
+            69.33
+          ],
+          "text": "Economics and adoption",
+          "textPreview": "Economics and adoption",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Economics and adoption",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Economics and adoption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            301,
+            560.67,
+            535,
+            69.33
+          ],
+          "text": "Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway.",
+          "textPreview": "Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway.",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Meta-analysis, risk/insurance work, focus groups, survey instrument, and participatory workshops underway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            836,
+            560.67,
+            402,
+            69.33
+          ],
+          "text": "How should field evidence feed adoption and market claims?",
+          "textPreview": "How should field evidence feed adoption and market claims?",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "How should field evidence feed adoption and market claims?",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "How should field evidence feed adoption and market claims?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

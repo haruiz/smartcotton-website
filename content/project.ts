@@ -2,7 +2,7 @@ export const projectSections = [
   {
     title: "Mission",
     summary:
-      "Renew American cotton production by developing practical, science-based pathways for sustainable, resilient, and climate-smart systems."
+      "Renew American cotton production by developing practical, science-based pathways for strengthening, resilient, and climate-smart systems."
   },
   {
     title: "Vision",

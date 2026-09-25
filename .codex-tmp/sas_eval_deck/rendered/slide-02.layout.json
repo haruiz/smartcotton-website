@@ -1,0 +1,514 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7n7dtt",
+    "id": "7n7dtt",
+    "slide": 2,
+    "layoutId": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e45e4b6-e9a5-4c42-bac9-b8e1c0a63b3d",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "61f9fef4-f5ed-4703-98b7-383f839d0e0d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87m5k36t",
+      "id": "1",
+      "name": "title-2",
+      "bbox": [
+        41,
+        36,
+        1197,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Today's purpose is to convert two years of progress into evaluator guidance",
+      "textPreview": "Today's purpose is to convert two years of progress into evaluator guidance",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Today's purpose is to convert two years of progress into evaluator guidance"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Today's purpose is to convert two years of progress into evaluator guidance",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Today's purpose is to convert two years of progress into evaluator guidance",
+              "fontSize": 38,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76dorip8",
+      "id": "2",
+      "name": "footer-2",
+      "bbox": [
+        1184,
+        659,
+        54,
+        25
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/bu14vi5o",
+      "id": "3",
+      "bbox": [
+        41,
+        218,
+        1197,
+        411
+      ],
+      "text": "01 | Confirm SAS integration expectations\n02 | Review progress across the six objectives\n03 | Check logic-model evidence and reporting metrics\n04 | Discuss stakeholder engagement and adoption readiness\n05 | Identify implementation, data-flow, and coordination gaps\n06 | Agree on Year 3-5 evaluation priorities and follow-up",
+      "textPreview": "01 | Confirm SAS integration expectations | 02 | Review progress across the six objectives | 03 | Check logic-model evidence and reportin...",
+      "rows": 6,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41,
+            218,
+            92,
+            68.5
+          ],
+          "text": "01",
+          "textPreview": "01",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            133,
+            218,
+            1105,
+            68.5
+          ],
+          "text": "Confirm SAS integration expectations",
+          "textPreview": "Confirm SAS integration expectations",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Confirm SAS integration expectations",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Confirm SAS integration expectations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41,
+            286.5,
+            92,
+            68.5
+          ],
+          "text": "02",
+          "textPreview": "02",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "02",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "02"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            133,
+            286.5,
+            1105,
+            68.5
+          ],
+          "text": "Review progress across the six objectives",
+          "textPreview": "Review progress across the six objectives",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Review progress across the six objectives",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Review progress across the six objectives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41,
+            355,
+            92,
+            68.5
+          ],
+          "text": "03",
+          "textPreview": "03",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            133,
+            355,
+            1105,
+            68.5
+          ],
+          "text": "Check logic-model evidence and reporting metrics",
+          "textPreview": "Check logic-model evidence and reporting metrics",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Check logic-model evidence and reporting metrics",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Check logic-model evidence and reporting metrics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41,
+            423.5,
+            92,
+            68.5
+          ],
+          "text": "04",
+          "textPreview": "04",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "04",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "04"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            133,
+            423.5,
+            1105,
+            68.5
+          ],
+          "text": "Discuss stakeholder engagement and adoption readiness",
+          "textPreview": "Discuss stakeholder engagement and adoption readiness",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Discuss stakeholder engagement and adoption readiness",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Discuss stakeholder engagement and adoption readiness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41,
+            492,
+            92,
+            68.5
+          ],
+          "text": "05",
+          "textPreview": "05",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            133,
+            492,
+            1105,
+            68.5
+          ],
+          "text": "Identify implementation, data-flow, and coordination gaps",
+          "textPreview": "Identify implementation, data-flow, and coordination gaps",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Identify implementation, data-flow, and coordination gaps",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Identify implementation, data-flow, and coordination gaps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41,
+            560.5,
+            92,
+            68.5
+          ],
+          "text": "06",
+          "textPreview": "06",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "06",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "06"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            133,
+            560.5,
+            1105,
+            68.5
+          ],
+          "text": "Agree on Year 3-5 evaluation priorities and follow-up",
+          "textPreview": "Agree on Year 3-5 evaluation priorities and follow-up",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Agree on Year 3-5 evaluation priorities and follow-up",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Agree on Year 3-5 evaluation priorities and follow-up"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

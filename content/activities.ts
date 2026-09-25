@@ -1,4 +1,31 @@
+import { ce2CollegeStationGallery, type GalleryCollection } from "./projectFeatures";
+
+type ActivityImage = {
+  src: string;
+  alt: string;
+  caption: string;
+};
+
+type FeaturedActivityUpdate = {
+  slug: string;
+  eyebrow: string;
+  title: string;
+  summary: string;
+  objective: string;
+  paragraphs: string[];
+  studyDetails?: { label: string; value: string }[];
+  researchAreas?: string[];
+  tags: string[];
+  images: ActivityImage[];
+  gallery?: GalleryCollection;
+};
+
 export const activities = [
+  {
+    title: "CE2 Cover Crop Planting on Beds",
+    summary:
+      "The College Station team is evaluating cover crop placement, termination timing, and raised-bed versus flat-row planting systems for cotton production."
+  },
   {
     title: "Soil Sample Logistics and Carbon Baseline Processing",
     summary:
@@ -36,8 +63,55 @@ export const activities = [
   }
 ];
 
-export const featuredActivityUpdates = [
+export const featuredActivityUpdates: FeaturedActivityUpdate[] = [
   {
+    slug: "ce2-cover-crop-planting-on-beds",
+    eyebrow: "College Station CE2 Research",
+    title: "Cover Crop Planting on Beds: Field Research in College Station, Texas",
+    summary:
+      "The SmartCotton research team at College Station, Texas, is evaluating cover crop planting strategies for cotton grown on raised beds.",
+    objective:
+      "Objective 1.2.1 - CE2: evaluate cover crop planting strategies for cotton-raised bed systems.",
+    paragraphs: [
+      "Our SmartCotton research team at College Station, Texas, is evaluating cover crop planting strategies for cotton grown on raised beds.",
+      "The study examines how cover crop placement on beds and in furrows, cover crop termination timing, and raised-bed versus flat-row planting systems influence cotton growth, soil conditions, and crop performance.",
+      "Field activities include cover crop establishment and termination, cotton planting, crop observations, soil sampling, biomass collection, and weed assessments. The team is collecting data throughout the growing season to evaluate the different management practices.",
+      "This research is part of a coordinated multi-location study involving Texas, Mississippi, and North Carolina. The findings will help identify suitable cover cropping and reduced-tillage strategies for cotton production across different growing environments."
+    ],
+    studyDetails: [
+      { label: "Objective", value: "1.2.1 - CE2" },
+      { label: "Featured location", value: "College Station, Texas" },
+      { label: "Other participating locations", value: "Stoneville, Mississippi, and Raleigh, North Carolina" },
+      { label: "Research status", value: "Ongoing" }
+    ],
+    researchAreas: [
+      "Cover crop establishment and management",
+      "Cover crop placement on beds and in furrows",
+      "Cover crop termination timing",
+      "Cotton growth and crop performance",
+      "Soil and plant biomass sampling",
+      "Weed observations and cover crop residue monitoring"
+    ],
+    tags: [
+      "CE2",
+      "College Station, Texas",
+      "Cover crops",
+      "Raised beds",
+      "Cotton systems",
+      "Field sampling",
+      "Ongoing research"
+    ],
+    images: [
+      {
+        src: "/images/research/ce2-college-station/ce2-college-station-cover-crop-team-field.jpeg",
+        alt: "Dr. Rajan and Lithma in a College Station CE2 cover crop field",
+        caption: "Cover crop field conditions at the College Station CE2 research location."
+      }
+    ],
+    gallery: ce2CollegeStationGallery
+  },
+  {
+    slug: "soil-sample-logistics-carbon-baselines",
     eyebrow: "Soil Carbon Baselines",
     title: "Coordinated soil sample processing across the U.S. Cotton Belt",
     summary:

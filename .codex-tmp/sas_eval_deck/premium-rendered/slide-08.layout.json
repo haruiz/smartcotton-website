@@ -1,0 +1,1269 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rbi1et",
+    "id": "rbi1et",
+    "slide": 8,
+    "layoutId": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F4EC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ju18juhc",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        34,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#102019",
+      "lineColor": "#102019",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvapcfyx",
+      "id": "2",
+      "bbox": [
+        34,
+        0,
+        5,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D8A94F",
+      "lineColor": "#D8A94F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lw3qlkz2",
+      "id": "3",
+      "bbox": [
+        72,
+        28,
+        560,
+        24
+      ],
+      "geometry": "rect",
+      "text": "STAKEHOLDER REACH",
+      "textPreview": "STAKEHOLDER REACH",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STAKEHOLDER REACH"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STAKEHOLDER REACH",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STAKEHOLDER REACH",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5s765gf",
+      "id": "4",
+      "bbox": [
+        72,
+        54,
+        1100,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Extension and education are building early visibility",
+      "textPreview": "Extension and education are building early visibility",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Aptos Display",
+        "color": "#17201A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Extension and education are building early visibility"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Extension and education are building early visibility",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Aptos Display",
+            "color": "#17201A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Extension and education are building early visibility",
+              "fontSize": 36,
+              "typeface": "Aptos Display",
+              "color": "#17201A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b618fah0",
+      "id": "5",
+      "bbox": [
+        1155,
+        646,
+        56,
+        28
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/x07elwfq",
+      "id": "6",
+      "bbox": [
+        72,
+        132,
+        344,
+        438
+      ],
+      "geometry": "roundRect",
+      "alt": "Cotton field visual",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 1744"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "f27d1b4d-f85b-404c-aa91-491af5912996",
+        "contentType": "image/png",
+        "byteLength": 1876402
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsjqhkz6",
+      "id": "7",
+      "bbox": [
+        72,
+        432,
+        344,
+        138
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#173A2B",
+      "lineColor": "#173A2B",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1cri9gz",
+      "id": "8",
+      "bbox": [
+        108,
+        452,
+        270,
+        84
+      ],
+      "geometry": "rect",
+      "text": "Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.",
+      "textPreview": "Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#FFF9EE",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Counts are reported contacts"
+          },
+          {
+            "index": 2,
+            "text": "and trainees, not unique"
+          },
+          {
+            "index": 3,
+            "text": "people. They show early reach"
+          },
+          {
+            "index": 4,
+            "text": "before Objective 5's larger"
+          },
+          {
+            "index": 5,
+            "text": "Years 4-5 ramp."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#FFF9EE",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Counts are reported contacts and trainees, not unique people. They show early reach before Objective 5's larger Years 4-5 ramp.",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#FFF9EE",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2l8rehk",
+      "id": "9",
+      "bbox": [
+        472,
+        150,
+        300,
+        198
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E6DCC7",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/325crq9c",
+      "id": "10",
+      "bbox": [
+        498,
+        174,
+        250,
+        56
+      ],
+      "geometry": "rect",
+      "text": "3,560+",
+      "textPreview": "3,560+",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Aptos Display",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3,560+"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3,560+",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Aptos Display",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3,560+",
+              "fontSize": 42,
+              "typeface": "Aptos Display",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1wbyl8r",
+      "id": "11",
+      "bbox": [
+        500,
+        240,
+        244,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Year 1 contacts",
+      "textPreview": "Year 1 contacts",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#17201A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Year 1 contacts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Year 1 contacts",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#17201A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Year 1 contacts",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#17201A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54nut072",
+      "id": "12",
+      "bbox": [
+        500,
+        276,
+        242,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Reported conferences, grower meetings, workshops, podcasts, and field programs.",
+      "textPreview": "Reported conferences, grower meetings, workshops, podcasts, and field programs.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Reported conferences, grower"
+          },
+          {
+            "index": 2,
+            "text": "meetings, workshops, podcasts, and"
+          },
+          {
+            "index": 3,
+            "text": "field programs."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Reported conferences, grower meetings, workshops, podcasts, and field programs.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Reported conferences, grower meetings, workshops, podcasts, and field programs.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43et0vqh",
+      "id": "13",
+      "bbox": [
+        818,
+        150,
+        300,
+        198
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E6DCC7",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65cvqp8",
+      "id": "14",
+      "bbox": [
+        844,
+        174,
+        250,
+        56
+      ],
+      "geometry": "rect",
+      "text": "1,500+",
+      "textPreview": "1,500+",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Aptos Display",
+        "color": "#D8A94F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1,500+"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1,500+",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Aptos Display",
+            "color": "#D8A94F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1,500+",
+              "fontSize": 42,
+              "typeface": "Aptos Display",
+              "color": "#D8A94F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5wb258n",
+      "id": "15",
+      "bbox": [
+        846,
+        240,
+        244,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Year 2 contacts",
+      "textPreview": "Year 2 contacts",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#17201A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Year 2 contacts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Year 2 contacts",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#17201A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Year 2 contacts",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#17201A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d87ux07e",
+      "id": "16",
+      "bbox": [
+        846,
+        276,
+        242,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Reported event and summary counts; direct contacts still exceed 1,000.",
+      "textPreview": "Reported event and summary counts; direct contacts still exceed 1,000.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Reported event and summary"
+          },
+          {
+            "index": 2,
+            "text": "counts; direct contacts still exceed"
+          },
+          {
+            "index": 3,
+            "text": "1,000."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Reported event and summary counts; direct contacts still exceed 1,000.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Reported event and summary counts; direct contacts still exceed 1,000.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7yd4vqt",
+      "id": "17",
+      "bbox": [
+        472,
+        390,
+        300,
+        198
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E6DCC7",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fapczap4",
+      "id": "18",
+      "bbox": [
+        498,
+        414,
+        250,
+        56
+      ],
+      "geometry": "rect",
+      "text": "7+",
+      "textPreview": "7+",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Aptos Display",
+        "color": "#66C5E8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "7+"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "7+",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Aptos Display",
+            "color": "#66C5E8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "7+",
+              "fontSize": 42,
+              "typeface": "Aptos Display",
+              "color": "#66C5E8",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9gv658z",
+      "id": "19",
+      "bbox": [
+        500,
+        480,
+        244,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Students and interns",
+      "textPreview": "Students and interns",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#17201A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Students and interns"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Students and interns",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#17201A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Students and interns",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#17201A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahknedw3",
+      "id": "20",
+      "bbox": [
+        500,
+        516,
+        242,
+        58
+      ],
+      "geometry": "rect",
+      "text": "PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.",
+      "textPreview": "PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PVAMU/TAMUK interns, TTU"
+          },
+          {
+            "index": 2,
+            "text": "undergraduates, graduate students,"
+          },
+          {
+            "index": 3,
+            "text": "and postdoctoral trainees."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PVAMU/TAMUK interns, TTU undergraduates, graduate students, and postdoctoral trainees.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2tonydo",
+      "id": "21",
+      "bbox": [
+        818,
+        390,
+        300,
+        198
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E9F2E8",
+      "lineColor": "#DDD2BD",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w325g3e9",
+      "id": "22",
+      "bbox": [
+        846,
+        418,
+        244,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Next evaluator question",
+      "textPreview": "Next evaluator question",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Next evaluator"
+          },
+          {
+            "index": 2,
+            "text": "question"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Next evaluator question",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Next evaluator question",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4v6p8vu",
+      "id": "23",
+      "bbox": [
+        846,
+        486,
+        236,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?",
+      "textPreview": "Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#17201A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which outreach indicators"
+          },
+          {
+            "index": 2,
+            "text": "should show knowledge"
+          },
+          {
+            "index": 3,
+            "text": "gain, practice readiness,"
+          },
+          {
+            "index": 4,
+            "text": "and stakeholder value by"
+          },
+          {
+            "index": 5,
+            "text": "Year 5?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#17201A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which outreach indicators should show knowledge gain, practice readiness, and stakeholder value by Year 5?",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#17201A",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

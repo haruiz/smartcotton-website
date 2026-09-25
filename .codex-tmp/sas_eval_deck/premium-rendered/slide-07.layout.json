@@ -1,0 +1,1009 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ohqznz",
+    "id": "ohqznz",
+    "slide": 7,
+    "layoutId": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F4EC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8fe443a0-16d1-4149-86c9-a95fcd5e51e3",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d05c1ce9-3b0d-49c6-9fce-f1a74c620c5b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdgvm94v",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        34,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#102019",
+      "lineColor": "#102019",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9g7uh4nm",
+      "id": "2",
+      "bbox": [
+        34,
+        0,
+        5,
+        720
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#D8A94F",
+      "lineColor": "#D8A94F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8fydozm1",
+      "id": "3",
+      "bbox": [
+        72,
+        28,
+        560,
+        24
+      ],
+      "geometry": "rect",
+      "text": "DECISION EVIDENCE",
+      "textPreview": "DECISION EVIDENCE",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DECISION EVIDENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DECISION EVIDENCE",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DECISION EVIDENCE",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2pcje5c",
+      "id": "4",
+      "bbox": [
+        72,
+        54,
+        1100,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Economics and adoption translate field results into producer choices",
+      "textPreview": "Economics and adoption translate field results into producer choices",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Aptos Display",
+        "color": "#17201A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Economics and adoption translate field results into producer choices"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Economics and adoption translate field results into producer choices",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Aptos Display",
+            "color": "#17201A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Economics and adoption translate field results into producer choices",
+              "fontSize": 36,
+              "typeface": "Aptos Display",
+              "color": "#17201A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahgvq947",
+      "id": "5",
+      "bbox": [
+        1155,
+        646,
+        56,
+        28
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4reloni",
+      "id": "6",
+      "bbox": [
+        76,
+        146,
+        1090,
+        116
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#173A2B",
+      "lineColor": "#173A2B",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3idsjmx",
+      "id": "7",
+      "bbox": [
+        112,
+        184,
+        990,
+        34
+      ],
+      "geometry": "rect",
+      "text": "The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.",
+      "textPreview": "The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#FFF9EE",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The evaluation opportunity is to connect agronomic performance, risk, market value, and"
+          },
+          {
+            "index": 2,
+            "text": "adoption barriers into one decision story."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#FFF9EE",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The evaluation opportunity is to connect agronomic performance, risk, market value, and adoption barriers into one decision story.",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#FFF9EE",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm5c7u58",
+      "id": "8",
+      "bbox": [
+        76,
+        318,
+        524,
+        118
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DDD2BD",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlwbep4n",
+      "id": "9",
+      "bbox": [
+        104,
+        340,
+        440,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Economic feasibility",
+      "textPreview": "Economic feasibility",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Economic feasibility"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Economic feasibility",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Economic feasibility",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0r2x4vql",
+      "id": "10",
+      "bbox": [
+        104,
+        374,
+        450,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters for yield and profit improvements.",
+      "textPreview": "Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters ...",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Meta-analysis of precision application and soil-health practices;"
+          },
+          {
+            "index": 2,
+            "text": "cotton findings emphasized guidance systems and variable-rate"
+          },
+          {
+            "index": 3,
+            "text": "planters for yield and profit improvements."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters for yield and profit improvements.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Meta-analysis of precision application and soil-health practices; cotton findings emphasized guidance systems and variable-rate planters for yield and profit improvements.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsbex076",
+      "id": "11",
+      "bbox": [
+        642,
+        318,
+        524,
+        118
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DDD2BD",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypkf2l8v",
+      "id": "12",
+      "bbox": [
+        670,
+        340,
+        440,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Risk and insurance",
+      "textPreview": "Risk and insurance",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Risk and insurance"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Risk and insurance",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Risk and insurance",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtwvqpg",
+      "id": "13",
+      "bbox": [
+        670,
+        374,
+        450,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton systems.",
+      "textPreview": "Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton ...",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Monte Carlo analysis indicated soil-health improvements can raise"
+          },
+          {
+            "index": 2,
+            "text": "yield and reduce crop-failure risk in Texas High Plains dryland"
+          },
+          {
+            "index": 3,
+            "text": "cotton systems."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton systems.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Monte Carlo analysis indicated soil-health improvements can raise yield and reduce crop-failure risk in Texas High Plains dryland cotton systems.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8vmx8vqx",
+      "id": "14",
+      "bbox": [
+        76,
+        486,
+        524,
+        118
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DDD2BD",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gve107i",
+      "id": "15",
+      "bbox": [
+        104,
+        508,
+        440,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Producer adoption",
+      "textPreview": "Producer adoption",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Producer adoption"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Producer adoption",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Producer adoption",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mt4f6l8r",
+      "id": "16",
+      "bbox": [
+        104,
+        542,
+        450,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.",
+      "textPreview": "Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Three South Georgia focus groups with nine cotton farmers"
+          },
+          {
+            "index": 2,
+            "text": "examined cover-crop adoption complexity, barriers, and sustaining"
+          },
+          {
+            "index": 3,
+            "text": "conditions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Three South Georgia focus groups with nine cotton farmers examined cover-crop adoption complexity, barriers, and sustaining conditions.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nudwzqpc",
+      "id": "17",
+      "bbox": [
+        642,
+        486,
+        524,
+        118
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DDD2BD",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidwbqt",
+      "id": "18",
+      "bbox": [
+        670,
+        508,
+        440,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Survey and workshops",
+      "textPreview": "Survey and workshops",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "color": "#245B3A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Survey and workshops"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Survey and workshops",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Aptos",
+            "color": "#245B3A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Survey and workshops",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#245B3A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0repg7y",
+      "id": "19",
+      "bbox": [
+        670,
+        542,
+        450,
+        50
+      ],
+      "geometry": "rect",
+      "text": "A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.",
+      "textPreview": "A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "color": "#5C675F",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A field survey instrument and participatory soil-health workshops"
+          },
+          {
+            "index": 2,
+            "text": "create a path for cross-state adoption evidence in Years 3-5."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Aptos",
+            "color": "#5C675F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A field survey instrument and participatory soil-health workshops create a path for cross-state adoption evidence in Years 3-5.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5C675F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

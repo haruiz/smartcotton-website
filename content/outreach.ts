@@ -207,7 +207,7 @@ export const outreachActivities: OutreachActivity[] = [
     type: "Farmer conference",
     audience: "Farmers, ranchers, local stakeholders",
     participants: "75",
-    summary: "Presented innovative and sustainable farming practices to improve productivity and resilience."
+    summary: "Presented innovative and strengthening farming practices to improve productivity and resilience."
   },
   {
     year: "2024-2025",

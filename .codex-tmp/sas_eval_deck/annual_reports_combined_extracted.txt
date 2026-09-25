@@ -1,0 +1,669 @@
+SOURCE: C:\Users\deepak.loura\OneDrive - Texas A&M AgriLife\Desktop\SAS_2026\SAS Cotton Annual report 2024-25.docx
+
+[Normal] SAS CLIMATE SMART COTTON Annual Report 2024-25
+[Normal] Climate-Smart Cotton: Developing Precision Regenerative Practices and Market Opportunities for Addressing Climate Change in the Cotton Belt
+[Normal] Project Start Date 2024-04-01
+[Normal] Project End Date 2029-03-31
+[Normal] UEI: KU3DCFJJTVN3
+[Normal] DUNS Number: 847205713
+[Normal] Accession Number: 1031714
+[Normal] Project Number: TEX08006
+[Normal] Accession Number: 1031714
+[Normal] Award Number: 2024-68012-41750
+[Normal] Reporting period start date: 2024-04-01
+[Normal] Reporting Period End Date: 2025-03-31
+[Normal] FTEs for the project duration
+[Normal] Scientist: 50% effort x 4 scientists x 3 years = 6
+[Normal] Professional:
+[Normal] Faculty and non-students: (25% scientist effort for 5 yrs x 4 scientists; 12.5% effort for 5 years x 6 scientists)
+[Normal] =5+3.75 = 8.75
+[Normal] Undergrad: 13 undergrad researchers each year * 25% effort*4 yrs = 13
+[Normal] Graduate: 10 PhD students and 6 MS students total, 50% effort 4 yrs & 2 yrs = 20 + 6 = 26
+[Normal] Post-doctorate: 4 postdoc 100% effort x 3 yrs plus 2 postdoc 50% effort x 3 yrs = 12 + 3 = 15
+[Normal] Technical:
+[Normal] Faculty and non-students: 6 total field techs, 50% effort each for 4 yrs plus 3 field techs, 25% effort for 4 yrs = 12 + 3 = 15
+[Normal] Undergrad workers/assistants: 14 undergrad student workers, 50% effort, for 4 yrs = 28
+[Normal] Admin:
+[Normal] Faculty and non-students: 1 project manager 100% effort for 5 years (TX) plus one 15% accounts manager for 5 years (TX) plus two 25% managerial staff for 4 years (NM, MS) = 5 + 0.75 + 1 = 6.75
+[Normal] Total: 6+8.75+13+26+15+15+28+6.75 = 118.5
+[Normal] What are the major goals of this project?
+[Normal] The long-term goal of the proposed research is to apply improved precision management practices to enable enhanced carbon sequestration and reduced greenhouse gas emission, pest control, and nutrient and water management; and to address labor challenges, steward land, create new market opportunities, and ensure a sustainable supply of climate-smart cotton.
+[Normal] The specific objectives of this project are:
+[List Paragraph] Develop regenerative cotton production practices and investigate their long-term effects on US Belt-wide cotton production systems.
+[List Paragraph] Establish soil organic carbon and carbon intensity baselines for ecoregions in the US Cotton Belt;
+[List Paragraph] Investigate regenerative practices for reducing tillage and improving soil health;
+[List Paragraph] Investigate the long-term impact of regenerative practices in addressing climate change using simulation models
+[List Paragraph] Develop and/or evaluate precision AI/ML and smart technologies for resource conservation and climate change mitigation/adaptation in cotton
+[List Paragraph] Evaluate the economic feasibility of precision regenerative production practices and determine new market opportunities
+[List Paragraph] Expand knowledge about farmers’ multi-dimensional experiences of adoption of regenerative practices across the Cotton Belt
+[List Paragraph] Promote the adoption of regenerative, climate-smart cotton production practices through innovative and collaborative extension and outreach activities
+[List Paragraph] Provide educational opportunities to train the next generation of research and extension scientists and practitioners, including underserved communities, and empower the rural workforce
+[Normal] Annual Report Summary (2024-25): Publications:
+[List Paragraph] Elek Nagy, Gayan Abeysinghe, Sanjay Antony-Babu. Hunting the Hyphosphere: A method for baiting hyphal-dwelling bacteria from soil. At the 36th Annual Texas Plant Protection Conference, College Station, TX
+[List Paragraph] Elek Nagy1, Nithya Subramanian2, Muthu Bagavathiannan2, Lindsey Perkin3, Gayan Abeysinghe1 and Sanjay Antony-Babu1. A novel method to bait the hyphosphere bacteria in plant-associated soil. (Manuscript in preparation: Target Journal, PlosOne)
+[List Paragraph] Reyes A, Singh J, Jhonson A, Gamble A, Feng Y, Balckom K, Sanz-Saez A (2025) Impact of Cover Crops on Cotton: Evaluating Root Characteristics and Photosynthetic Traits in Southern and Northern Alabama. Belt Wide Cotton Conference, New Orleans, LA, January 14-16, 2025
+[List Paragraph] Sapkota, S., Bista, P., Angadi, S. and Ghimire, R., Reducing greenhouse gas emissions in water-limited agroecosystems by integrating grass buffer strips in irrigation circles. Journal of Environmental Management (Submission ready, 03/06/2025)
+[List Paragraph] Singh J*, Gamble AV, Brown S, Campbell BT, Jenkins J, Koebernick J, Bartley PC, Sanz-Saez A (2024). Exploring 65 Years of Progress in Cotton Nutrient Uptake, Efficiency and Partitioning in the USA. Field Crops Research, 305 https://doi.org/10.1016/j.fcr.2023.109189.
+[List Paragraph] Singh J, Gamble A, Brown S, Koebernick Bartley P, Sanz-Saez A (2024) Exploring Cover Crops in Alabama: Assessing Soil Health, Yield, and Root Characteristics of Following Cash Crop. Southern ASA Meeting, February 3-5, 2024, Atlanta, Georgia.
+[Normal] Annual Report Summary (2024-25): Outreach and Extension Activities Summary
+[Normal] During the reporting period, project team members participated in a wide range of outreach and extension activities to promote climate-smart cotton practices and engage with stakeholders across multiple states. These events included conferences, grower meetings, field days, podcasts, and training workshops. Audiences reached spanned farmers, ranchers, agricultural consultants, researchers, and industry professionals.
+[Normal] Below is a summary of outreach programs held between June 2024 and February 2025:
+[TABLE 1]
+Presenter | Program Title | Date | Location | Type | Audience | Participants | Co-PIs Involved
+Rajan Ghimire | Innovative Farming Conference, NM | Feb 2025 | NM | Farmer Conference | Farmers, ranchers, local stakeholders | 75 | No
+Ben McKnight | BIG Conference | Jan 2025 | Waco, TX | Extension Conference | Producers, Consultants, Industry | 100 | No
+Ben McKnight | 2025 Field Crops Symposium | Jan 2025 | Corpus Christi, TX | Extension Conference | Producers, Consultants, Industry | 65 | No
+Ben McKnight | Bell County Crops Conference | Jan 2025 | Temple, TX | Extension Conference | Producers, Consultants, Industry | 115 | No
+Ben McKnight | Upper Gulf Coast Feed Grain and Cotton Conference | Jan 2025 | El Campo, TX | Extension Conference | Producers, Consultants, Industry | 150 | No
+Ben McKnight | Comanche County Cotton Producers Winter Meeting | Jan 2025 | De Leon, TX | Extension Conference | Producers, Consultants, Industry | 15 | No
+Ben McKnight | Southwest Cotton Physiology Meeting | Feb 2025 | Lubbock, TX | Workshop | Producers, Consultants, Industry | 150 | No
+Ben McKnight | Concho Valley Cotton Conference | Feb 2025 | San Angelo, TX | Extension Conference | Producers, Consultants, Industry | 200 | No
+Ben McKnight | Texas Plant Protection Association Conference | Dec 2025 | Bryan, TX | Conference | Producers, Consultants, Industry | 300 | No
+Dr. Drew Gholson | Leflore County Grower Meeting | Feb 2025 | MS | Extension Meeting | Agricultural | 30–45 | -
+Dr. Drew Gholson | Humphreys County Grower Meeting | Feb 2025 | MS | Extension Meeting | Agricultural | 30–45 | -
+Dr. Drew Gholson | Attala/Holmes County Grower Meeting | Feb 2025 | MS | Extension Meeting | Agricultural | 30–45 | -
+Dr. Drew Gholson | Grenada County Grower Meeting | Feb 2025 | MS | Extension Meeting | Agricultural | 30–45 | -
+Dr. Drew Gholson | Tunica County Grower Meeting | Feb 2025 | MS | Extension Meeting | Agricultural | 30–45 | -
+Dr. Drew Gholson | Mississippi Master Irrigator Course | Feb 2025 | MS | Workshop | Agricultural | 70 | -
+Dr. Drew Gholson | Mississippi Crop Situation Podcast – “Irrigation Triggers for Corn, Soybean, and Cotton” | Jun 2024 | MS | Podcast | Agricultural | ~100+ listeners | -
+Dr. Drew Gholson | MS Master Irrigator: Enhancing Knowledge and Adoption of Water Management Practices | Jan 2025 | TN (multi-state: AR, MS, LA, MO) | Agricultural Conference | Agricultural | 300+ | -
+Dr. Drew Gholson | OSU Winter Crop School – Using Soil Moisture Sensors for Irrigation | Dec 2024 | OK | Workshop Conference | Agricultural | 250 | -
+Dr. Drew Gholson | OSU Winter Crop School – Tillage and Cover Crops' Effect on Soil Moisture | Dec 2024 | OK | Workshop Conference | Agricultural | 250 | -
+Dr. Drew Gholson | Precision Cotton Research Meeting | Jan 2025 | LA | Conference Meeting | Agricultural | 80 | -
+Dr. Drew Gholson | 2025 Beltwide Cotton Conferences | Jan 2025 | LA | Conference Meeting | Agricultural | 40 | -
+Dr. Drew Gholson | 2024 MSU Row Crop Short Course | Dec 2024 | MS | Conference | Agricultural | 500 | -
+Dr. Drew Gholson | 51st Annual MS Agricultural Consultants Association | Feb 2025 | MS | Consultants Conference | Agricultural Consultants | ~200 | -
+Dr. Drew Gholson | MS Agricultural Consultants Association – Irrigation Update | Sep 2024 | MS | Consultants Meeting | Agricultural Consultants | ~150 | -
+Dr. Drew Gholson | MAIC Row Crop Certified Crop Advisors Program | Jul 2024 | MS | Conference Meeting | Agricultural | ~300 | -
+Dr. Drew Gholson | MS Cotton Inc. State Support Committee – RISER Program Presentation | Jul 2024 | MS | Committee | Agricultural | N/A | -
+[/TABLE 1]
+[Normal] Annual Report Summary (2024-25): Teaching and Student Engagement Summary (2024–2025)
+[TABLE 2]
+Faculty Name | State(s) | Graduate Students | Undergraduate Students | Course Title(s) / Notes
+Rajan Ghimire / Prakriti Bista | — | 1 | — | —
+Sangu Angadi | — | 1.5 | — | —
+Nicholas T. Basinger | Georgia | 21 | 56 | Courses Taught: Weed Science, Weed Science Lab, Integrated Pest Management, Experiential Weed Science Contest Preparation
+Alvaro Sanz-Saez | Alabama | 1 MS | 0 | Graduate student recruited for the project; conducted first field sampling and is building rhizoboxes for the experiment.
+Alvaro Sanz-Saez | Alabama | 0 | 2 | Undergraduate students assisted with Fall 2024 experiments, gaining experience in field organization, sampling, and image analysis using RhizoVision Explorer.
+Alvaro Sanz-Saez | Alabama | 19 | 0 | Taught Principles of Plant Nutrition (CSES7540) with integration of research findings from the project, focusing on root architecture for nutrient uptake.
+Alvaro Sanz-Saez | Alabama | 40 | 0 | Taught Crop Physiology (CSES7250) emphasizing the role of root trait variation in cultivar development for improved water and nutrient uptake.
+Ramon Leon | North Carolina | 14 | — | Courses Taught: Weed Biology (CS716) and Herbicide Behavior in Plants (CS729)
+[/TABLE 2]
+[Normal] Annual Report Summary (2024-25): Challenges, Successes, and Comments
+[Normal] Aniruddha Maity
+[List Paragraph] Challenge: Hiring a student proved difficult.
+[List Paragraph] Success: A PhD student (international) has been successfully hired.
+[List Paragraph] Collaboration: A meeting was held with Dr. Alvaro Sanz-Saez (Alabama PI) to discuss a cotton-weed competition experiment. This summer, an experiment will be established.
+[List Paragraph] Upcoming Work: The new PhD student will also collect weed suppression data on cotton cultivars, which are being evaluated for root traits by Dr. Sanz-Saez's student.
+[Normal] Nicholas Basinger
+[Normal] Challenge: Clarity on protocols and communication from the lead team. A lack of awareness about AMF measurements until the 3/4 meeting, which clarified the need for data collection across all sites. There was also confusion about the number of sites per state, with the grant initially stating 30 sites but discussions suggesting changes based on acreage distribution.
+[Normal] Need for Clarity: Clarity is needed regarding the number of sites so proper planning for additional help and site distribution can occur.
+[Normal] Success: A graduate student, Priscila, was hired to begin the project. She has designed and implemented a perennial grass screening for cotton and will also conduct an herbicide tolerance screening for these perennial grasses.
+[Normal] Thompson/Seigerman
+[Normal] Challenge: The timeline for developing the soil sampling protocol took longer than expected, delaying recruitment for soil sampling and focus groups.
+[Normal] Alvaro Sanz-Saez
+[Normal] Challenge: Obtaining seeds for seed increase on time. As a result, planting was delayed, which affected the quality of phenotypes. However, the plants grew well, and sufficient seed was collected.
+[Normal] Challenge: Recruiting a student on time. Initially planned for summer 2024, the hire could only join in Fall, but the student is performing well now.
+[Normal] Ramon Leon
+[Normal] No Challenges.
+[Normal] Success: All experimental sites have been identified and secured. Land preparation is complete and ready for the upcoming growing season. Farms for soil sample collection have been identified.
+[Normal] Annual Report Summary (2024-25): Success Stories
+[Normal] Sanjay Antony-Babu
+[Normal] Success: Design and Implementation of a Novel Hyphal-Baiting Technique
+[Normal] Method: Field soil was added to mason jars and autoclaved thrice. Glycerol stocks of soil slurry (either from bulk or rhizosphere soil) were washed and pipetted on top of the jarred soil. Pre-germinated upland cotton seeds were planted 12 hours later.
+[Normal] Procedure: After 3 days, small holes were dug near the base of the seedlings, into which a 100µm-mesh cell strainer with an agar plug of Fov1 was placed. The plugs were allowed to grow into the soil for 4 days before removal. The soil adhering to the strainers, often with visible hyphal overgrowth, was removed and plated on 0.5xPDA plates to grow for 7 days.
+[Normal] Outcome: Hyphal tips were scraped and added to molecular-grade water for DNA extraction and sequencing.
+[Normal] Nicholas Basinger
+[Normal] Success: Priscila is successfully establishing perennial grasses for study at two locations in Georgia. These grasses will be planted with cotton this summer to assess the potential for summer dormant grasses.
+[Normal] Thompson/Seigerman
+[Normal] Success: A collaboration has been established with the Soil Health Institute, focusing on recruitment for soil sampling and focus groups, aligning mutual interests.
+[Normal] Annual Report Summary (2024-25): Milestones and Team Involvement (2024-2025)
+[Normal] Objective 1: Develop Regenerative Production Practices and Determine Their Long-Term Effects on US Cotton
+[Normal] Aniruddha Maity
+[Normal] Milestone: Objective 1.2.5
+[Normal] Update: Collaborated with NMSU Extension Specialist to identify cotton producers in New Mexico.
+[Normal] Participation: Research in collaboration with local experts.
+[Normal] Rajan Ghimire
+[Normal] Milestone: Establish soil organic carbon and carbon intensity baselines for NM cotton producers.
+[Normal] Update: Contacted NMSU Extension Specialist for farmer identification.
+[Normal] Participation: Research-focused, no team changes.
+[Normal] Nicholas Basinger
+[Normal] Milestone: Established plots for Living mulch perennial grasses in cotton.
+[Normal] Update: Research being conducted by 2 members (PhD student, technical staff) from Georgia.
+[Normal] Changes: None so far.
+[Normal] Alvaro Sanz-Saez
+[Normal] Milestone: Grown 150 cotton cultivars to increase seed for 2025 and obtain preliminary data.
+[Normal] Update: Seed growth and preparation for further research at TAMU.
+[Normal] Participation: Research conducted with a team of one Master's student and two undergraduates.
+[Normal] Ramon Leon
+[Normal] Milestone: Identified and contacted cotton farmers, including underrepresented groups, to collect soil samples in North Carolina.
+[Normal] Update: Baseline soil organic carbon data collection underway.
+[Normal] Participation: Research conducted on-site with local farmers.
+[Normal] Objective 2: Develop and/or Evaluate Precision AI/ML and Smart Technologies for Resource Conservation and Climate Change Adaptation in Cotton
+[Normal] Rajan Ghimire, Prakriti Bista, Sangu Angadi
+[Normal] Milestone: Evaluate circular buffer strips of native perennial grasses in center pivot irrigated cotton fields.
+[Normal] Update: Graduate student hired, sampling plan finalized, and working with Dr. Angadi to transition to cotton in grass buffer systems.
+[Normal] Participation: Research in Georgia.
+[Normal] Ramon Leon
+[Normal] Milestone: Experimental sites secured, and land preparation completed.
+[Normal] Update: Fields are representative of local crop rotations, including cotton, and have been under rotation for over 20 years.
+[Normal] Prathiksha Raghava
+[Normal] Milestone: Field visits for maintenance of gas chambers, measurement of plant height, and biomass collection.
+[Normal] Update: Regular field visits were made, and biomass and cotton yield were measured.
+[Normal] Participation: Three members from Mississippi State University.
+[Normal] Objective 4: Conduct Sociological Analysis to Promote the Adoption of Regenerative Practices
+[Normal] Thompson/Seigerman
+[Normal] Milestone: Participant observation at field days and the National Black Growers Council Annual Meeting.
+[Normal] Update: Field days and events focused on cotton practices and perspectives of Southeast cotton farmers.
+[Normal] Participation: Cydney Seigerman in Georgia.
+[Normal] Thompson/Seigerman
+[Normal] Milestone: Collaboration with Soil Health Institute for soil sampling and focus groups recruitment.
+[Normal] Update: Focus groups planned for Georgia, with similar groups planned for Mississippi and Texas.
+[Normal] Participation: Cydney Seigerman and Jennifer Thompson in Georgia.
+[Normal] Objective 5: Promote the Adoption of Regenerative, Climate-Smart Cotton Production Practices
+[Normal] Ben McKnight
+[Normal] Milestone: Participation in Extension programs in Texas.
+[Normal] Update: Engaged in outreach activities related to regenerative practices.
+[Normal] Participation: Extension in Texas.
+[Normal] Drew Gholson
+[Normal] Milestone: Presented at various extension events and trained growers and water managers.
+[Normal] Update: Training conducted through Mississippi Master Irrigator program.
+[Normal] Participation: Extension work in Mississippi.
+[Normal] Objective 6: Provide Educational Opportunities to Train the Next Generation of Research and Extension Scientists
+[Normal] Ben McKnight
+[Normal] Milestone: Graduate students attended multiple programs, with some attendees from underserved communities.
+[Normal] Update: Graduate students participated in various outreach programs.
+[Normal] Participation: Outreach and training activities in Texas.
+[Normal] Alvaro Sanz-Saez
+[Normal] Milestone: Incorporating lessons on cover crops and root physiology into graduate courses.
+[Normal] Update: Lessons focused on the importance of roots for plant performance under different environmental conditions.
+[Normal] Participation: Educational activities with graduate students.
+[Normal] Identify the products/outputs that are expected to be achieved during the life of this project. 8,000 character limit.
+[Normal] The SAS Climate-Smart Cotton project is focused on addressing the challenges posed by climate change in cotton production by developing precision regenerative practices and promoting these innovations throughout the Cotton Belt. Throughout the project’s lifecycle, various activities, events, and products are expected to lead to impactful outcomes in the areas of field research, stakeholder engagement, and student training. Below is a summary of the expected products and outputs, based on the project’s activities, events, and overall objectives during the 2024–2025 reporting period.
+[List Paragraph] Activities
+[Normal] Field, Greenhouse, and Laboratory Experiments The project team is conducting a variety of field trials, greenhouse studies, and laboratory experiments to explore sustainable cotton production practices. These studies aim to assess the impact of regenerative approaches, such as the integration of cover crops, soil health management, and precision irrigation practices, on cotton yield and resilience to climate-related stressors. For instance:
+[Normal] Reyes et al. studied how cover crops affect root characteristics and photosynthetic traits in Alabama cotton fields.
+[Normal] Research by Sapkota et al. focused on mitigating greenhouse gas emissions through grass buffer strips in irrigation circles.
+[Normal] Laboratory research by Elek Nagy involved developing a novel method to bait hyphosphere bacteria from soil samples, which could improve our understanding of microbial interactions in cotton systems.
+[Normal] Training Undergraduate Students, Graduate Students, and Postdocs The project emphasizes student and postdoctoral involvement, offering hands-on research and fieldwork opportunities:
+[Normal] In Alabama, a graduate student conducted field sampling and is developing rhizoboxes to study root architecture.
+[Normal] Undergraduate students at Auburn University assisted in field experiments, learning how to collect soil and root samples and analyze them using tools like RhizoVision Explorer.
+[Normal] Faculty members such as Dr. Nicholas Basinger in Georgia mentored students through coursework that incorporated project data, focusing on weed science, integrated pest management, and sustainable cotton practices.
+[Normal] Communicating Research Findings through Outreach Activities The project team is actively involved in extending research findings to growers, agricultural professionals, and the general public through outreach activities:
+[Normal] Workshops, field days, and presentations at industry conferences have been essential in disseminating findings. For example, Dr. Drew Gholson led grower meetings across Mississippi, discussing climate-smart irrigation techniques and water management.
+[Normal] Events such as the BIG Conference in Waco, TX, and the Southwest Cotton Physiology Meeting reached hundreds of producers, consultants, and industry stakeholders.
+[Normal] Podcasts, like the Mississippi Crop Situation Podcast, and presentations at regional meetings, such as the Texas Plant Protection Association Conference, allowed for broader engagement with agricultural audiences.
+[List Paragraph] Events
+[Normal] Throughout the project, numerous regional and national conferences, field days, and stakeholder meetings are held to share research updates and engage with key players in cotton production. Key events during the 2024–2025 period include:
+[Normal] Field Days and Workshops The project hosted field days and workshops to showcase climate-smart cotton practices directly to farmers, consultants, and other agricultural professionals.
+[Normal] In Texas, Dr. Ben McKnight presented project results at events such as the Concho Valley Cotton Conference and the Field Crops Symposium in Corpus Christi, where topics ranged from soil health under cover crops to irrigation efficiency and crop resilience.
+[Normal] Dr. Gholson led irrigation-focused workshops through the Mississippi Master Irrigator Program, which reached over 70 participants and emphasized precision water management practices.
+[Normal] Conferences and Stakeholder Meetings The team participated in major cotton-related conferences and meetings, presenting cutting-edge research results to regional and national audiences:
+[Normal] At the 2025 Beltwide Cotton Conferences in New Orleans, Reyes et al. presented findings on root characteristics in cover-cropped cotton systems.
+[Normal] Dr. Gholson engaged consultants and agricultural professionals at the 51st Annual MS Agricultural Consultants Association Conference and other local grower meetings, providing updates on the project’s precision irrigation research.
+[Normal] Podcasts and Online Engagement Research findings have also been shared through digital platforms, such as podcasts and webinars, allowing the project to reach an even wider audience. For example:
+[Normal] The Mississippi Crop Situation Podcast episode titled “Irrigation Triggers for Corn, Soybean, and Cotton” provided practical insights to growers, reaching over 100 listeners.
+[List Paragraph] Products
+[Normal] A range of scientific outputs and deliverables is expected as part of this project, including peer-reviewed publications, conference presentations, and other forms of scientific data dissemination. These products contribute to changes in knowledge, technology, and practices related to sustainable cotton production. Notable products include:
+[Normal] Peer-Reviewed Research Publications The project team has already produced several significant research articles and has more in preparation:
+[Normal] Singh et al. published “Exploring 65 Years of Progress in Cotton Nutrient Uptake, Efficiency, and Partitioning in the USA” in Field Crops Research (2024), offering a historical analysis of nutrient efficiency in cotton.
+[Normal] Sapkota et al. are preparing a manuscript for Journal of Environmental Management on reducing GHG emissions in irrigated cotton systems.
+[Normal] Nagy et al. presented a novel method for isolating hyphosphere bacteria, with a related manuscript under preparation for submission to PLOS ONE.
+[Normal] Conference Presentations The project has been well-represented at numerous conferences, with multiple presentations on various aspects of climate-smart cotton:
+[Normal] At the Beltwide Cotton Conference in 2025, Reyes et al. presented on the impacts of cover crops on root traits in Alabama cotton.
+[Normal] Singh et al. presented their work on soil health and root traits at the Southern ASA Meeting in Atlanta (2024).
+[Normal] Outreach and Extension Materials Extension bulletins, fact sheets, and other practical guides will be developed and distributed to help producers implement precision regenerative practices. These products will be designed to support the adoption of climate-smart practices across different regions, focusing on improving soil health, water use efficiency, and crop resilience. The project team will also develop decision-support tools and best management practice (BMP) guides tailored to cotton producers.
+[List Paragraph] Outcomes and Impacts
+[Normal] By the end of this project, the expected outcomes will include:
+[Normal] Identification of Effective Practices: Research will identify precision regenerative cotton production practices that are both economically viable and environmentally sustainable.
+[Normal] Changes in Knowledge and Adoption: The project aims to increase the knowledge base for climate-smart cotton practices and encourage widespread adoption of these methods among producers.
+[Normal] Long-Term Sustainability: The research findings and training programs are expected to improve the resilience of U.S. cotton production systems to climate change, enhancing long-term sustainability and profitability for cotton growers.
+[Normal] Overall, this project will lead to significant advancements in understanding how precision regenerative practices can mitigate climate change impacts in cotton production, benefiting both the agricultural industry and the environment.
+[Normal (Web)] Provide a description of Expected Outcomes over the duration of the project. You may use paragraphs and/or lists. 8,000 character limit.
+[Normal (Web)] This integrated SAS Climate-Smart Cotton project is expected to generate substantial benefits for the U.S. cotton industry, particularly through the development and implementation of regenerative practices aimed at reducing tillage and addressing the challenges posed by climate change. Over the duration of the project, the anticipated outcomes will span environmental, economic, and social impacts. By leveraging cutting-edge precision agriculture technologies, this project will create new market opportunities, enhance sustainability, and improve farm profitability. The key expected outcomes include:
+[Normal (Web)] Environmental and Sustainability Outcomes
+[Normal (Web)] Reduction in Greenhouse Gas (GHG) Emissions One of the primary environmental outcomes of this project is the significant reduction in greenhouse gas emissions across cotton production systems. Through the integration of regenerative practices such as reduced tillage, cover cropping, and soil health improvement techniques, the project aims to enhance carbon sequestration in soils, effectively mitigating GHG emissions. Research conducted on grass buffer strips and other conservation practices is expected to provide concrete evidence of how these methods contribute to emission reductions in water-limited agroecosystems.
+[Normal (Web)] Improved Soil Health A critical focus of this project is enhancing soil health by incorporating sustainable practices like reduced tillage and the use of cover crops. These practices help in maintaining and increasing organic matter, improving soil structure, enhancing microbial diversity, and reducing soil erosion. As a result, cotton growers will experience improved soil fertility, leading to better crop yields over time, even in regions that may face water scarcity or other climate-related stressors.
+[Normal (Web)] Increased Water Use Efficiency The project will contribute to the improved management of water resources through precision irrigation technologies and smart-water management practices. By integrating real-time data from soil moisture sensors and weather forecasts, cotton producers will be able to better manage irrigation schedules, reducing water waste and ensuring that crops receive the necessary water for optimal growth. This outcome will also help farmers adapt to the challenges of drought and water scarcity, which are becoming more prevalent due to climate change.
+[Normal (Web)] Promotion of Climate-Resilient Cotton Production The project’s regenerative practices will ultimately lead to a more resilient cotton production system. By improving soil health, water use efficiency, and pest management, the project will help farmers adapt to extreme weather conditions, such as droughts and heavy rainfall, which are becoming more frequent due to climate change. Additionally, the implementation of precision agriculture technologies will enable early diagnosis of field issues, allowing for more proactive responses to weather-related disruptions.
+[Normal (Web)] Economic Outcomes
+[Normal (Web)] Increased Input Use Efficiency By utilizing precision agriculture technologies, this project will enable cotton producers to diagnose field issues promptly and implement site-specific interventions that improve input use efficiency. These technologies, including soil moisture sensors, automated irrigation systems, and data-driven decision-making tools, will reduce the overuse of fertilizers, water, and pesticides, lowering production costs for farmers. These improvements in resource efficiency will contribute directly to increasing farm profitability, especially for small and medium-sized operations.
+[Normal (Web)] Market Opportunities for Climate-Smart Cotton A major outcome of this project is the creation of new market opportunities for cotton producers through the promotion of climate-smart practices. As consumer demand for sustainably produced products rises, cotton grown using regenerative practices such as reduced tillage and cover cropping will be in high demand. The project will support the development of these new market opportunities by providing evidence-based data on the economic benefits of sustainable cotton production. This can open doors to premium markets that focus on environmental sustainability, giving farmers access to higher-value products and more lucrative market niches.
+[Normal (Web)] Economic Benefits of Adoption Economic analyses conducted within the project will highlight the tangible economic benefits of adopting precision regenerative practices in cotton production. These analyses will include cost-benefit assessments of different regenerative practices, helping farmers understand the potential for long-term financial gains. Additionally, the economic models developed in the project will quantify the savings in input costs, the value of improved crop yields, and the long-term benefits of sustainability for the cotton industry.
+[Normal (Web)] Improved Farm Profitability By promoting cost-saving technologies, improved input use efficiency, and the adoption of precision agriculture practices, this project will directly contribute to increased profitability for cotton farmers. Through reduced input costs and enhanced yields, farmers will experience improved financial stability and competitiveness in both domestic and global markets. Furthermore, the increased use of automation and smart technologies will allow for more efficient management of farming operations, further enhancing farm profitability.
+[Normal (Web)] Social and Workforce Development Outcomes
+[Normal (Web)] Improved Health and Safety of Farm Workers Through the adoption of regenerative practices and precision technologies, the project will have positive implications for the health and safety of farm workers. Reduced pesticide use, improved soil health, and more efficient irrigation systems will lead to healthier working environments, reducing exposure to harmful chemicals and improving overall worker well-being. Furthermore, precision agriculture technologies will automate tasks like irrigation management, reducing the need for manual labor in harsh or dangerous conditions, thus enhancing worker safety.
+[Normal (Web)] Labor Force Transformation and Opportunities Automation and the integration of new technologies will not only improve productivity but will also create new employment opportunities in rural areas. As cotton farmers adopt smart technologies, there will be an increasing demand for skilled workers to operate and maintain these technologies. The project will help train a new generation of workers skilled in operating precision agriculture tools, fostering new career opportunities in rural communities. This will also help address the ongoing labor shortages in agriculture, particularly in regions where cotton is a primary crop.
+[Normal (Web)] Training and Education for Students and Researchers A key outcome of this project will be the training and development of undergraduate and graduate students, as well as postdoctoral researchers, who will gain hands-on experience in regenerative agriculture and precision farming techniques. The project’s research and field activities provide educational opportunities for students in agronomy, plant science, and related fields. Through coursework, field research, and industry engagements, these students will be better prepared for careers in sustainable agriculture and climate-smart technologies.
+[Normal (Web)] Strengthened Extension and Outreach Programs The project will also strengthen extension services and outreach programs, enabling farmers and agricultural professionals to adopt innovative and sustainable farming practices. The project’s extensive outreach activities, such as conferences, field days, workshops, and online content, will ensure that climate-smart practices are communicated effectively to a broad audience. Through these outreach efforts, the project will increase the adoption of climate-smart cotton practices and foster a deeper understanding of their benefits among cotton producers and industry stakeholders.
+[Normal (Web)] Technological Advancements
+[Normal (Web)] Development of Precision Agriculture Tools The integration of precision agriculture technologies, including automated irrigation systems, soil moisture sensors, and data-driven decision-making tools, will be one of the most significant technological advancements resulting from this project. These tools will enable cotton producers to implement site-specific measures that optimize resource use, reduce environmental impacts, and improve crop yields. The widespread adoption of these technologies will modernize cotton farming practices and set a new standard for sustainability in the industry.
+[Normal (Web)] Automation and Smart Technologies Automation will play a critical role in transforming cotton production practices. Through the introduction of automated systems for irrigation, fertilization, and pest management, farmers will be able to achieve higher efficiency with fewer resources. These advancements will not only improve productivity but will also help mitigate labor shortages in the cotton industry, particularly in rural areas.
+[Normal (Web)] Conclusion
+[Normal (Web)] Over the course of this project, the expected outcomes will bring transformative changes to U.S. cotton production. By implementing regenerative practices and leveraging precision agriculture technologies, this project will reduce environmental impacts, increase farm profitability, improve the health and safety of farm workers, and create new market opportunities. Through the development of sustainable practices, the project will position U.S. cotton production as a leader in climate-smart agriculture, benefiting both producers and the broader agricultural community.
+[Normal (Web)] Provide a description of the target audience(s) that will be the focus of effort for the duration of the project. 8,000 character limit.
+[Normal (Web)] The SAS Climate-Smart Cotton project is designed to engage a broad array of stakeholders from the cotton industry, academia, and the broader public, ensuring that its outcomes benefit all sectors involved in cotton production. From farmers and industry professionals to educators and the general public, the project aims to drive the widespread adoption of sustainable practices through targeted outreach, training, and research dissemination. Below are the key target audiences for the project and the focus of efforts for each group.
+[Normal (Web)] 1. Cotton Farmers Across the US Cotton Belt
+[Normal (Web)] The primary target audience for the SAS Climate-Smart Cotton project is cotton farmers across the U.S. Cotton Belt, covering states such as Texas, Mississippi, Alabama, Georgia, and California. These farmers will benefit most directly from the project, as the outcomes will focus on improving sustainability, profitability, and soil health through the adoption of regenerative agricultural practices.
+[Normal (Web)] Focus of Efforts: The project will focus on providing farmers with the knowledge and tools necessary to implement precision regenerative practices such as reduced tillage, cover cropping, improved irrigation, and integrated pest management. The goal is to help farmers improve input use efficiency, reduce GHG emissions, and enhance soil health while increasing profitability.
+[Normal (Web)] Outreach Methods: Outreach will occur through a variety of mechanisms, including field days, extension workshops, grower meetings, and one-on-one consultations. These activities will be held in key cotton-producing regions and will include both in-person and virtual events. The Beltwide Cotton Conference and local grower meetings will also serve as important platforms for disseminating the project’s research and findings.
+[Normal (Web)] 2. National Cotton Council (NCC)
+[Normal (Web)] The National Cotton Council (NCC) is a significant player in the U.S. cotton industry, representing the interests of cotton producers, ginners, and marketers. As an influential organization in policy development and industry advocacy, the NCC is a crucial audience for the project.
+[Normal (Web)] Focus of Efforts: The project will work closely with the NCC to ensure that research findings are integrated into broader industry standards and recommendations. This includes promoting the adoption of climate-smart cotton practices and supporting policy initiatives that align with sustainable cotton production.
+[Normal (Web)] Outreach Methods: The project will engage with the NCC through presentations at NCC meetings, participation in industry committees, and collaboration on policy advocacy initiatives. These engagements will ensure that the project’s findings have a broader influence within the cotton industry
+[Normal (Web)] 3. Soil Health Institute
+[Normal (Web)] The Soil Health Institute is a leading organization in advancing soil health research and practices. Their work focuses on improving soil health across agricultural systems, including cotton farming.
+[Normal (Web)] Focus of Efforts: The project will collaborate with the Soil Health Institute to develop science-based recommendations for improving soil health through regenerative cotton farming practices. This will involve sharing findings on soil management, carbon sequestration, and water retention, all of which are key to sustainable cotton production.
+[Normal (Web)] Outreach Methods: The Soil Health Institute will be engaged through joint research publications, field days, and workshops. These partnerships will enable the dissemination of research findings to a broader audience of farmers and agricultural professionals.
+[Normal (Web)] 4. University Extension and County Extension Agents
+[Normal (Web)] University Extension programs and county extension agents are vital in transferring research findings to cotton farmers and agricultural professionals. These groups play a key role in providing practical, research-based guidance to farmers on adopting new agricultural practices.
+[Normal (Web)] Focus of Efforts: The project will engage extension agents to ensure that the findings and recommendations are effectively communicated to farmers. Extension agents will help deliver workshops, field days, and training sessions to promote the adoption of climate-smart practices.
+[Normal (Web)] Outreach Methods: Outreach will include presentations at extension conferences, development of training materials, and one-on-one consultations with farmers. Extension agents will also assist in disseminating project findings through local media, newsletters, and online resources.
+[Normal (Web)] 5. Graduate and Undergraduate Students
+[Normal (Web)] The project will engage graduate and undergraduate students, especially those studying agronomy, plant science, and environmental science, providing them with valuable hands-on experience in sustainable cotton research.
+[Normal (Web)] Focus of Efforts: Students will be involved in various aspects of the project, including field experiments, laboratory work, and data analysis. This will provide them with practical skills and knowledge that they can apply to their future careers in agricultural research and farming.
+[Normal (Web)] Outreach Methods: Students will gain experience through research assistantships, internships, and the integration of project findings into their coursework. They will also be encouraged to present their findings at academic conferences and contribute to publications.
+[Normal (Web)] 6. General Public Interested in Sustainable Cotton Production
+[Normal (Web)] The general public, including consumers and environmental advocates, is an important audience for this project. As demand for sustainable and ethically produced goods grows, consumers are becoming more conscious of how their purchasing decisions impact the environment.
+[Normal (Web)] Focus of Efforts: The project will work to raise awareness about sustainable cotton production practices, encouraging consumers to choose products made from climate-beneficial cotton fibers. This will also involve educating the public on the environmental and economic benefits of regenerative cotton farming.
+[Normal (Web)] Outreach Methods: Outreach will include online content, public service campaigns, and public-facing events such as field days and conferences. The project will also partner with environmental organizations to promote sustainable cotton farming practices through their networks.
+[Normal (Web)] Conclusion
+[Normal (Web)] By focusing on these diverse target audiences, the SAS Climate-Smart Cotton project aims to create a widespread impact across the cotton industry, academia, and the broader public. Engaging these groups through tailored outreach and education will help drive the adoption of sustainable cotton practices, leading to more environmentally responsible and economically viable cotton production. The collaboration with key stakeholders will ensure that the project’s findings reach those who can make the most significant impact on the future of cotton farming in the U.S.
+[Normal (Web)] Describe the Methods for the project. 8,000 character limit. (with spaces)
+[Normal] Objective 1. Develop regenerative cotton production practices and investigate their long-term effects on US Belt-wide cotton production systems. Objective 1.1. Establish soil organic carbon and carbon intensity baselines for ecoregions in the US Cotton Belt [Years 1 to 2]: To establish baselines, we will recruit 20-30 conventional cotton producers from each ecoregion where practices are considered ‘business as usual’. In this project, a ‘baseline scenario’ or ‘business as usual’ site will be a cotton field where management for the past 5 years is considered typical for the region with minimal or no use of conservation management practices. Objective 1. 2. Investigate regenerative practices for reducing tillage and improving soil health. 1.2.1. Evaluate locally suitable regenerative production practices focusing on cover crops and living mulches in combination with conservation tillage on weed suppression, soil & water conservation, nutrient cycling, and pest dynamics [Years 1 to 4]: This objective includes four common experiments (CE 1 to CE4) to be conducted across multiple ecoregions to generate necessary research knowledge for promoting the adoption of regenerative practices. The CE1 will evaluate tillage, cover crop, and living mulch systems in controlled on-station field experiments across six ecoregions. The CE2 (3 sites) will evaluate cover crop planting method for cotton grown on beds in high-rainfall areas. The CE3 (4 sites) will focus on determining locally-suitable living mulch species for cotton across the six sites, whereas the CE4 (4 sites) will evaluate living mulch sensitivity to cotton herbicides for sound integration into existing weed management programs. 1.2.2. Track outcomes of reduced tillage and other regenerative production practices that create quantifiable changes in soil health, soil carbon, and GHG emissions [Years 1 to 5]: Soil samples (from Obj 1.1 and CE1) will be analyzed for various soil health indicators: soil pH (Thomas 1996), soil EC (Rhoades 1996), cation exchange capacity (Sikora and Moore 2014), extractable phosphorus (Olsen and Sommers 1982; Sikora and Moore 2014), phosphatase enzyme activity (Tabatabai 1994), extractable potassium, total nitrogen (dry combustion using an Elementar vario MAX Cube), wet aggregate stability (Fajardo et al. 2016), dry bulk density, soil organic carbon (dry combustion after pretreatment to remove inorganic carbon using an Elementar vario MAX Cube), soil respiration (laboratory incubation), and microbiome composition. 1.2.3. Investigate the impact of reduced tillage and regenerative production practices on soil microbiome and soil-borne pathogens in cotton [Years 1 to 4]: Alpha diversity will be obtained using amplicon sequence variant (ASV) method on QIIME2, and taxonomy curated with RDP and SILVA. Beta diversity will be assessed using Bray-Curtis and UNIFRAC distances, Co-occurrence networks will be built to identify keystone bacterial taxa in different samples (Berry and Widder 2014). 1.2.4. Evaluate circular buffer strips of native perennial grasses in center pivot irrigated cotton fields to improve soil health and ecosystem services [Years 1 to 4]: We are proposing a large landscape-level trial at Clovis, NM. A perennial grass mixture of two cool-season grasses and five warm-season grasses was planted in buffer strips in 2016 summer as part of a corn study that is still in place. 1.2.5. Evaluate and determine root traits of cotton for sustainability under climate change [Years 1 to 4]: Screen for cotton cultivars with root characteristics that can increase nutrient (N, P) and water uptake, C sequestration, and weed suppression. Images will be taken and analyzed for root angles, numbers, complexity, and density using the Rhizovision software (Seethepalli et al. 2020; Singh et al. 2021). Objective 1.3. Investigate the long-term impact of regenerative practices in addressing climate change using simulation models [Years 1 to 4]: We will use the widely used process-based cotton simulation modeling platform CSM-CROPGRO-Cotton model in DSSAT.
+[Normal] Objective 2. Develop and/or evaluate precision AI/ML and smart technologies for resource conservation and climate change adaptation/mitigation in cotton. 2.1. Investigate crop water use requirements and update ET-based irrigation scheduling recommendations in cotton under cover crop and living mulch systems; 2.2. Develop sensor-based smart irrigation systems integrated with ET measurements and soil variability maps for efficient irrigation scheduling [Years 1 to 4]: In this objective, we will use two measurement techniques for quantifying ETc. This system will be combined with a sensor-based (e.g. Vories and Sudduth 2021; Dominguez-nino et al. 2020) as well as a soil-texture variability map (Vories et al. 2020) to improve the accuracy of irrigation scheduling. 2.3. Improve the diagnostics of nutrient deficiency symptoms in cotton for site-specific nutrient management; 2.4. Develop unmanned aerial system (UAS)-based diagnosis and site-specific treatment framework for major pest organisms (weeds, insect pests, diseases) in cotton [Years: 1 to 4]: Traditionally, the Normalized Difference Vegetation Index (NDVI) has been used for variable rate nitrogen applications, using sensors mounted on tractors. In this regard, drone-based sensors may provide a more robust determination of nitrogen deficiency at spatial scales using multiple plant features (with the use of AI/ML), which can be integrated with existing variable rate applicators.
+[Normal] Objective 3. Evaluate the economic feasibility of precision regenerative production practices and determine new market opportunities [Years 1 to 5]: Co-PD Hudson will analyze economic feasibility in three primary ways. First, partial budget analysis will be used to determine changes in costs of production. Second, PD Hudson will work with the modeling team to produce model estimates of yield outcomes under alternative practices through Monte Carlo simulations. Finally, PD Hudson will examine the impacts of alternative policies such as carbon markets and “sustainable” cotton product marketing.
+[Normal] Objective 4. Expand knowledge about farmers’ multi-dimensional experiences of adoption of regenerative practices across the US Cotton Belt. [Years 1 to 3]: Human dimensions research will be conducted by the University of Georgia (co-PI Thompson) using established and innovative methodologies. While traditional adoption frameworks treat adoption as binary, a new framework developed by Han and Niles (2023) proposes four key dimensions of adoption, each of which can be implemented to varying degrees (i.e., simple to complex, or partial to full): entirety, variability, longevity, and sophistication.
+[Normal] Objective 5. Promote the adoption of regenerative, climate-smart cotton production practices through innovative and collaborative extension and outreach activities [Years 2 to 5]: We will specifically develop outreach programs with the following targets: 1) Improve awareness about cotton sustainability metrics, 2) Engage producers to explore incentives through adoption of regenerative practices, and 3) Demonstrate project findings. AgriCenter International, for example, attracts 1.3 million visitors annually. We will work with Field to Market to utilize their free Fieldprint Calculator.
+[Normal] Objective 6. Provide educational opportunities to train the next generation of research and extension scientists and practitioners, including underserved communities, and empower the rural workforce [Years 1 to 5]: Our educational program will focus on 1) Establishing innovative, multi-agency training; 2) Enhancing educational programs for improving the readiness of graduates; and 3) Development of a Youth program. All PDs will be recruiting undergraduate research students to assist with their field and lab research activities, and we will give preference to underrepresented and low-income students during recruitment.
+[Normal] Non-Technical Summary: (8000 character limit)
+[Normal] The sustainability of US cotton production is pivotal to agricultural sustainability in the Southern US. Protecting and improving soil health, reducing greenhouse gas (GHG) emissions, and enhancing input use efficiency are central to improving the sustainability of cotton in the face of changing climatic conditions. According to the most recent USDA-ERS report on tillage and conservation cropping in the US (Claassen et al. 2018), 60% of cotton acreage is still under conventional tillage, compared for example, to only 30% or less in soybean. Tillage intensity has increased due to the need to control herbicide-resistant and other problematic weeds (CAST 2012), which is now widespread throughout the US Cotton Belt (Heap 2023). Intensive tillage contributes greatly to greenhouse gas (GHG) emissions, stored carbon loss, and a loss of overall soil health, while conservation tillage is considered a vital component of a sustainable soil health management system (Elder and Lal 2008; USDA-NRCS 2017). Cotton is inherently a low residue crop, which in turn adds limited amounts of carbon during the growing season. Because cotton is commonly grown with low residue crops in rotation (Claassen et al. 2018), this is a major area where rapid gains can be achieved in soil health improvement and climate change mitigation. In this regard, cover crops and living mulches can play a key role (Wick et al. 2017). A recent analysis by the Cotton 2040 initiative revealed that cotton is a vulnerable crop to climate change impacts (WTW 2022). There is a crucial need to make cotton cultivation a carbon-neutral, or better yet a net carbon-positive enterprise, while simultaneously mitigating/adapting to the adverse effects of climate change. The majority of US cotton is already grown in marginal soils with low organic matter content. Potential increases in tillage to manage the anticipated surge in herbicide-resistant weeds associated with climate change (Ramesh et al. 2017) is expected to exacerbate this problem. Further, the use of Artificial Intelligence/Machine learning (AI/ML)-assisted precision application technologies can greatly improve resource input use efficiency, which can in turn reduce GHG emissions (e.g. Cotton Inc. 2018). These precision regenerative practices are also expected to create new market opportunities, through, for example, carbon crediting and sustainable cotton markets, and empower the rural agricultural workforce via employment generation.
+[Normal] The long-term goal of the proposed research is to apply improved precision management practices to enable enhanced carbon sequestration and reduced greenhouse gas emission, pest control, and nutrient and water management; and to address labor challenges, steward land, create new market opportunities, and ensure a sustainable supply of climate-smart cotton. Achieving this will require a coordinated effort among researchers, Extension specialists, and broader industry stakeholders. The specific objectives of this project are: 1. Develop regenerative cotton production practices and investigate their long-term effects on US Belt-wide cotton production systems. 1.1. Establish soil organic carbon and carbon intensity baselines for ecoregions in the US Cotton Belt; 1.2. Investigate regenerative practices for reducing tillage and improving soil health; 1.3. Investigate the long-term impact of regenerative practices in addressing climate change using simulation models. 2. Develop and/or evaluate precision AI/ML and smart technologies for resource conservation and climate change mitigation/adaptation in cotton. 3. Evaluate the economic feasibility of precision regenerative production practices and determine new market opportunities. 4. Expand knowledge about farmers’ multi-dimensional experiences of adoption of regenerative practices across the Cotton Belt. 5. Promote the adoption of regenerative, climate-smart cotton production practices through innovative and collaborative extension and outreach activities. 6. Provide educational opportunities to train the next generation of research and extension scientists and practitioners, including underserved communities, and empower the rural workforce.
+[Normal] This integrated project is expected to bring tremendous benefits to the US cotton industry through the development and implementation of sound regenerative practices for reducing tillage and addressing climate-change impacts. By utilizing precision agriculture technologies, there will be an improvement in the timely diagnosis of field issues and implementation of site-specific measures for increasing input use efficiency and reducing GHG emissions. New market opportunities will be generated, improving overall farm profitability. The economic analysis will highlight the economic benefits of the adoption of precision regenerative practices and smart-technologies for cotton production. The health and safety of farm workers will be improved. Automation will help alleviate labor shortage in rural areas, while equipping them for new employment opportunities.
+
+==========================================================================================
+
+SOURCE: C:\Users\deepak.loura\OneDrive - Texas A&M AgriLife\Desktop\SAS_2026\SAS_Annual Report_2025-2026.docx
+
+[normal] SAS COTTON REPORT 2025 Annual Report
+[normal] Climate-Smart Cotton: Developing Precision Regenerative Practices and Market Opportunities for Addressing Climate Change in the Cotton Belt
+[normal] Project Start Date 2024-04-01
+[normal] Project End Date 2029-03-31
+[normal] UEI: KU3DCFJJTVN3
+[normal] DUNS Number: 847205713
+[normal] Accession Number: 1031714
+[normal] Project Number: TEX08006
+[normal] Accession Number: 1031714
+[normal] Award Number: 2024-68012-41750
+[normal] Reporting period start date: 2025-04-01
+[normal] Reporting Period End Date: 2026-03-31
+[normal] FTEs for the project duration (1 Apr 2025 to 31 Mar 2026)
+[normal] Scientist: 4.83 (16.66% scientists' effort for 1 year)
+[normal] Professional:
+[normal] Faculty and non-students: 0.17 (1 Faculty for 2 months)
+[normal] Undergrad researcher: 11 (Total Number-22, Full-time-6 months)
+[normal] Graduate: 3.75 (7.5 grad students across locations, 50% effort)
+[normal] Post-doctorate: 0.5 (Number-3, Full time-2 months)
+[normal] Technical: 0.83 (2 months field tech each for 5 locations)
+[normal] Admin:
+[normal] Faculty and non-students: 0.17 (1 month each for 3 locations)
+[normal] Total: 21.2
+[normal] Dr. Jake Mowrer
+[normal] Faculty - 1, Graduate Student - 1, Undergraduate - 2
+[normal] Faculty - 12, Graduate Student - 12, Undergraduate - 6
+[normal] Dr. Katie Lewis
+[normal] Faculty - 1, GS - 1, Technician - 2
+[normal] Faculty - 0.5 months, GS - 6 months, Technician - 7 months
+[normal] Dr. Rajan Ghimire
+[normal] Faculty – 1, Graduate Student – 1
+[normal] Faculty, 0.05; GS, 1
+[normal] Dr. Benjamin McKnight
+[normal] Faculty-0, Graduate Student-0, Post-Doc-0, Technician-1, Undergrad-0
+[normal] Technician: 0 Months. Will have a role in years 4 and 5 of the project.
+[normal] Aniruddha Maity
+[normal] Scientist/Faculty – 1, Graduate Student – 1.
+[normal] Faculty - 1, Graduate student - 12.
+[normal] Darren Hudson
+[normal] Faculty 1, Graduate Student 2
+[normal] 30 months
+[normal] Nicholas T. Basinger
+[normal] Faculty - 1, grad students - 4, post doc/research associate- 0, technician - 1, undergraduate student - 5
+[normal] Faculty - 12 months, grad students - 36 months, post doc - 0, technician- 12 months, undergraduates - 40 months
+[normal] Karthikeyan Kannappan
+[normal] Sub-awardee digital solutions partner (research associate), Research Associate: 2
+[normal] 12 months
+[normal] Mahendra Bhandari, Uday Vaddevolu
+[normal] Faculty:2, Student:1
+[normal] Faculty: 1 month, Student: 2 months
+[normal] Sanjay Antony-Babu
+[normal] Grad student: 1, Postdoc: 1
+[normal] Grad student: 0.5, Postdoc: 0.2
+[normal] Debankur Sanyal
+[normal] Scientist/Faculty – 2, Research technician - 1
+[normal] Faculty: 3 months, Research technician: 6 months
+[normal] Jennifer Jo Thompson
+[normal] Faculty - 1, Postdoctorate fellow - 1
+[normal] Faculty: 2 months, Post-doctorate fellow: 4
+[normal] Ramon Leon-Gonzalez
+[normal] Faculty: 2; Graduate Student: 3; Postdoc: 1; Undergraduate student: 8
+[normal] Faculty: 1; Grad: 2.4; Postdoc: 0.5; Undergrad: 32
+[normal] Nithya Rajan
+[normal] Faculty-1, Graduate Students-2
+[normal] Faculty:0.5 months, Graduate Students: 6 months each
+[normal] Drew Gholson
+[normal] Scientist/Faculty – 1, Graduate Student – 1, Undergraduate Student – 3
+[normal] Faculty-2.5 months, Technicians- 6months, undergraduates- 3 months
+[normal] Alvaro Sanz-Saez
+[normal] Faculty 1; Graduate Student 1; Field Technician 1
+[normal] • Faculty: 1 months • Graduate Student: 12 months • Technician: 2 months
+[normal] Andrew Jordan and Ashley Barth
+[normal] Faculty 0, Graduate Student 0. Post Doc. fellow 0, Technician 2, undergraduate/Intern 0
+[normal] Technician 2
+[normal] Provide a description of the target audience(s) that will be the focus of effort for the duration of the project. 8,000 character limit.
+[normal] The key target audience for this project includes cotton farmers throughout the US Cotton Belt, National Cotton Council, Cotton Incorporated, Textile Exchange, US Cotton Trust Protocol, Climate Beneficial Fiber, various cotton merchandisers, Soil Health Institute, University Extension, county extension agents, graduate and undergraduate students, as well as the general public interested in learning sustainable cotton production.
+[normal] The key target audiences for this project include organic cotton farmers across Texas and the broader U.S. Cotton Belt, with a particular focus on those adopting or considering regenerative and organic production practices. Producer organizations such as the Texas Organic Cotton Marketing Cooperative (TOCMC) and the Texas Organic Farmers and Gardeners Association (TOFGA) are also central audiences, serving as critical partners for outreach, demonstration, and knowledge exchange.
+[normal] County and regional extension agents represent another important audience, as they play a pivotal role in translating research findings into practical recommendations for farmers. Organic cotton ginning mills, merchandisers, and other supply chain partners are engaged to ensure that research outcomes are aligned with market needs and production standards. Carbon market providers and relevant USDA agencies, including the Risk Management Agency (RMA), are included to support the development of sustainable management incentives, economic analyses, and risk mitigation strategies for organic cotton producers.
+[normal] The project also targets academic audiences, including undergraduate and graduate students involved in research training, laboratory work, and field experiments. These efforts provide hands-on experiential learning while developing the next generation of agronomists, soil scientists, and sustainable agriculture professionals.
+[normal] In addition to these primary audiences, broader stakeholders and the general public interested in sustainable and organic agriculture will benefit from outreach efforts. This includes participants in field days, workshops, online seminars, educational materials, and public communications, all designed to raise awareness of organic cotton production, regenerative practices, and climate-smart agriculture.
+[normal] By engaging a diverse set of stakeholders spanning producers, educators, supply chain participants, and policymakers, this project aims to create a comprehensive network of knowledge exchange and practical application. Collectively, these efforts ensure that research outcomes are translated into actionable strategies, the adoption of sustainable practices is facilitated, and awareness of organic cotton production is increased at local, regional, and national levels.
+[normal] What are the major goals of this project?
+[normal] The long-term goal of the proposed research is to apply improved precision management practices to enable enhanced carbon sequestration and reduced greenhouse gas emission, pest control, and nutrient and water management; and to address labor challenges, steward land, create new market opportunities, and ensure a sustainable supply of climate-smart cotton.
+[normal] The specific objectives of this project are:
+[normal] 1. Develop regenerative cotton production practices and investigate their long-term effects on US Belt-wide cotton production systems.
+[normal] 1.1. Establish soil organic carbon and carbon intensity baselines for ecoregions in the US Cotton Belt;
+[normal] 1.2. Investigate regenerative practices for reducing tillage and improving soil health;
+[normal] 1.3. Investigate the long-term impact of regenerative practices in addressing climate change using simulation models
+[normal] 2. Develop and/or evaluate precision AI/ML and smart technologies for resource conservation and climate change mitigation/adaptation in cotton
+[normal] 3. Evaluate the economic feasibility of precision regenerative production practices and determine new market opportunities
+[normal] 4. Expand knowledge about farmers’ multi-dimensional experiences of adoption of regenerative practices across the Cotton Belt
+[normal] 5. Promote the adoption of regenerative, climate-smart cotton production practices through innovative and collaborative extension and outreach activities
+[normal] 6. Provide educational opportunities to train the next generation of research and extension scientists and practitioners, including underserved communities, and empower the rural workforce
+[normal] What was accomplished under these goals? 8000 characters
+[normal] Objective 1. Develop regenerative production practices and determine their long-term effects on US cotton.
+[normal] Dr. Jake Mowrer (Obj-1.2.2, 1.2.5, 2.3), Texas A&M University
+[normal] During this reporting period, soil samples were collected from all three sites under five tillage and cover crop treatments in the organic cotton (ORCOT) system. Wet aggregate stability was evaluated using multiple methods, and soil organic carbon and respiration measurements were completed. In addition, we are currently working on analyzing the Arbuscular Mycorrhizal Fungi (AMF) and Phosphatase Analysis. Preliminary statistical analyses were initiated to assess treatment effects and relationships among soil physical, chemical, and biological indicators.
+[normal] Dr. katie Lewis (Obj-1.1, 1.2.1), Texas A&M AgriLife Research
+[normal] We completed our first full cycle of the cotton/forage sorghum rotation; cotton following forage sorghum was harvested for the first time in 2025. We seeded cool-season forages (annual and perennial) in October 2025 with poor emergence because of weather conditions. We have recently seeded a separate area with the intention of evaluating emergence, growth, and development. Fit for the region will be determined based on results. We have assisted Dr. Rajan's crew in collecting soil samples in the TX High Plains for the last two months. Approximately 20-30 farms have been sampled.
+[normal] Dr. Rajan Ghimire (Obj-1.1, 1.2.4), New Mexico State University
+[normal] The NMSU soil health research team has made significant progress in soil health and soil carbon assessment in the circular grass buffer strips project. First-year soil health data collection and analysis are complete. We collected soil profile carbon and nitrogen samples; a graduate student is working on a thesis chapter based on the data collected in 2025. On-farm soil sampling site identified. The student presented the preliminary results of this study at CANVAS 2025 and the NMSU graduate school workshop. One manuscript that was in the pipeline has now been accepted for publication. On the extension/outreach side, Dr. Angadi and Ghimire gave a series of extension talks in Spring 2025
+[normal] Aniruddha Maity (Obj-1.2.5), Auburn University
+[normal] 1.2.5. Aim 2: Finding weed competitive root traits:- From USDA-GRIN, 117 cotton lines were sourced and examined in a replicated field trial in the Auburn University farm for weed suppression potential. 10 top and bottom cotton lines were selected based on the weed density in cotton rows, weed biomass, and weed growth.
+[normal] Nicholas T. Basinger (Obj-1.1, 1.2.1), University of Georgia
+[normal] Soil Sampling: 20 fields were completed for SOC and bulk density. 10 fields were completed for AMF. Bulk density samples were placed in ovens for respective analysis. A collection of metadata of 20 fields was completed.
+[normal] Sanjay Antony-Babu (Obj-1.2.5), Texas A&M University
+[normal] A. Effect of different cotton management practices on Hyphal recruitment and community analysis (Brazos Bottom Fields, College Station, TX)
+[normal] Location: Brazos Bottom Research Fields, College Station, Texas
+[normal] Activities Conducted:
+[normal] A total of 24 field plots representing distinct cotton management practices were sampled to evaluate how management influences hyphal recruitment dynamics and associated microbial community structure.
+[normal] Sampling was conducted across two independent rounds to capture temporal variation. The following sample sets were generated:
+[normal] Hyphal baiting microcosms:
+[normal] - 42 samples (Round 1)
+[normal] - 42 samples (Round 2)
+[normal] Bulk and rhizosphere soils:
+[normal] - 52 samples (Round 1)
+[normal] - 108 samples (Round 2)
+[normal] Progress Toward Objectives:
+[normal] DNA extractions: 100% completed
+[normal] 16S rRNA sequencing: 100% completed
+[normal] Microbial community analysis: ~50% completed
+[normal] Functional prediction analysis: ~50% completed
+[normal] Ongoing analyses focus on diversity metrics, differential abundance testing, and predicted metabolic pathway profiling to identify management-sensitive taxa and functions.
+[normal] B. Influence of organic management practices on cotton microbiome (Lamesa, TX)
+[normal] Location: Lamesa, Texas
+[normal] Activities Conducted:
+[normal] 17 cotton fields representing conventional and long-term organic systems were sampled to evaluate the impact of organic management on rhizosphere and phyllosphere microbial communities.
+[normal] Samples collected:
+[normal] •170 rhizosphere soil samples
+[normal] •170 leaf samples
+[normal] Progress Toward Objectives:
+[normal] DNA Extractions:
+[normal] •Soil: 100% completed
+[normal] •Leaf: ~65% completed
+[normal] 16S rRNA Metabarcoding (Soil): Completed
+[normal] Community Analysis (Soil): Completed
+[normal] Functional Prediction Analysis (Soil): Completed
+[normal] Comparative analyses reveal distinct microbial community signatures between conventional and organic systems, including shifts in bacterial taxa and predicted functional pathways associated with nutrient cycling and stress adaptation.
+[normal] To extend functional resolution beyond amplicon-based profiling, shotgun metagenomic sequencing was initiated on selected soil samples.
+[normal] •12 soil samples completed (Conventional vs. long-term organic management systems)
+[normal] Debankur Sanyal (Obj-1.1, 1.2.1), The University of Arizona
+[normal] Objective 1.2: We have successfully grown cover crops on beds in rotation with upland cotton. As a regenerative practice, cover cropping in cotton rotation is new in Arizona's irrigation conditions, and we provided a pipeline to growers to grow cover crops on beds. We not only demonstrated how to do it, but also showed that they can make economic profits from cover cropping. Our cover crop treatments produced more lint yields compared with controls. We ran statistical analyses on our yield data, currently working on the quality data. This is a huge result for cotton growers in Arizona, and we are sharing this information in statewide extension talks.
+[normal] Ramon Leon-Gonzalez (Ob-1.1, 1.2.1, 2.1, 2.3), North Carolina State University
+[normal] Objective 1.1
+[normal] · Collected soil samples from 5 cotton fields across North Carolina and collected mid-season AMF samples from those locations. The samples from 2 of the fields have been fully processed and shipped, and the other three have been fully processed and will be shipped soon. We will be collecting from the remaining 25 fields this summer season.
+[normal] Objective 1.2
+[normal] · CE2: Completed the first year of data collection (cover crop and winter weed biomass, cotton growth metrics, yield), and we are in the process of the second year of collection with requested changes to the protocol after team meetings.
+[normal] Nithya Rajan (Obj-1.1, 1.2.1, 1.2.2, 1.2.3, 1.2.4, 2.2), Texas A&M University
+[normal] During the 2025 reporting period, field experiments were conducted at the Texas A&M Research Farm in Snook, Burleson County, Texas, to evaluate the effects of bed configuration and cover crop termination timing on cotton productivity. Treatments included non-raised bed, raised bed, and raised furrow planting systems, with and without cover crops terminated two and four weeks before planting, arranged in a randomized complete block design. Research activities included cover crop termination, cotton planting, field management, biomass sampling, and manual harvest to determine lint yield. Yield data were collected, and preliminary analyses were completed to compare treatment effects among management systems. Results showed that non-raised bed treatments produced slightly higher lint yields than raised bed systems, although treatment differences were not statistically significant. Cover crop treatments generally maintained or improved yield performance, particularly under the two-week termination treatment. These activities contributed to evaluating regenerative cotton management strategies for improving long-term sustainability in Texas Blackland Vertisols.
+[normal] Drew Gholson (Obj-1.1, 1.2.1, 1.2.3, 2.2,), Mississippi State University
+[normal] Objective 1. 2. Investigate regenerative practices for reducing tillage and improving soil health. 1.2.1. Evaluate locally suitable regenerative production practices focusing on cover crops and living mulches in combination with conservation tillage on weed suppression, soil & water conservation, nutrient cycling, and pest dynamics:
+[normal] MSU has successfully implemented the treatments, with data collection largely complete for the 2025/2026 growing season. Cover crop biomass (sampled 2 and 4 weeks pre-planting) is recorded as dry weights only, though fresh weights are required for full analysis; approximate fresh estimates can be derived using typical 25–35% dry matter content for vegetative cool-season grasses common in Mississippi systems. Supporting measurements—including cover crop residue total C and N, early spring soil C/N, cotton stand counts, SPAD readings, pin-head square and peak bloom stage soil ammonium levels plus cotton biomass C/N, physiological cutout indicators (NAWF=5, plant height, nodes, etc.), plant biomass two weeks pre-defoliation, lint yield, lint quality, and post-harvest soil samples (shipped to Texas for analysis)—are either pending/in progress or ready to share, with post-season yield, quality, and biomass data fully available and most seasonal metrics collected.
+[normal] The on-farm soil sampling objective in Mississippi has been fully achieved: all 30 designated soil sampling sites were completed, with samples shipped to Texas A&M University (TAMU) for analysis. Additionally, AMF (arbuscular mycorrhizal fungi) root samples were collected from the sites and shipped to TAMU for evaluation, supporting assessments of soil health, microbial communities, and potential benefits from cover crop management in cotton production systems.
+[normal] Objective 2
+[normal] Our team visited the field during tower installation and gas chamber setup. We visited on alternate weeks during the summer to clean the chambers. With 2024 cotton ET data, we compared with multiple sources for a growing season to determine the periods of peak water demand. These estimates were compared with Remote sensing ET. DSSAT calibration was performed to evaluate ET rates from a modeling perspective. The results showed that ET estimates from conventional and climate-smart approaches generally follow similar patterns, while RS and DSSAT model ET outputs show slightly lower values during some periods. Overall, the comparison highlights seasonal variability and differences among modeling and observational ET estimation methods.
+[normal] Alvaro Sanz-Saez (Obj-1.3), Auburn University
+[normal] Research Objective. In 2025, the group grew 120 cotton cultivars of different origins to test if there are differences in photosynthetic and root traits and test the relationship with yield. This experiment was also used to test the influence of the different cultivars on the growth of different weed populations to test the potential to fight weeds. This experiment was performed at Auburn University and Texas A&M University as a complete randomized block design with 3 replicates. Photosynthetic traits were collected with 4 sets of LI-6800, and the root characteristics with the Rhizobox and Rhizovision system. We have found that there is cultivar variation for photosynthetic traits at Auburn University. Regarding the root characteristics, we have found that there is a lot of variability in root characteristics, but further analysis is needed. During this year, we also built 40 transparent rhizoboxes that will be used in the future to analyze root growth characteristics in cotton and weed species. Now that we have designed the 3D model of the rhizomes, we can build more to study how weed and cotton grow their roots in the early vegetative stages. At the end of 2025, we performed the cotton harvest to obtain yield and also collected bolls from one replication at Auburn University to obtain pure seed for the 2026 growing season. Right now, we are cleaning the seeds with sulfuric acid to have the seeds ready for next year. search
+[normal] Andrew Jordan and Ashley Barth, Agricenter International, Memphis, TN
+[normal] 1. Project planning and experimental design
+[normal] 2. Field prep, preplant field data -biomass, disking
+[normal] 3, planting
+[normal] 4 cultivation of all plots
+[normal] 5 experimental treatments -flame, may-mulch, conventional cultivation, autonomous tractor sweep, and autonomous tractor cultivation
+[normal] 6 Data collection on labor, weed intensity, weed control, plant shape, yield data, and analysis
+[normal] 7 shredding stalks post-harvest and planning cover crops for the 2026 crop
+[normal] Objective 2. Develop and/or evaluate precision AI/ML and smart technologies for resource conservation and climate change adaptation in cotton.
+[normal] Mahendra Bhandari, Uday Vaddevolu (Obj-2.2), Texas A&M University
+[normal] During this reporting period, we successfully identified and recruited a graduate student, Sabin Shrestha, who began his Ph.D. program in Spring 2026. In addition to onboarding the student, we developed a comprehensive data acquisition plan in collaboration with ongoing research programs, institutes, and industry partners engaged in irrigation research. This coordinated effort will enable integration of diverse datasets generated from soil moisture sensors, Unmanned Aerial Systems (UAS), satellite imagery, and detailed agronomic measurements, including phenotypic traits such as plant height, biomass, yield, fiber quality, irrigation amounts, and treatment strategies. The overarching goal is to compile a large-scale, multi-source dataset across cotton-growing regions to assess existing data resources and determine the need for additional targeted experiments to effectively train and validate machine learning and AI models.
+[normal] Karthikeyan Kannappan (Obj-1.2.2), GaiaDhi AgTech for Texas A&M
+[normal] Objective: Investigate the long-term impact of regenerative practices in addressing climate change using simulation models
+[normal] 1. Configuration and calibration of Holos DSS: accomplished for the TAMU cotton test farm. Ran validation tests for the yield metric.
+[normal] 2. Extracted modeled soil CO2 emissions from models as a trend across different farming practices for evaluation of practices that could be climate-friendly.
+[normal] 3. Conducted simulations of planting date impacts on cotton yield - as a potential climate change adaptation strategy.
+[normal] 4. Early simulations on crop rotation to evaluate its impacts.
+[normal] Objective 3. Evaluate the economic feasibility of precision regenerative production practices and determine new market opportunities.
+[normal] Darren Hudson (Obj-3), Texas Tech University
+[normal] We completed a meta-analysis of precision application and soil health agronomic practices. Data on yield, profitability, and environmental outcomes were collected from U.S.-based agronomic research involving guidance systems, variable rate application, cover crops, and pasture management across US crops (primarily corn, wheat, and cotton), along with fruits and vegetables and pastures. Findings indicates for cotton that guidance systems and variable rate planters were the most important for yield and profit improvements. In addition to this, we completed an analysis of the risk and insurance impacts of soil health improvements in cotton. Analysis was based on a Monte Carlo simulation using agronomic data from the Texas High Plains and simulated yield impacts of soil health improvements. Findings indicated that soil health improvements significantly improve yield and reduce the risk of crop failure in dryland cotton systems. However, the increased yield increases insurance costs. However, the added yield benefits outweigh increased insurance costs.
+[normal] Objective 4. Expand knowledge about farmers’ multi-dimensional experiences of adoption of regenerative practices across the Cotton Belt
+[normal] Jennifer Jo Thompson (Obj-4), University of Georgia
+[normal] During the 2025-2026 reporting period, our team completed the following activities toward Objective 4: In April 2025, we facilitated three in-person focus groups in South Georgia with 9 Georgia current or perspective cotton farmers in collaboration with the Soil Health Institute (SHI) to examine the complexity of adoption of regenerative practices, including cover crops, and the challenges cotton producers face in implementing or sustaining these practices. The focus group transcripts and notes were analyzed, and results were reported in an internal report and social media post by SHI, an Impact Statement for the UGA College of Agricultural and Environmental Sciences, and a conference presentation at the 2025 American Anthropological Association annual meeting. A manuscript on this research is in progress. At the 2026 Southern Cover Crop Council Conference (Gainesville, GA), Seigerman moderated a farmer panel focused on lessons learned through the process of cover crop adoption and use. Knowledge gained through participation in this and other conference sessions, as well as farm visits, will support ongoing research on the dimensions of adoption of regenerative practices. Additionally, our team has developed a field survey instrument in collaboration with co-PI Basinger and his PhD student, another UGA faculty member, and SHI collaborators. The survey is being conducted with producers participating in SAS CAP soil sampling in Georgia and includes management and demographic questions to increase understanding of the adoption of regenerative practices as a multi-dimensional process and the characteristics of producers who participate in on-farm research. After piloting this survey in GA, we will share it with other SAS CAP teams for implementation in other areas of the US Cotton Belt. In addition, three participatory workshops will be carried out in GA in March 2026 to develop knowledge about GA farmers’ understanding of soil health and soil health management practices.
+[normal] Objective 5. Promote the adoption of regenerative, climate-smart cotton production practices through innovative and collaborative extension and outreach activities.
+[normal] Dr. Benjamin McKnight (Obj-5), Texas A&M University
+[normal] The extension/outreach component will be addressed in years 4 and 5 of the project: 2028 and 2029.
+[normal] Peter Dotray, Texas A&M AgriLife Research and Extension Center - Lubbock
+[normal] Objective 5: Presented SAS Smart Cotton research updates at two extension county meetings with a total participation of 350 people, consisting of farmers, consultants, industry, students, and local stakeholders, one public radio show segment that may have reached hundreds of listeners, four agricultural science conferences with a combined audience of 290 people, and two university-related symposiums with a combined audience of 100 people. Objective 6: Four undergraduate students from Texas Tech University were employed and funded through the SAS Smart Cotton grant and gained hands-on field and greenhouse experience in chemical and non-chemical weed control tactics in various agronomic cropping systems. These students were exposed to weed identification, sprayer calibration, small plot data collection, data entry, and organic and conventional farming practices.
+[normal] Objective 6. Provide educational opportunities to train the next generation of research and extension scientists and practitioners, including underserved communities, and empower the rural workforce
+[normal] What opportunities for training and professional development has the project provided?
+[normal] During the 2024–2025 reporting period, the project created substantial opportunities for training, experiential learning, and professional development for undergraduate and graduate students, early-career scientists, and research personnel across multiple collaborating institutions. These activities directly supported the project’s objective of building capacity in organic and regenerative cotton systems.
+[normal] At the College Station site, three undergraduate interns, one from Texas A&M University-Kingsville and two from Prairie View A&M University, participated in intensive summer research experiences. These students gained hands-on training in experimental design, field plot establishment, soil and plant sampling, and agronomic data collection within organic cotton systems. Their involvement also included exposure to non-chemical weed management tools and regenerative agronomic practices. Additional undergraduate students have been identified for recruitment in the upcoming field season to further expand student involvement and training opportunities.
+[normal] The project also supported the professional development of graduate students and postdoctoral scholars. Over the reporting cycle, two PhD students, one MS student, and one postdoctoral research associate contributed to field experimentation, data collection, method development, soil and plant sample processing, and the evaluation of organic weed management technologies. These trainees were actively engaged in designing field protocols, managing field operations, analyzing data, and communicating results within research teams, skills essential for career development in agricultural research and extension. Undergraduate student workers across collaborating sites received structured mentoring while assisting in soil sampling, plant measurements, weed control evaluations, and participation in on-farm producer visits. Collectively, these activities provided a diverse cohort of students and early-career professionals with meaningful opportunities to build technical expertise, develop professional communication skills, and gain exposure to organic agriculture research at multiple scales.
+[normal] How have the results been disseminated to communities of interest?
+[normal] Dr. Jake Mowrer, Texas A&M University
+[normal] SCSC 301 Soil Science, Heep Center, TX (Aug - Dec 2025)
+[normal] CANVAS, Salt Lake City, UT - Nov 2025, Audience Type and Estimated Reach- Industry, Students
+[normal] Dr. katie Lewis, Texas A&M AgriLife Research
+[normal] We hosted a field day in September 2026 with nearly 100 attendees. One of the research stops was to discuss cotton cropping systems being evaluated in this SAS project, Audience Type and Estimated Reach- Farmers / Producers, Industry, Students, Estimated Number of Participants- farmers - 15; industry/government - 20; students - 35; faculty - 30
+[normal] Dr. Rajan Ghimire, New Mexico State University
+[normal] Ghimire, R., S. Sapkota, J.P. Frene, S.M.U. Salehin, and S.V. Angadi. Soil health and organic carbon responses to the circular buffer strips of perennial grasses. Royal College UK. April 9, 2025 (Webinar), Audience Type and Estimated Reach- Farmers / Producers, Students, Local Stakeholders, Estimated Number of Participants-100
+[normal] Ghimire, R. and S.V. Angadi. Circular buffer strips of native perennial grasses: an innovative way to add multiple benefits to center pivot irrigated agriculture. Colorado State University, Department of Soil and Crop Science Special Seminar. April 2, 2025, Fort Collins, CO.
+[normal] Ghimire R. and S.V. Angadi. Soil health and organic carbon responses to the circular buffer strips of perennial grasses. Multiple presentations to farmers in eastern Colorado. March 31-April 1, 2025.
+[normal] Darren Hudson, Texas Tech University
+[normal] Hudson, D. and S. Wade. 2026. Risk Management in Alternative Crops. Olton Alternative Crops Conference, Texas AgrlLife Extension, Olton, TX., Audience Type and Estimated Reach-Farmers / Producers
+[normal] Nicholas T. Basinger, University of Georgia
+[normal] J. Phil Campbell REC Cotton Field Day, Watkinsville, GA, September 23, 2025, Audience Type and Estimated Reach-Farmers / Producers, Students, Estimated Number of Participants-Cotton field day - 30, Corn boil - 50
+[normal] Sanjay Antony-Babu, Texas A&M University
+[normal] During the reporting period, project findings were disseminated through presentations at regional, national, and institutional scientific conferences and symposia. These activities supported knowledge transfer to academic, industry, and stakeholder audiences.
+[normal] The project team participated in and presented research at the following meetings:
+[normal] • Beltwide Cotton Conferences (2026)
+[normal] • The American Society of Agronomy, the Crop Science Society of America, and the Soil Science Society of America Conference (CANVAS 2025)
+[normal] • Texas A&M Postdoctoral Research Symposium (2025)
+[normal] • Graduate Student Research Symposium (2025)
+[normal] • Southeast Texas Evolutionary Genetics & Genomics Symposium (STEGG 2025)
+[normal] • American Phytopathological Society (APS) Annual Meeting (2025)
+[normal] These dissemination efforts increased stakeholder awareness of microbiome-driven soil health strategies and facilitated collaborations across plant pathology, microbiology, and agronomic research communities.
+[normal] Debankur Sanyal, The University of Arizona
+[normal] Demonstrate research on the Central Arizona Field Day, November 19, 2025. Research updates were provided in the 2025 cotton tent talks on May 27, July 16, August 05, September 9. Audience Type and Estimated Reach- Farmers / Producers, Consultants, Industry, Local Stakeholders, Pest control advisors, USDA researchers, NRCS professionals, Forestry service professionals, Estimated Number of Participants: 20 growers, 5 consultants, 5 industry, 10 local stakeholders, 10 others
+[normal] Jennifer Jo Thompson, University of Georgia
+[normal] Workshops: "Creative workshops to foster collective knowledge on soil health," GA (Ellijay, Fort Valley, and Burke County), March 2026. Audience Type and Estimated Reach- Farmers / Producers, Local Stakeholders, Estimated Number of Participants- Farmers/producers: 30, Extension officers: 1, Educators: 2
+[normal] Drew Gholson, Mississippi State University
+[normal] Field Day: , Estimated Number of Participants-45
+[normal] NCAAR Irrigation Field Day. Innovations in Irrigation. Stoneville, MS 06/12/25
+[normal] 2024 National Black Growers Council Model Farm Field Day Series. Row crop production practices and relevant research updates/activities at MSU and DREC. Greenville, MS 06/28/24
+[normal] Grower Meeting: Audience Type and Estimated Reach- Farmers / Producers, Consultants, Industry, Estimated Number of Participants- 76,
+[normal] Producer Meetings, , Estimated Number of Participants-61
+[normal] Prentiss County Grower Meeting. Baldwyn, MS 02/24/2026
+[normal] Hinds County Grower Meeting. Raymond, MS 02/23/2026
+[normal] Humphreys County Grower Meeting. Belzoni, MS 02/23/2026
+[normal] Leflore County Grower Meeting. Greenwood, MS 02/12/2026
+[normal] Holmes County Grower Meeting. Lexington, MS 02/11/2026
+[normal] Yazoo County Grower Meeting. Yazoo City, MS 02/11/2026
+[normal] Tunica County Grower Meeting. Tunica, MS 02/10/2026
+[normal] Grenada County Grower Meeting. Grenada, MS 02/10/2026
+[normal] Noxubee County Grower Meeting. Macon, MS 02/09/2026
+[normal] Monroe County Grower Meeting. Aberdeen, MS 02/09/2026
+[normal] Presentations:
+[normal] Gholson, D.M. (2025). Governor’s Water Task Force. Mississippi Master Irrigator Program. 12-2-2025
+[normal] Gholson, D.M. (2025). Workforce development in water and food: Training the next generation. 2025 Water for Food Global Conference. Lincoln, NE 04-30-25
+[normal] Mississippi Agricultural Consultants Association 52nd Annual Conference. Irrigation Management. Starkville, MS 02/03/2026
+[normal] 2025 MSU Row Crop Short Course. Advanced Irrigation Water Management Strategies for Furrow Irrigation. Starkville, MS 12-08-25
+[normal] 51st Delta Ag Expo. Alternate irrigation Strategies. Cleveland, MS 11-14-25
+[normal] Delta Area Rice Meeting. Rice Irrigation Updates. Cleveland, MS 11-11-25
+[normal] MAIC Row Crop Certified Crop Advisors Program. Strategies to Improve Irrigation and Water Management. 07-22-2025
+[normal] Peter Dotray, Texas A&M AgriLife Research and Extension Center - Lubbock
+[normal] Extension Update, Sandy Land Crops Conference. February 2026. Seminole, TX., Farmers, consultants, industry, local stakeholders, Estimated Number of Participants-250
+[normal] Extension Update, Resilient Cropping Systems Tour. September 2025. Plainview, TX., Farmers, consultants, industry, students, local stakeholders, Estimated Number of Participants-100
+[normal] Andrew Jordan and Ashley Barth, Agricenter International, Memphis, TN
+[normal] Ag Launch robotics collaborator 5 visits in July and August, 2025. Field visits for staff to the US Cottib Trust Protocol. October 2025, Consultants, Industry, Local Stakeholders, Estimated Number of Participants- Consultants 4, Industry 2, Local stakeholders 3
+[normal] What do you plan to do during the next reporting period to accomplish the goals?
+[normal] Dr. Jake Mowrer, Texas A&M University
+[normal] During the next reporting period, additional soil respiration measurements will be conducted to obtain third-year data for evaluating CO₂ emission trends. Field sampling will continue across all locations to strengthen temporal comparisons of carbon dynamics. Laboratory analyses will focus on assessing arbuscular mycorrhizal fungi (AMF) colonization and phosphatase enzyme activity to better understand biological responses to conservation management. The integrated dataset will be used to further evaluate relationships among soil biological activity, carbon cycling, and long-term soil health improvements.
+[normal] Dr. katie Lewis, Texas A&M AgriLife Research
+[normal] The systems described above will be continued in year 3 with the inclusion of N fertility treatments to evaluate the interaction of N treatment x cover crop species. Additional data will be collected, including soil chemical, biological, and physical parameters, to better understand the impact of crop rotation and cover cropping on N cycling and availability.
+[normal] Dr. Rajan Ghimire, New Mexico State University
+[normal] Continue soil health assessment in the circular grass buffer project - On-farm soil sampling and analysis - Publish at least one research publication from soil health data - Present soil health research outcomes in a professional meeting and extension/outreach events
+[normal] Aniruddha Maity, Auburn University
+[normal] The field trial will be repeated with more replications. The plan is also to start a greenhouse experiment to study crop-weed competition.
+[normal] Imaging will be continued and analyzed for weed detection.
+[normal] Darren Hudson, Texas Tech University
+[normal] For the coming period, we will complete the above analysis and get the results published in academic outlets. In addition, we will work with the remainder of the team as primary data is collected to begin economic analysis of experimental results.
+[normal] Nicholas T. Basinger, University of Georgia
+[normal] Continue collecting the same data collection as last season, plus biomass. Plant cotton in living mulch.
+[normal] Continue sampling 25 fields.
+[normal] Continue with an herbicide screening both in the greenhouse and field.
+[normal] Karthikeyan Kannappan, GaiaDhi AgTech for Texas A&M
+[normal] 1. Develop a paper on the impacts of planting dates for the future.
+[normal] 2. Continue and productize work on crop rotation for purposes of use in this program.
+[normal] 3. Expand solutions to larger regions in the cotton belt for the purposes of this program
+[normal] 4. Investigate proximal sensing integration into models for in-season practice adjustments.
+[normal] Mahendra Bhandari, Uday Vaddevolu, Texas A&M University
+[normal] During the next reporting period, efforts will focus on developing the data integration framework and model development. Specific research objectives will be developed to enhance precision irrigation systems. We will formalize data-sharing collaborations with research programs, institutes, and industry partners to compile multi-source datasets. Data harmonization, standardization, and quality control protocols will be implemented to develop a structured, scalable database across major cotton-growing regions. In parallel, targeted field experiments will be designed and initiated, if needed, to address identified data gaps critical for training robust ML/AI models. The Ph.D. student will lead data compilation, preprocessing, feature engineering, and preliminary model development to evaluate predictive performance for irrigation response, crop growth, and yield outcomes. Initial prototype models will be developed and validated using historical and newly collected datasets. Results from this period will guide refinement of experimental designs and modeling strategies to support scalable, data-driven irrigation decision-support systems.
+[normal] Sanjay Antony-Babu, Texas A&M University
+[normal] Effect of different cotton management practices on Hyphal recruitment and community analysis (Brazos Bottom Fields, College Station, TX)
+[normal] During the next reporting period, research efforts will focus on expanding temporal and management-driven analyses of hyphal recruitment dynamics.
+[normal] - Conduct additional seasonal sampling to evaluate temporal variation in hyphosphere recruitment.
+[normal] - Complete alpha and beta diversity analyses for all newly generated datasets.
+[normal] - Expand functional prediction analyses to identify treatment-sensitive metabolic pathways.
+[normal] - Integrate hyphosphere recruitment data with soil community datasets to assess management-driven assembly patterns.
+[normal] These efforts will provide a more comprehensive understanding of how agronomic practices influence pathogenic fungal-mediated microbial recruitment and soil microbiome structure.
+[normal] Influence of organic management practices on cotton microbiome (Lamesa, TX)
+[normal] During the upcoming reporting period, work will focus on completing plant-associated microbiome processing and integrating soil and leaf datasets.
+[normal] - Complete remaining leaf DNA extractions.
+[normal] - Conduct 16S rRNA metabarcoding for leaf samples.
+[normal] - Perform community composition analyses for both soil and leaf microbiomes.
+[normal] - Conduct functional prediction and network analyses for leaf-associated communities.
+[normal] - Integrate soil and leaf datasets to assess cross-compartment microbial dynamics.
+[normal] Debankur Sanyal, The University of Arizona
+[normal] We already planted cover crops and are scheduled to plant the second season of cotton in late April and early May. We already collected soil samples at cover crop planting; two more soil sampling events are coming next. We will also collect cover crop biomass data.
+[normal] Jennifer Jo Thompson, University of Georgia
+[normal] During the next reporting period, we will continue data collection based on the field survey in GA. We will also share the instrument with SAS CAP teams in other areas of the US Cotton Belt for use with producers there. We plan to facilitate additional participatory workshops in collaboration with SHI to investigate producers’ perspectives on soil health and soil health reporting. Data from the field survey and participatory workshops will be analyzed, and reports will be written that summarize the process, results, and conclusions from the activities. One manuscript will be prepared and submitted for peer review.
+[normal] Ramon Leon-Gonzalez, North Carolina State University
+[normal] Obj 1.1: Sample collection of the remaining 25 fields, extension agents, and growers has been contacted to identify suitable fields. We will be renting soil core sampling equipment to speed up sample collection.
+[normal] CE2: Collecting the second year of data at the beginning of April, according to the protocol shared with the team.
+[normal] Nithya Rajan, Texas A&M University
+[normal] For the next reporting period (1 Apr 2026 – 31 Mar 2027), planned activities will focus on continuing field implementation in accordance with the established experimental protocols. This includes treatment maintenance, cover crop management, planting operations, field monitoring, biomass and yield sampling, and data collection in accordance with project protocols for all assigned objectives. Additional measurements and analyses will be conducted as scheduled to ensure the experiment's consistency and continuity across seasons.
+[normal] Drew Gholson, Mississippi State University
+[normal] An MS student is being recruited to assist in Objective 2. This will address irrigation scheduling advances using AI/ML and incorporate historical and current sensor data to reduce the cost of scheduling tools for cotton growers.
+[normal] Peter Dotray, Texas A&M AgriLife Research and Extension Center - Lubbock
+[normal] Per Objective 5, we plan on presenting research/extension updates at the Organic Cotton and Peanut Tour in Seminole, TX, later this 2026 summer, in addition to other county extension meetings this 2026 spring. PSS 4421 - Principles of Weed Science (Undergraduate/Graduate) will be taught again in the fall of 2026. Per Objective 6, we will employ a spring and summer undergraduate student worker to learn about chemical and non-chemical weed control tactics used in various cropping systems grown in the Southern High Plains of Texas.
+[normal] Alvaro Sanz-Saez, Auburn University
+[normal] Teaching Objective. Dr. Sanz-Saez has prepared one module regarding the importance of roots for crop growth for his Crop Physiology Class. In this module, he combined the reading of scientific papers and talks about the importance of roots for plant water and nutrient uptake in two lecture sessions. This module also talks about how we can study roots in the lab and in the field. This module was taught in class, but was recorded with an external camera, and the explanation could not be followed completely. For that reason, during the late Spring or Summer semester, Dr. Sanz will record the two sessions that will make up the module so they are available to share with the group. Once recorded, this module will also be part of his class, Principles of Plant Nutrition, which is in part online.
+[normal] Andrew Jordan and Ashley Barth, Agricenter International, Memphis, TN
+[normal] 1. experimental design, field prep, land preparation, including fertilizer and resource acquisition.
+[normal] Describe major changes/problems in approach and reason(s) for these major changes. If applicable, provide special and/or additional reporting requirements specified in the award Terms and Conditions.
+[normal] Dr. Jake Mowrer, Texas A&M University
+[normal] At times, the limited availability of essential equipment or laboratory materials, particularly with a large number of students using the facilities, results in delays and extends the time required to complete specific experimental activities.
+[normal] Dr. Rajan Ghimire, New Mexico State University
+[normal] On-farm soil sampling was slightly delayed due to miscommunication. We are back on track, and sampling is scheduled in Spring 2026
+[normal] Nicholas T. Basinger, University of Georgia
+[normal] Soil Sampling:
+[normal] Weather and soil (very dry) conditions have delayed sampling.
+[normal] Late updates from growers saying they're working on the fields, so they don't want people getting in.
+[normal] For this year, we will try to have constant and better communication with growers.
+[normal] Not having enough people at certain times delayed sampling due to class schedules or personal situations. We've hired someone to specifically help us with sampling for certain dates.
+[normal] Living mulch:
+[normal] Late planting of grasses due to the late harvest of the crop in that spot. This depends on the research station staff.
+[normal] Late application of herbicides, and we'll try to be more on top of things.
+[normal] Karthikeyan Kannappan, GaiaDhi AgTech for Texas A&M
+[normal] Working on steps to expand the digital solution to broader stakeholders.
+[normal] Jennifer Jo Thompson, University of Georgia
+[normal] One challenge was recruitment for the April 2026 focus groups, whose timing was delayed due to the need to develop more robust working relationships with extension officers and non-extension partners in the region. The challenge was addressed by working more closely with SHI to recruit cotton farmers in the region with whom they had previously worked.
+[normal] Nithya Rajan, Texas A&M University
+[normal] During the reporting period, no major changes to the project objectives or work plans were required. Some minor field-related challenges were encountered, including variability in weather conditions and timing constraints during field operations, which occasionally affected the scheduling of treatment applications and sampling activities in support of the cotton production objective. These were addressed by adjusting field operation timing while maintaining the experimental protocol and ensuring that all planned measurements and data collection were completed as consistently as possible. At this stage, no changes to the objective or overall work plan are requested.
+[normal] Drew Gholson, Mississippi State University
+[normal] Recruitment of students for irrigation scheduling with AI/ML. The student is now in place and working directly with TAMU.
+[normal] Alvaro Sanz-Saez, Auburn University
+[normal] Due to the low number of seeds last year, we had to plant only 4 replications, which made it difficult to obtain robust results and big differences between cultivars. For that reason, we harvested a lot more seed, and this year we will have enough to plan 5 replications in each location (Alabama and Texas)
+[normal] Andrew Jordan and Ashley Barth, Agricenter International, Memphis, TN
+[normal] We had a major delay in planting the 2025 crop because of a combination of unusually wet weather during the typical planting season and malfunction disk harrow at a critical window. As a result cotton the cotton was planted after the ideal period for maximum cotton production. However, because this experiment was primarily one to evaluate weed management and control, the experiment was successful in improving our knowledge of plant and weed management in organic production systems. Another major unanticipated setback was in the use of the autonomous tractor (ANT); software issues delayed timely weed control treatments, which had a deleterious effect of learnings of the learning of the experimental treatments.
+[normal] Identify the products/outputs that are expected to be achieved during the life of this project. 8,000 character limit.
+[normal] Activities: conducting field, greenhouse, and laboratory experiments; training undergraduate students, graduate students, and postdocs; and communicating research findings through various outreach activities
+[normal] Events: events include field days and communicating research updates at regional and national conferences and industry stakeholder meetings relevant to organic cotton production
+[normal] Products: products include scientific data, presentations, and peer-reviewed research publications. These products will lead to an ultimate change in knowledge pertaining to organic cotton production. The outcomes will also include the identification of organic cotton production practices that are effective, economical, and sustainable.
+[normal] Conference abstracts/proceedings:
+[normal] Ramachandran, R., Mowrer, J. E., Bagavathiannan, M., Rajan, N., & Isakeit, T. (2025). 120 Years of Cotton Cultivar Development: Impacts on Root Morphology and Potassium Response [Abstract]. Texas Plant Protection Association 2025, Bryan, TX.
+[normal] Ramachandran, R., Mowrer, J. E., Bagavathiannan, M., Rajan, N., & Isakeit, T. (2025). 120 Years of Cotton Cultivar Development: Impacts on Root Morphology and Potassium Response [Abstract]. CANVAS 2025, Salt Lake City, UT. https://scisoc.confex.com/scisoc/2025am/meetingapp.cgi/Paper/166800.
+[normal] Ramachandran, R., Mowrer, J. E., Bagavathiannan, M., & Rajan, N. (2025). Advancing Wet Aggregate Stability Measurement: A Comparison of Conventional and Modern Field Techniques [Abstract]. CANVAS 2025, Salt Lake City, UT. https://scisoc.confex.com/scisoc/2025am/meetingapp.cgi/Paper/166789
+[normal] Ghimire, R., S. Sapkota, J.P. Frene, S.M.U. Salehin, and S.V. Angadi. Soil health and organic carbon responses to the circular buffer strips of perennial grasses. Royal College UK. April 9, 2025 (Webinar).
+[normal] Ghimire, R. and S.V. Angadi. Circular buffer strips of native perennial grasses: an innovative way to add multiple benefits to center pivot irrigated agriculture. Colorado State University, Department of Soil and Crop Science Special Seminar. April 2, 2025, Fort Collins, CO.
+[normal] Ghimire R. and S.V. Angadi. Soil health and organic carbon responses to the circular buffer strips of perennial grasses. Multiple presentations to farmers in eastern Colorado. March 31-April 1, 2025.
+[normal] Mollaee M, Coello SG, Sanz-Saez A, Bagavathiannan M, Maity A. 2026. Field Evaluation for Allelopathic Potential of 120 Cotton Lines Against Southern Weeds for Sustainable Weed Management
+[normal] Control. In: Proceedings of the Southern Weed Science Society Annual Meeting. Nashville, TN. March 8-10, 2026.
+[normal] Nimakoh, M., D. Hudson, and M. Bagavathiannan. 2026. An Analysis of Precision Management Technologies and Agricultural Productivity in the U.S. Presentation to the Southern Agricultural Economics Association Annual Meeting, Louisville, KY.
+[normal] Taylor, C., D. Hudson, Y. Che, and C. Wang. 2026. Potential Insurance Implications of Climate Smart Production Practices. Presentation to the Southern Agricultural Economics Association Annual Meeting, Louisville, KY.
+[normal] Nimakoh, M., D. Hudson, and M. Bagavathiannan. 2026. An Analysis of Precision Management Technologies and Agricultural Productivity in the U.S. Presentation to the Beltwide Cotton Conferences Economics and Marketing Conference, San Antonio, TX.
+[normal] Taylor, C., D. Hudson, Y. Che, and C. Wang. 2026. Potential Insurance Implications of Climate Smart Production Practices. Presentation to the Beltwide Cotton Conferences Economics and Marketing Conference, San Antonio, TX.
+[normal] Priscila Campos, Himani Ahlawat, Kamana Pilania, Sydney Buffington, Muthu Bagavathiannan, Gaylon Morgan, Nicholas Basinger. 2026. How Cool Are Living Mulches? Cool-Season Perennial Grasses for Weed Management in Cotton. Weed Science Society of America. Raleigh, NC.
+[normal] Priscila Campos, Himani Ahlawat, Kamana Pilania, Sydney Buffington, Muthu Bagavathiannan, Gaylon Morgan, Nicholas Basinger. 2026. How Cool Are Living Mulches? Cool-Season Perennial Grasses for Weed Management in Cotton. Southern Cover Crop Council Conference. Gainesville, FL.
+[normal] Priscila Campos, Himani Ahlawat, Kamana Pilania, Sydney Buffington, Muthu Bagavathiannan, Gaylon Morgan, Nicholas Basinger. 2026. Evaluating Perennial Cool-Season Grasses for Weed Suppression in Cotton Production. Southern Weed Science Society. Nashville, TN.
+[normal] Abeysinghe G, Wagner T, Santos J, Parunandi S, Nagy E, Mohsin F, Bagavathiannan M, Antony-Babu S. Organic cotton practices reshape hyphosphere microbiota and modulate the microbial response to Fusarium oxysporum f. sp. vasinfectum Race 4. Oral presentation presented at: Disease Council, Beltwide Cotton Conference, 2026; San Antonio, TX, USA.
+[normal] Parunandi, S.S., Abeysinghe, G., Bagavathiannan, M., Rajan, N., and Antony-Babu. Ecosystem Resilience and Microbial Diversity in Cotton Systems Under Organic, Transitional, and Conventional Management [oral presentation]. In: Beltwide Cotton Conference; 2026 Jan 7–9; San Antonio (TX), USA. 3rd Prize (Student Competition)
+[normal] Wagner TA, Abeysinghe G, Santos J, Antony-Babu S. Functional dissection and experimental reassembly of the hyphosphere FOV4 pathobiome. Poster presented at the Beltwide Cotton Conference in San Antonio, TX, Jan 7-9, 2026.
+[normal] Santos J, Abeysinghe G, Wagner T, Parunandi S, Bagavathiannan M, Antony-Babu S. A hyphal-baiting method for enriching hyphosphere bacteria associated with Fusarium oxysporum f. sp. vasinfectum Race 4. Poster presented at: BESC Symposium, Department of Plant Pathology and Microbiology; 2025; Texas A&M University, College Station, TX, USA. (First place poster award for Josh Santos)
+[normal] Abeysinghe G, Antony-Babu S. Hyphosphere recruitment dynamics of Fusarium oxysporum f. sp. vasinfectum Race 4 in cotton soils. Oral presentation (flash talk) presented at: 9th Annual Texas A&M Postdoctoral Research Symposium; 2025; Texas A&M University, College Station, TX, USA
+[normal] Gayan Abeysinghe, Elek Nagy, Tanya Wagner, Shravan Sharma Parunandi, Joshua Santos, Muthu Bagavathiannan, Sanjay Antony-Babu. (2026). Reconstructing the hyphosphere using a hyphal release-capture soil microcosm. (In preparation)
+[normal] Gayan Abeysinghe, Sanjay Antony-Babu. The “Hyphosphere-Pathobiome”: A New Paradigm in Soil-Borne Pathogenesis. (2026) (submitted - FEMS Microbiology Reviews)
+[normal] Parunandi, S.S., Abeysinghe, G., Bagavathiannan, M., Rajan, N. and Antony-Babu, S. (2026) Transition to organic management reshapes soil microbiome assembly, functional potential, and cultivable diversity. (in preparation)
+[normal] Parunandi, S.S., Abeysinghe, G., Bagavathiannan, M., Rajan, N. and Antony-Babu, S. (2026) Organic transition alters soil-leaf microbiome connectivity in cotton agroecosystems. (in preparation)
+[normal] Sanyal, D., Mayo, K., Thodeti, P., Aswin, D., Stackpole, C., Fahlgren, K., Norton, R. 2026. Soil Management in the Irrigated Desert Cotton Production Systems. Cotton Production Seminar, Casa Grande, AZ.
+[normal] Sanyal, D., Mayo, K., Thodeti, P., Aswin, D., Stackpole, C., Fahlgren, K., Norton, R. 2026. Updates from Regenerative Cotton Research in Arizona. Crop Production Seminar, Safford, AZ.
+[normal] Seigerman, C. K. & Thompson, J. J. How King Cotton Continues to Haunt Georgia Cotton Farming. American Anthropological Association Annual Meeting, New Orleans, Louisiana, November 2025. (Oral presentation).
+[normal] Seigerman, C. K. & Thompson, J. J. (In prep). How Researchers’ Social Capital Affects Who Participates in On-Farm Research. In preparation for Agricultural and Human Values.
+[normal] Jackson, A.W., Moore, V.M., Reberg-Horton, C., Mirsky, S.B., & Leon, R.G. (2025). Seed age changes the germination response of weed species to cereal rye (Secale cereale) allelopathy. Weed Science, 73(e9), 1-6.
+[normal] Goldsmith, A., Austin, R., Cahoon, C.W., & Leon, R.G. (2025). Predicting maize yield loss with crop-weed leaf cover ratios determined with UAS imagery. Weed Science, 73(e22), 1-9.
+[normal] Oreja, F.H., Mahoney, D.J., Jordan, D.L., Jennings, K.M., Vann, M., & Leon, R.G. (2025). Crop rotation and herbicide program effects on Palmer amaranth and common ragweed population growth rate. Crop, Forage, & Turfgrass Management 11, e70022.
+[normal] Leon, R.G., C. Perera, V. Moore, S.C. Reberg-Horton, S.B. Mirsky, L. Kissing Kucek. 2025. Cereal rye (Secale cereale) cultivars differ in allelopathic activity, inhibiting growth in unique ways depending on weed and crop species. CANVAS 2025, Salt Lake City, UT.
+[normal] Goldsmith, A., E. Almeida, A. Dobbs, R. Leon. 2025. Evaluation of Brassica carinata A. Braun crop safety to potential herbicide programs. Weed Science Society of America and Canadian Weed Science Society. Annual Meeting. Vancouver, Canada.
+[normal] Goldsmith, A., A. Dobbs, R. Leon. 2025. Comparison of cover crop biomass predictions to summer annual weed escapes using spatial analysis techniques. Weed Science Society of America and Canadian Weed Science Society. Annual Meeting. Vancouver, Canada.
+[normal] Kariyawasam Hetti Gamage, L. R., Poudyal, C., Bagavathiannan, M., & Rajan, N. (2025). Evaluating cover crop termination strategies for sustainable cotton production in raised bed and flat planting systems [Abstract]. ASA–CSSA–SSSA International Annual Meeting (CANVAS 2025), Salt Lake City, UT.
+[normal] Gamage, L. K. H., Poudyal, C., & Rajan, N. Assessing the impact of raised bed and non-raised bed planting systems with cover crops on cotton productivity in the Texas Blackland region [Proceeding Paper]. Beltwide Cotton Conferences, San Antonio, TX, 2026.
+[normal] Gamage, L. K. H., Poudyal, C., & Rajan, N. Assessing the relationship between UAV-derived NDVI and nitrogen use dynamics in cotton under variable cover crop and bed management systems [Proceeding Paper]. Beltwide Cotton Conferences, San Antonio, TX, 2026. (processing)
+[normal] Gamage, L. K. H., Poudyal, C., & Rajan, N. Assessing the impact of raised bed and non-raised bed planting systems with cover crops on cotton productivity in the Texas Blackland region (Oral presentation). Beltwide Cotton Conferences, San Antonio, TX, 2026.
+[normal] Gamage, L. K. H., Poudyal, C., & Rajan, N. Assessing the relationship between UAV-derived NDVI and nitrogen use dynamics in cotton under variable cover crop and bed management systems (Poster presentation). Beltwide Cotton Conferences, San Antonio, TX, 2026.
+[normal] Singletary, M.M., P.A. Dotray, J. Burke, W. Keeling, Y. Breaux, S. Jones, M.V. Bagavathiannan. 2026. Cereal Rye Seeding Rate and Termination Method on Weed Suppression in Organic Cotton. In: Proceedings of the Southern Weed Science Society Annual Meeting. Nashville, TN.
+[normal] Singletary, M.M., P.A. Dotray, Y. Breaux, S. Jones, M.V. Bagavathiannan. 2026. Organic Herbicides for Terminating a Cereal Rye Cover Crop. In: Proceedings of the Southern Weed Science Society Annual Meeting. Nashville, TN.
+[normal] Certification
+[normal] As part of this report, you must complete the USDA Departmental Regulation (DR) 1020-006 Certification Statement. For more information on USDA Departmental Regulation (DR) 1020-006, please review the information and resources on the Public Access for NIFA-Funded Work webpage. Please select the option below that applies to this project/program.
+[normal] I certify that reporting for this project/program complies with USDA DR 1020-006 concerning scholarly publications and data assets produced from extramural research supported wholly or in part by USDA/NIFA, for the current reporting period:
+[normal] Yes, any applicable scholarly publications have been submitted to the National Agricultural Library's (NAL) PubAg, and any applicable data assets have been submitted to NAL's Ag Data Commons. These submissions included the NIFA grant or accession number and digital persistent identifiers for the publication or data asset (such as DOI) and the authors (such as ORCID).
+[normal] Yes, this project/program did not produce any scholarly publications during the reporting period, and all data assets produced are exempt from DR 1020-006.
+[normal] N/A, this project/program did not produce any scholarly publications and data assets as defined by DR 1020-006 during the reporting period.
+
+==========================================================================================

@@ -1,5 +1,7 @@
 import { CalendarDays, Clock, MapPin } from "lucide-react";
+import Image from "next/image";
 import type { EventItem } from "@/content/events";
+import { getAssetPath } from "@/utils/path";
 
 type CalendarEvent = EventItem & {
   sortDate: Date;
@@ -79,6 +81,24 @@ function EventDetail({ event }: { event: CalendarEvent }) {
         </p>
       </div>
       <p className="mt-3 text-sm leading-6 text-cotton-900/70">{event.summary}</p>
+      {event.image ? (
+        <figure className="mt-4 overflow-hidden rounded-md border border-cotton-200 bg-cotton-50">
+          <a href={getAssetPath(event.image)} target="_blank" rel="noreferrer" aria-label={`Open ${event.imageCaption ?? event.title}`}>
+            <Image
+              src={getAssetPath(event.image)}
+              width={900}
+              height={1200}
+              alt={event.imageAlt ?? event.title}
+              className="h-auto w-full object-contain"
+            />
+          </a>
+          {event.imageCaption ? (
+            <figcaption className="border-t border-cotton-200 px-3 py-2 text-xs font-medium text-cotton-900/70">
+              {event.imageCaption}
+            </figcaption>
+          ) : null}
+        </figure>
+      ) : null}
     </article>
   );
 }

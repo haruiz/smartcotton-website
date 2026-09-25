@@ -1,92 +1,92 @@
 "use client";
 
-import Image from "next/image";
-import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useEffect, useState } from "react";
 import { getAssetPath } from "@/utils/path";
 
-type CarouselSlide = {
-  image: string;
-  alt: string;
+type HeroClip = {
+  src: string;
+  poster: string;
   label: string;
 };
 
-const slides: CarouselSlide[] = [
+const introClip: HeroClip = {
+  src: "/videos/smartcotton-hero-intro.mp4",
+  poster: "/images/project-photos/cotton-row-canopy.jpg",
+  label: "SmartCotton field research"
+};
+
+const heroClips: HeroClip[] = [
   {
-    image: "/images/cotton-field-research-real.png",
-    alt: "Cotton research field with white bolls and trial markers",
-    label: "Field-scale systems research"
+    src: "/videos/cotton-harvest-hero-01-0102-0115.mp4",
+    poster: "/images/project-photos/cotton-harvest-machinery.jpg",
+    label: "Cotton harvest in motion"
   },
   {
-    image: "/images/precision-cotton-banner-real.png",
-    alt: "Cotton rows with field sensors and a monitoring drone",
-    label: "AI and precision agriculture"
-  },
-  {
-    image: "/images/soil-carbon-banner-real.png",
-    alt: "Cotton plant roots exposed in healthy field soil",
-    label: "Soil health and carbon"
+    src: "/videos/cotton-harvest-hero-02-0308-0321.mp4",
+    poster: "/images/project-photos/cotton-open-boll-field.jpg",
+    label: "Field-scale harvest activity"
   }
 ];
 
 export function BannerCarousel() {
   const [activeIndex, setActiveIndex] = useState(0);
+  const [showIntro, setShowIntro] = useState(true);
+
+  useEffect(() => {
+    const introTimer = window.setTimeout(() => {
+      setShowIntro(false);
+    }, 5000);
+
+    return () => window.clearTimeout(introTimer);
+  }, []);
 
   useEffect(() => {
     const timer = window.setInterval(() => {
-      setActiveIndex((index) => (index + 1) % slides.length);
-    }, 6500);
+      setActiveIndex((index) => (index + 1) % heroClips.length);
+    }, 12000);
 
     return () => window.clearInterval(timer);
   }, []);
 
-  const showPrevious = () => {
-    setActiveIndex((index) => (index === 0 ? slides.length - 1 : index - 1));
-  };
-
-  const showNext = () => {
-    setActiveIndex((index) => (index + 1) % slides.length);
-  };
-
   return (
-    <div className="absolute inset-0" aria-label="SmartCotton research image carousel">
-      {slides.map((slide, index) => (
-        <Image
-          key={slide.image}
-          src={getAssetPath(slide.image)}
-          alt={slide.alt}
-          fill
-          priority={index === 0}
-          sizes="100vw"
-          className={`object-cover transition-opacity duration-700 ${
+    <div className="absolute inset-0" aria-hidden="true">
+      <video
+        className={`absolute inset-0 z-10 h-full w-full object-cover brightness-[0.72] saturate-[0.9] transition-opacity duration-1000 ${
+          showIntro ? "opacity-100" : "opacity-0"
+        }`}
+        autoPlay
+        muted
+        loop
+        playsInline
+        preload="metadata"
+        poster={getAssetPath(introClip.poster)}
+      >
+        <source src={getAssetPath(introClip.src)} type="video/mp4" />
+      </video>
+      {heroClips.map((clip, index) => (
+        <video
+          key={clip.src}
+          className={`absolute inset-0 h-full w-full object-cover brightness-[0.72] saturate-[0.9] transition-opacity duration-1000 ${
             index === activeIndex ? "opacity-100" : "opacity-0"
           }`}
-        />
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="metadata"
+          poster={getAssetPath(clip.poster)}
+        >
+          <source src={getAssetPath(clip.src)} type="video/mp4" />
+        </video>
       ))}
-      <div className="absolute inset-0 bg-gradient-to-r from-cotton-900/90 via-cotton-900/70 to-cotton-900/20" />
+      <div className="absolute inset-0 bg-gradient-to-r from-cotton-950 via-cotton-950/86 via-[58%] to-cotton-950/32" />
+      <div className="absolute inset-0 bg-gradient-to-t from-cotton-950/78 via-cotton-950/24 to-cotton-950/52" />
+      <div className="absolute inset-0 bg-cotton-950/24" />
       <div className="absolute inset-x-0 bottom-5 z-20">
-        <div className="container-page flex items-center justify-between gap-4">
-          <p className="hidden rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white backdrop-blur sm:block">
-            {slides[activeIndex].label}
+        <div className="container-page">
+          <p className="inline-flex rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white backdrop-blur">
+            {showIntro ? introClip.label : heroClips[activeIndex].label}
           </p>
-          <div className="flex items-center gap-2">
-            <button
-              type="button"
-              className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-full border border-white/25 bg-white/15 text-white backdrop-blur hover:bg-white/25"
-              onClick={showPrevious}
-              aria-label="Show previous banner image"
-            >
-              <ChevronLeft aria-hidden="true" size={20} />
-            </button>
-            <button
-              type="button"
-              className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-full border border-white/25 bg-white/15 text-white backdrop-blur hover:bg-white/25"
-              onClick={showNext}
-              aria-label="Show next banner image"
-            >
-              <ChevronRight aria-hidden="true" size={20} />
-            </button>
-          </div>
         </div>
       </div>
     </div>
